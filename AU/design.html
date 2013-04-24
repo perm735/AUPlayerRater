@@ -1,0 +1,68 @@
+<html><body>
+<pre><font size=4 face="Veranda">
+<h1>Player Rater</h1>
+Program for rating players and determining a price value based on statistics and salary cap.  
+
+Future considerations include:
+<li>Player trends
+<li>Age considerations
+<li>...
+
+<h2>Why Java?</h2>
+The application will be launched as a Swing based Applet from a browser.  Java uses a platform based JRE to interpret common bytecode.  This allows my application to run on any platform and makes it highly portable.
+
+<h2>Data Source</h2>
+One of the hardest things for this kind of application is a data source.  Baseball uses statistics to determine the value of a player.  These statistics are used in fantasy baseball to determine a players value or rating.  I will use the CSV files provided by CBS Sportsline to generate the data used to determine a players rating.
+
+<h2>Milestones</h2>
+Outline of milestones in anticipation of a release.
+<h3>Base rating functionality</h3>
+<b>Requirements</b>
+The first milestone should provide the ability to import data, sort data, provide ratings, and display results.  The first milestone will not include a substantial graphics component and will use command line arguements for determining sort type, value, and other information.
+
+Data source: This release will use CSV files that are located in a known location.
+
+<h3>Applet packaging</h3>
+<b>Requirements</b>
+The second milestone should allow the application to launch itself from a browser and output the results.
+
+Data source: Known location, static data.
+
+<h2>Design</h2>
+This section will outline how the application will provide the following requirements:
+Data
+<li> Importing data from a CSV
+<li> Store the data for batters AND pitchers
+<li> Sorting algorithm for each statistic
+
+Hitter Statistics
+<li> At bats
+<li> Hits
+<li> Singles
+<li> Doubles
+<li> Triples
+<li> HR
+<li> Stolen bases
+<li> Batting average
+<li> On Base Percentage
+<li> Slugging Percentage 
+
+Pitcher Statistics
+<li> Innings pitched
+<li> Wins
+<li> Strikeouts
+<li> Walks
+<li> Hits allowed
+<li> Earned runs
+
+Overall rating
+<li> Player Ranking by position
+<li> Position Scarcity scalar
+<li> Percentage of a teams salary
+<li> Tiered based scalar
+
+
+
+
+</font></pre>
+</body></html>

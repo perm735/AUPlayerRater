@@ -1,454 +1,454 @@
 All Catchers 3 Year Averages MLB Standard Stats
-Player,Team,AB,R,H,1B,2B,3B,HR,RBI,BB,KO,SB,CS,BA,OBP,SLG,Rank,
-"Molina, Yadier C STL",Old Dirty Bugg,495,63,155,104,35,0,16,74,36,51,6,3,0.3131,0.3606,0.4808,71
-"Santana, Carlos C CLE ",Whiteness,533,77,135,77,34,2,22,76,94,115,4,3,0.2533,0.3648,0.4484,90
-"Wieters, Matt C BAL ",Want-a-be Ghetto All Stars,516,66,128,78,28,0,22,77,50,100,2,0,0.2481,0.3141,0.4302,113
-"Posey, Buster C SF",Disco Bush Horticulturists,404,52,126,85,26,1,14,65,49,65,2,1,0.3119,0.3879,0.4851,132
-"Lucroy, Jonathan C MIL ",Shits & Giggles,422,50,120,83,19,4,14,66,32,71,5,1,0.2844,0.3369,0.4479,146
-"Mauer, Joe C MIN ",Titty`s Warriors,429,60,134,98,27,1,8,54,61,72,3,2,0.3124,0.3988,0.4359,156
-"Montero, Miguel C ARI",Free Agent,464,58,124,83,25,1,15,72,57,112,0,0,0.2672,0.3546,0.4224,157
-"Pierzynski, A.J. C BOS ",User Abuser,482,51,134,91,24,2,17,65,21,62,0,0,0.2780,0.3146,0.4419,162
-"McCann, Brian C NYY",EVIL EMPIRE,420,46,106,70,15,0,21,65,47,77,2,1,0.2524,0.3305,0.4381,177
-"Saltalamacchia, Jarrod C MIA",Whiteness,396,58,97,51,27,1,18,60,35,132,2,1,0.2449,0.3065,0.4545,187
-"Rosario, Wilin C COL",Sofa Kings,300,45,83,50,15,1,17,53,14,76,3,2,0.2767,0.3091,0.5033,197
-"Martin, Russell C PIT ",User Abuser,426,53,96,59,19,0,18,58,54,95,8,3,0.2254,0.3217,0.3967,202
-"Gattis, Evan OF ATL",Sofa Kings,354,44,86,44,21,0,21,65,21,81,0,0,0.2429,0.2906,0.4802,204
-"Avila, Alex C DET ",Free Agent,387,48,100,62,23,2,13,59,59,116,2,0,0.2584,0.3562,0.4289,233
-"Ruiz, Carlos C PHI",Orange-a-Tangs,364,45,107,74,24,0,9,48,32,46,2,0,0.2940,0.3667,0.4341,253
-"Arencibia, J.P. C TEX",Titty`s Warriors,421,46,90,50,18,1,21,63,24,130,1,1,0.2138,0.2594,0.4109,255
-"Doumit, Ryan C ATL ",Floaters and Sinkers,396,41,106,67,25,1,13,53,31,77,0,0,0.2677,0.3226,0.4343,270
-"Perez, Salvador C KC",Shits & Giggles,311,35,94,67,16,2,9,46,13,37,0,0,0.3023,0.3313,0.4534,300
-"Buck, John C SEA ",Old Dirty Bugg,400,36,86,57,14,1,14,53,44,107,1,1,0.2150,0.3009,0.3600,377
-"Ramos, Wilson C WAS ",EVIL EMPIRE,253,29,68,46,11,0,11,40,22,46,0,1,0.2688,0.3285,0.4427,379
-"Iannetta, Chris C LAA",Orange-a-Tangs,297,39,69,44,13,1,11,40,56,83,2,2,0.2323,0.3565,0.3939,380
-"Soto, Geovany C TEX",Free Agent,303,37,67,39,16,0,12,38,32,87,1,1,0.2211,0.3009,0.3927,407
-"Ellis, A.J. C LAD",Free Agent,299,32,77,55,13,1,8,38,41,67,0,1,0.2575,0.3516,0.3880,422
-"Suzuki, Kurt C MIN ",Free Agent,384,38,90,62,20,0,8,40,27,57,2,1,0.2344,0.2898,0.3490,426
-"Jaso, John C OAK ",Free Agent,249,33,64,42,15,1,6,33,40,44,3,1,0.2570,0.3639,0.3976,430
-"Castro, Jason C HOU ",SA`s,231,31,62,36,17,1,8,28,27,64,1,0,0.2684,0.3435,0.4545,437
-"Norris, Derek C OAK",Floaters and Sinkers,236,30,54,34,12,0,8,32,29,68,5,0,0.2288,0.3160,0.3814,444
-"Olivo, Miguel C MIA ",Free Agent,289,29,64,40,12,0,12,33,11,83,3,4,0.2215,0.2475,0.3875,447
-"Gomes, Yan C CLE ",Free Agent,196,27,53,33,11,1,8,26,12,50,1,0,0.2704,0.3226,0.4592,480
-"Pacheco, Jordan 1B COL ",Free Agent,269,26,77,57,16,1,3,30,12,36,2,1,0.2862,0.3193,0.3866,492
-"Hundley, Nick C SD",Free Agent,286,28,67,43,14,2,8,32,21,76,1,1,0.2343,0.2939,0.3811,524
-"Montero, Jesus C SEA ",Free Agent,226,20,58,43,8,0,7,28,15,46,0,1,0.2566,0.3020,0.3850,558
-"Navarro, Dioner C TOR",Want-a-be Ghetto All Stars,162,17,42,29,5,1,7,21,15,28,0,0,0.2593,0.3240,0.4321,629
-"Hernandez, Ramon C KC ",Free Agent,177,16,45,30,8,0,7,23,12,27,0,0,0.2542,0.3057,0.4181,632
-"Molina, Jose C TB",Free Agent,235,24,57,41,12,0,4,22,19,56,2,1,0.2426,0.3035,0.3447,636
-"Barajas, Rod C ARI ",Free Agent,209,19,45,28,8,0,9,26,17,47,0,0,0.2153,0.2845,0.3828,640
-"Torrealba, Yorvit C COL",Free Agent,256,23,65,47,14,0,4,22,17,43,0,1,0.2539,0.3018,0.3555,655
-"Castillo, Welington C CHC",Disco Bush Horticulturists,188,19,50,35,11,0,4,18,17,51,1,0,0.2660,0.3381,0.3883,662
-"Hanigan, Ryan C TB",Free Agent,268,23,67,55,9,0,3,25,36,32,0,0,0.2500,0.3463,0.3172,664
-"Ross, David C BOS",Free Agent,143,14,36,24,6,0,6,19,15,51,1,0,0.2517,0.3208,0.4196,678
-"Pena, Brayan C CIN",Free Agent,221,17,58,44,11,0,3,24,9,25,0,1,0.2624,0.2894,0.3529,686
-"McKenry, Michael C COL ",Free Agent,178,17,40,23,11,0,6,21,16,49,0,0,0.2247,0.2929,0.3876,722
-"Flowers, Tyler C CHW ",Free Agent,167,19,34,20,7,0,7,18,13,63,1,1,0.2036,0.2757,0.3713,724
-"Kottaras, George C CHC",Free Agent,127,16,27,15,5,1,6,20,24,39,0,0,0.2126,0.3421,0.4094,734
-"Mesoraco, Devin C CIN",Free Agent,179,18,40,27,8,0,5,21,15,35,0,1,0.2235,0.2806,0.3520,740
-"Pinto, Josmil C MIN",Free Agent,76,10,26,17,5,0,4,12,6,22,0,0,0.3421,0.3976,0.5658,742
-"Shoppach, Kelly C CLE",Free Agent,183,19,37,21,8,1,7,19,16,71,0,0,0.2022,0.2899,0.3716,752
-"Zunino, Mike C SEA ",Whiteness,173,22,37,27,5,0,5,14,16,49,1,0,0.2139,0.2902,0.3295,755
-"Kratz, Erik C TOR",Free Agent,115,12,26,14,6,0,6,17,10,27,0,0,0.2261,0.2891,0.4348,760
-"Grandal, Yasmani C SD ",SA`s,93,14,25,17,5,0,3,15,16,19,0,0,0.2688,0.3784,0.4194,767
-"Thole, Josh C TOR",Free Agent,260,19,62,48,12,0,2,23,26,41,0,1,0.2385,0.3114,0.3077,774
-"Lobaton, Jose C TB ",Free Agent,159,19,37,24,9,1,3,17,19,40,0,1,0.2327,0.3167,0.3585,776
-"Mathis, Jeff C MIA",Free Agent,230,19,44,28,11,0,5,26,15,73,1,1,0.1913,0.2419,0.3043,785
-"Stewart, Chris C PIT",Free Agent,199,21,43,33,7,0,3,16,19,29,2,0,0.2161,0.2915,0.2965,787
-"Laird, Gerald C ATL",Free Agent,130,16,35,25,8,1,1,12,12,21,1,1,0.2692,0.3379,0.3692,802
-"Sanchez, Hector C SF",Free Agent,126,10,34,25,7,0,2,18,5,29,0,0,0.2698,0.3008,0.3730,805
-"Phegley, Josh C CHW",Free Agent,204,14,42,31,7,0,4,22,5,41,2,0,0.2059,0.2227,0.2990,810
-"Maldonado, Martin C MIL",Free Agent,139,12,31,22,5,0,4,17,10,37,0,0,0.2230,0.2848,0.3453,840
-"Conger, Hank C LAA",Free Agent,143,12,33,22,7,0,4,14,12,33,0,0,0.2308,0.2975,0.3636,861
-"Quintero, Humberto C SEA ",Free Agent,177,12,42,30,10,0,2,19,5,37,0,0,0.2373,0.2609,0.3277,867
-"Cervelli, Francisco C NYY ",Free Agent,59,10,16,12,2,0,2,10,6,13,1,0,0.2712,0.3485,0.4068,871
-"Marson, Lou C PHI ",Free Agent,147,18,33,26,6,1,0,11,21,37,3,1,0.2245,0.3235,0.2789,881
-"Corporan, Carlos C HOU",Free Agent,141,10,31,22,5,0,4,15,8,43,0,0,0.2199,0.2792,0.3404,904
-"Brantly, Rob C MIA",Free Agent,162,12,38,28,8,0,2,13,14,34,0,0,0.2346,0.2961,0.3210,941
-"Snyder, Chris C BAL ",Free Agent,112,12,22,15,4,0,3,14,18,33,0,0,0.1964,0.3158,0.3125,947
-"Nieves, Wil C PHI",Free Agent,109,8,30,24,5,0,1,10,5,20,0,0,0.2752,0.3043,0.3486,957
-"Blanco, Henry C ARI ",Free Agent,99,10,19,11,4,0,4,11,10,25,0,0,0.1919,0.2661,0.3535,971
-"Cruz, Tony C STL",Free Agent,105,11,25,16,7,1,1,10,4,19,0,1,0.2381,0.2703,0.3524,991
-"Paulino, Ronny C SEA",Free Agent,97,8,26,20,5,0,1,8,5,16,0,0,0.2680,0.3010,0.3505,996
-"Lavarnway, Ryan C BOS",Free Agent,90,8,19,11,6,0,2,11,6,23,0,0,0.2111,0.2653,0.3444,1028
-"Sanchez, Tony C PIT",Free Agent,60,9,14,8,4,0,2,5,3,14,0,0,0.2333,0.2879,0.4000,1033
-"Vogt, Stephen C OAK",Free Agent,80,9,17,12,3,0,2,8,6,15,0,0,0.2125,0.2644,0.3250,1043
-"Hayes, Brett C KC ",Free Agent,87,9,19,11,6,0,2,7,5,30,0,0,0.2184,0.2609,0.3563,1059
-"Recker, Anthony C NYM",Free Agent,67,8,13,8,3,0,2,8,8,24,0,0,0.1940,0.2857,0.3284,1083
-"Flores, Jesus C LAD",Free Agent,121,9,26,18,6,0,2,9,6,29,0,1,0.2149,0.2500,0.3140,1086
-"Hester, John C LAA",Free Agent,42,8,9,7,0,0,2,2,4,12,0,0,0.2143,0.2826,0.3571,1114
-"Herrmann, Chris C MIN",Free Agent,88,8,16,10,4,0,2,10,10,27,0,0,0.1818,0.2653,0.2955,1116
-"Gimenez, Chris C TB ",Free Agent,54,5,13,10,2,0,1,5,6,13,0,0,0.2407,0.3167,0.3333,1151
-"Miller, Corky C CIN",Free Agent,35,2,9,4,5,0,0,8,5,6,0,0,0.2571,0.3659,0.4000,1183
-"Wilson, Bobby C ARI",Free Agent,94,8,19,14,4,0,1,7,8,16,0,1,0.2021,0.2621,0.2766,1198
-"Baker, John C SD ",Free Agent,82,6,18,15,3,0,0,6,9,19,1,0,0.2195,0.2967,0.2561,1200
-"Federowicz, Tim C LAD",Free Agent,59,4,13,9,3,0,1,6,4,21,0,0,0.2203,0.2698,0.3220,1201
-"Johnson, Rob C STL",Free Agent,89,5,18,13,3,1,1,7,7,25,1,0,0.2022,0.2653,0.2921,1202
-"Holaday, Bryan C DET",Free Agent,20,6,6,5,1,0,0,1,1,2,0,0,0.3000,0.3333,0.3500,1208
-"Whiteside, Eli C TEX",Free Agent,75,6,14,9,3,1,1,6,6,21,1,0,0.1867,0.2530,0.2933,1210
-"Solano, Jhonatan C WAS",Free Agent,42,4,9,6,2,0,1,4,2,6,0,0,0.2143,0.2500,0.3333,2301
-"Gimenez, Hector C CHW ",Free Agent,29,3,6,4,1,0,1,4,2,9,0,0,0.2069,0.2727,0.3448,2313
-"Nickeas, Mike C TOR",Free Agent,54,4,10,8,1,0,1,6,4,13,0,0,0.1852,0.2542,0.2593,2354
-"Castro, Ramon C LAD",Free Agent,23,2,5,3,1,0,1,3,2,8,0,0,0.2174,0.2800,0.3913,2359
-"Butera, Drew C LAD",Free Agent,118,9,21,15,5,0,1,9,7,24,0,0,0.1780,0.2302,0.2458,2379
-"Robinson, Chris C SD",Free Agent,12,1,2,1,0,0,1,3,0,3,0,0,0.1667,0.1667,0.4167,2395
-"Clevenger, Steve C BAL",Free Agent,75,6,15,10,5,0,0,6,6,15,0,0,0.2000,0.2593,0.2667,2402
-"Towles, J.R. C STL",Free Agent,49,4,9,6,2,0,1,4,4,9,0,0,0.1837,0.2545,0.2857,2403
-"Alfonzo, Eliezer C LAD",Free Agent,25,1,7,7,0,0,0,3,1,4,0,0,0.2800,0.3077,0.2800,2410
-"Teagarden, Taylor C NYM ",Free Agent,50,3,9,6,2,0,1,5,3,18,0,0,0.1800,0.2264,0.2800,2416
-"Romine, Austin C NYY",Free Agent,51,6,10,7,3,0,0,3,3,14,0,0,0.1961,0.2407,0.2549,2427
-"Jaramillo, Jason C HOU",Free Agent,14,0,5,4,1,0,0,2,1,4,0,0,0.3571,0.4000,0.4286,2429
-"Rupp, Cameron C PHI",Free Agent,13,1,4,3,1,0,0,2,1,4,0,0,0.3077,0.3571,0.3846,2431
-"Fryer, Eric C MIN",Free Agent,14,2,4,4,0,0,0,1,2,4,0,0,0.2857,0.3750,0.2857,2449
-"Hill, Koyie C MIA",Free Agent,77,7,14,11,2,0,1,3,5,22,0,0,0.1818,0.2317,0.2468,2458
-"Martinez, Luis C LAA",Free Agent,26,3,5,5,0,0,0,3,3,6,0,0,0.1923,0.3000,0.1923,2459
-"Rivera, Rene C SD",Free Agent,57,4,11,9,2,0,0,4,3,16,0,0,0.1930,0.2295,0.2281,2497
-"Leon, Sandy C WAS",Free Agent,16,1,4,3,1,0,0,1,2,6,0,0,0.2500,0.3684,0.3125,2501
-"Centeno, Juan C NYM",Free Agent,10,0,3,3,0,0,0,1,0,1,0,0,0.3000,0.3000,0.3000,2508
-"Moore, Adam C KC",Free Agent,9,1,2,1,1,0,0,1,1,2,0,0,0.2222,0.3000,0.3333,2509
-"Monell, Johnny C BAL",Free Agent,8,2,1,1,0,0,0,1,0,3,0,0,0.1250,0.2222,0.1250,2510
-"Carlin, Luke C CLE ",Free Agent,7,1,2,2,0,0,0,0,0,2,0,0,0.2857,0.2857,0.2857,2517
-"Pagnozzi, Matt C MIL",Free Agent,17,1,4,4,0,0,0,1,1,4,0,0,0.2353,0.2778,0.2353,2518
-"Stassi, Max C HOU",Free Agent,7,0,2,2,0,0,0,1,0,2,0,0,0.2857,0.3750,0.2857,2521
-"Sucre, Jesus C SEA",Free Agent,26,1,5,5,0,0,0,3,2,1,0,0,0.1923,0.2414,0.1923,2525
-"Pina, Manny C SEA ",Free Agent,5,1,1,0,1,0,0,0,0,1,0,0,0.2000,0.2000,0.4000,2540
-"Boscan, J.C. C LAD",Free Agent,9,0,2,2,0,0,0,1,0,3,0,0,0.2222,0.2222,0.2222,2543
-"Schmidt, Konrad C CIN",Free Agent,2,0,0,0,0,0,0,1,0,1,0,0,0.0000,0.0000,0.0000,2549
-"Hathaway, Aaron C NYM",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Yepez, Jose C ATL ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Bird, Greg C NYY",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"McCraw, Sean C NYM",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Pedro, Erick San C WAS",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Anderson, Dennis C CHC",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Perry, Patrick C BOS",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Knapp, Andrew C PHI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Deglan, Kellin C TEX",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Leyland, Patrick C DET",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Schneider, John C TOR",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Mercado, Orlando C LAD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Guevara, Orlando C PHI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Bock, Brian C BAL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Smith, Ryan D. C CHW",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Davis, Brad C DET",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Nieto, Adrian C CHW ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Vazquez, Christian C BOS",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Kroski, Chris C CIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Thibault, Kiel C KC",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Tarleton, Dallas C COL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Davidson, Kevin C HOU",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Chiaffredo, Paul C PIT",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Hansen, Josh C CHW",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Erickson, Gorman C LAD ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Britton, Phillip C ATL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Rojas, Nestor C SF",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Rosario, Alberto C BOS",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Neda, Rafael C MIL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Gibbs, Micah C CHC",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Swanner, William C COL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Garcia, Anthony C STL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Brown, Jason C NYY",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Gutierrez, Gabe C LAD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Roberts, Tyler C MIL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Sumi, Ikko C LAA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Jimenez, Jose C LAA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Kennelly, Timothy C PHI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Castillo, David C OAK",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Suomi, John C PHI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Gronauer, Kai C NYM",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Price, Jared C CHW",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Cordell, Brent C STL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Skelton, James C COL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Nicholas, Brett C TEX",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Easley, Ed C STL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Arnold, Jeff C SF",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"LaTorre, Tyler C SF",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Guarnaccia, Luke C SEA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Leger, Jose C MIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Moore, Johnathan C TEX",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Del Chiaro, Brent C LAA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Pena, Roberto C HOU",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Watts, Kristopher C WAS",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Cerda, Matthew C CHC",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Spring, Matt C BOS ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Munhall, Brian C SF",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Gonzalez, Yovan C CIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"de San Miguel, Allan C BAL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Stocco, Matt C SD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Canham, Mitch C KC ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Wilson, Neil C COL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Sharp, Matthew C CHW",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Ambort, Michael C SF",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Mathisen, Wyatt C PIT",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Clemens, Koby C HOU",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Casali, Curt C TB",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Johnson, Ben B. C MIL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Johnson, Joshua C HOU",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Rams, Danny C MIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Lipkin, Ryan C OAK",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Duenas, Tommy C KC",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Reyes, Milver C PIT",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Manriquez, Salomon C NYM",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Berberet, Parker C MIL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Mendonca, Tommy C TEX",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Nessy, Santiago C TOR",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Torres, Kevin C TEX",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Albernaz, Craig C DET ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"McMillan, Drew C WAS",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Jamieson, Alex C TB",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Sisco, Chance C BAL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Bernard, Oscar C CHC",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Farnham, Jeffrey C NYY",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Fermin, Miguel C MIA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Wilson, Andy C NYM",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Acosta, Mayobanex C TB",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Camacaro, Armando C CLE",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Hagerty, Jason C SD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Pena, Francisco C KC",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Hernandez, Francisco C CHW",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Hedges, Austin C SD ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Molina, Angel C MIA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Schweiger, Brian C SEA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Garcia, Rene C HOU ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Dillon, Zachary C BAL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Freitas, Dave C OAK ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Jhang, Jin-De C PIT",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Murrian, John C DET",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Weisenburger, Adam C MIL ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Cutler, Charlie C STL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Susac, Andrew C SF",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Caratini, Victor C ATL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Peacock, Brian C CIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"McCullough, Clayton C CLE",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Henriquez, Ralph C SEA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Franco, Iker C ATL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Massiatte, Dan C TB",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Diaz, Robinzon C MIL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Ochinko, Sean C TOR",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Felix, Jose C TEX",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Berset, Chris C CIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Stanley, Cody C STL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Paulino, Carlos C PIT ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Taylor, Beau C OAK",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Johnston, Jonathan C OAK",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Lino, Gabriel C BAL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Ashley, Nevin C PIT",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Jimenez, A.J. C TOR ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Arlis, Patrick C MIL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Barnes, Austin C MIA ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Ortiz, Gabriel C OAK",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Sprowl, Jon-Mark C NYY",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Rodriguez, Julio C KC",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Dirosa, Michael C ARI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Castellano, John C CIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Higashioka, Kyle C NYY",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Spilman, Ryan C CLE",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Murphy, Tom C COL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Theriot, Ben C KC",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"De Los Santos, Anel C LAA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Joseph, Tommy C PHI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Donachie, Adam C BAL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Castillo, Keith C TB",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Eigsti, Ryan C KC",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Rodriguez, Reynaldo C BOS",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Rohlfing, Dan C MIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Butler, Daniel C BOS",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Gale, Rocky C SD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Wipke, Flint C LAA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Valle, Sebastian C PHI ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Moylan, Dan C STL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Zaneski, Zach C TEX",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"McCann, James C DET",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"De La Rosa, Anderson C MIL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Santangelo, Lou C HOU",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Alvino, William C DET",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Lafrenz, Kyle C PHI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Wright, Zach C LAA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"David, Kevin C KC",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Ehrlich, Adam C STL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Knudson, Kyle C MIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Radwan, Jason C SEA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"McMurray, Chris C CIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Pilittere, P.J. C ARI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Thomas, Mark C TB",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Kvasnicka, Michael C HOU",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Moorman, Charles C TEX",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Gimenez, Wilfredo C MIA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Sanchez, Gary C NYY",EVIL EMPIRE,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Isenia, Chairon C TB",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Douillard, Jonathan C CHC",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Arroyo, Rafael C NYM",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Joseph, Caleb C BAL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Torres, Gabby C MIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Duff, Tim C LAA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Bandy, Jett C LAA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Perez, Carlos T. C HOU",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Geiger, Kyle C MIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Walker, Brian C LAA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Perez, Roberto C CLE ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Walk, John C PIT",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Jeroloman, Brian C CLE",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Perez, Rossmel C CIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Bernard, Miguel C ATL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Ortiz, Ryan C OAK",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Murphy, Jack C TOR",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Blanke, Mike C CHW",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"De La Cruz, Luis C ATL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Bernardo, Luis C BAL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Reed, Mark C ARI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Delmonico, Anthony C LAD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Martinez, Brett C LAA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"O'Brien, Chris C LAD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Herrera, Javier C WAS",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Kunkel, Jeff C DET",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Perez, Michael C ARI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Collins, Mike C SD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Curry, Christopher C SF",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Brenly, Michael C CHC",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Bouchie, Andy C DET",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Flores, Angel C DET",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Sarmiento, Elio C TEX",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Lopez, Rafael C CHC",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Hatcher, Justin C SD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Maggard, Zach C DET",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Devries, Jonathan C BOS",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Casanova, Adrian C DET",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Bormaster, Brian C TOR",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Blumenthal, Benjamin C NYY",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Howell, Jeff C WAS",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Wallace, Chris C CLE",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Del Castillo, Miguel C SD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Denove, Chris C CIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Weems, Chase C CIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Dowd, Michael C SEA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Hankins, Ryan C NYY",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Arcia, Francisco C NYY",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Ventura, Leivi C NYM",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Plawecki, Kevin C NYM",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Ansman, Craig C ARI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Baker, Abel C LAA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Naylor, Clinton C SD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Perez, Carlos C HOU",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Ramirez, Carlos C LAA ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Williams, Jackson C SF",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Lee, Carlos H. C CHW",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Cabrera, Ramon C DET",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"May, Lucas C PIT",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Fleury, Mark C CIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Derba, Nick C STL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Ramirez, Max C CIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Noble, Chad C CHC",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Ciuffo, Nick C TB",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Langill, Eric C LAD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Glenn, Jeffrey C NYM",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Lugo, Carlos C LAA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Apodaca, Juan C TEX",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Arhart, Josh C TB",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Vanden Berg, John C PHI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Rosendo, Gustavo C OAK",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Ward, Brian C BAL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"O'Conner, Justin C TB",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Casillas, Omar C CLE",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Jefferies, Jake C MIA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Trzesniak, Nick C DET",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Paciorek, Joey C MIL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Chauncey, Clinton C BOS",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Day, Lawrence C NYY",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Pratt, Trent C PHI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Kennelly, Matt C ATL ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Graterol, Juan C KC",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Fernandez, Jair C MIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"McGuire, Reese C PIT",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Buller, Dayton C MIL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Hubele, Ryan C BAL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Concepcion, Alberto C LAD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Ivany, Devin C WAS",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Whittaker, Tim C TOR",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Tintor, Eli C MIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Wideman, Jordan C CIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Realmuto, Jacob C MIA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Peterson, Brian C BOS",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Wallach, Matt C LAD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Talley, Jon C TOR",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Aceves, Jonathan C CHW",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Chen, Chun-Hsiu C CLE",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Morgan, Matt C ARI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Graham, Andrew C DET",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Wallace, David C CLE",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Alfaro, Jorge C TEX",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Buckley, Jim C BOS",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Jennings, Todd C SF",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Morris, Jed C OAK",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Snitker, Troy C ATL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Coulter, Clint C MIL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Hicks, John C SEA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Gonzalez, Jose C COL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Lehmann, Danny C MIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Ohlman, Michael C BAL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Nelson, Kevin C PHI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Montero, Jesus C STL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Roa, Alcantara C DET",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Liuzza, Matt C TOR",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Rick, Alan C CHC",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Caldwell, Tony C MIA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Avlas, Phil C ARI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Phillips, Dane C SD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Clements, Zac C NYM",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Munoz, Aaron C TOR",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Davis, Lars C COL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Brock, Caleb C CLE",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Kent, Mat C BOS",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Corredor, Nestor C MIL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Colantonio, Matthew C SD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Gil, Jose C BAL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Baron, Steven C SEA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Purdom, John C PHI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Dudley, Aaron C MIA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Kopitzke, Casey C CHC",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Swihart, Blake C BOS",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Espino, Damaso C CHW",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Yarbrough, Brandon C CIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Roberson, Tim C BOS",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Ebarb, C.J. C TOR",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Feiner, Korey C MIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Cruz, Rafael C ATL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Ford, Josh C ARI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Harrigan, Hunter C TEX",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Vazquez, William C BOS",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Schlehuber, Braeden C ATL ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Trahan, Stryker C ARI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Waldron, Jeffrey C TEX",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Coughlin, Sean C ARI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Sanchez, Luany C KC",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Myers, Corey C ARI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"DePew, Jake C TB",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Galarraga, Joel C OAK",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Smith, Kevan C CHW ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Sanchez, Danilo C STL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Bowen, Joe C DET",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Roof, Eric C DET",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Murphy, J.R. C NYY ",Free Agent,26,3,4,3,1,0,0,1,1,9,0,0,0.1538,0.1852,0.1923,4560
-"Bethancourt, Christian C ATL ",Free Agent,1,0,0,0,0,0,0,0,0,1,0,0,0.0000,0.0000,0.0000,4563
-"Perez, Audry C STL",Free Agent,1,0,0,0,0,0,0,0,0,1,0,0,0.0000,0.0000,0.0000,4563
-"Anderson, Bryan C CHW",Free Agent,10,1,1,0,1,0,0,1,1,4,0,0,0.1000,0.1818,0.2000,4570
-"Quiroz, Guillermo C SF",Free Agent,44,2,8,4,4,0,0,3,2,11,0,0,0.1818,0.2174,0.2727,4577
-"Gonzalez, Miguel C CHW ",Free Agent,9,0,2,2,0,0,0,0,0,3,0,0,0.2222,0.2222,0.2222,4579
-"Solis, Ali C PIT ",Free Agent,2,0,0,0,0,0,0,0,0,1,0,0,0.0000,0.0000,0.0000,4583
-"Bantz, Brandon C SEA",Free Agent,2,0,0,0,0,0,0,0,0,1,0,0,0.0000,0.0000,0.0000,4583
-"Molina, Gustavo C COL",Free Agent,2,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,4583
-"Rodriguez, Eddy C SD ",Free Agent,2,0,0,0,0,0,0,0,1,2,0,0,0.0000,0.3333,0.0000,4583
-"d'Arnaud, Travis C NYM ",Titty`s Warriors,50,2,10,8,2,0,0,2,6,10,0,0,0.2000,0.2857,0.2400,4594
-"Santos, Omir C CLE",Free Agent,10,0,2,2,0,0,0,0,0,2,0,0,0.2000,0.2000,0.2000,4595
-"Skipworth, Kyle C MIA ",Free Agent,3,0,0,0,0,0,0,0,1,1,0,0,0.0000,0.2500,0.0000,4599
-"Exposito, Luis C DET",Free Agent,6,1,0,0,0,0,0,0,1,2,0,0,0.0000,0.1429,0.0000,4606
-"Maldonado, Carlos C WAS",Free Agent,4,0,0,0,0,0,0,0,1,2,0,0,0.0000,0.2000,0.0000,4610
-"Powell, Landon C NYM",Free Agent,37,3,6,5,1,0,0,1,4,11,0,0,0.1622,0.2439,0.1892,4613
-"Lerud, Steven C ATL ",Free Agent,8,0,1,1,0,0,0,0,0,3,0,0,0.1250,0.1250,0.1250,4614
-"Gosewisch, Tuffy C ARI",Free Agent,45,1,8,6,2,0,0,3,0,8,0,0,0.1778,0.1739,0.2222,4621
-"Clark, Cody C HOU",Free Agent,38,1,4,3,1,0,0,0,1,15,0,0,0.1053,0.1282,0.1316,4653
-"Rasmus, Casey C STL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,9999
-"Tartamella, Travis C STL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,9999
-"Heineman, Tyler C HOU",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,9999
-"Rodriguez, Steven C ARI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,9999
-"Turner, Ben C SF",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,9999
-"Lowery, Jake C CLE",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,9999
-"Koch, Matt C MIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,9999
-"Turner, Stuart C MIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,9999
+Player,Team	AB	R	H	1B	2B	3B	HR	RBI	BB	KO	SB	CS	BA	OBP	SLG	Rank	
+"Molina, Yadier C STL"	Old Dirty Bugg	495	63	155	104	35	0	16	74	36	51	6	3	0.3131	0.3606	0.4808	71
+"Santana, Carlos C CLE "	Whiteness	533	77	135	77	34	2	22	76	94	115	4	3	0.2533	0.3648	0.4484	90
+"Wieters, Matt C BAL "	Want-a-be Ghetto All Stars	516	66	128	78	28	0	22	77	50	100	2	0	0.2481	0.3141	0.4302	113
+"Posey, Buster C SF"	Disco Bush Horticulturists	404	52	126	85	26	1	14	65	49	65	2	1	0.3119	0.3879	0.4851	132
+"Lucroy, Jonathan C MIL "	Shits & Giggles	422	50	120	83	19	4	14	66	32	71	5	1	0.2844	0.3369	0.4479	146
+"Mauer, Joe C MIN "	Titty`s Warriors	429	60	134	98	27	1	8	54	61	72	3	2	0.3124	0.3988	0.4359	156
+"Montero, Miguel C ARI"	Free Agent	464	58	124	83	25	1	15	72	57	112	0	0	0.2672	0.3546	0.4224	157
+"Pierzynski, A.J. C BOS "	User Abuser	482	51	134	91	24	2	17	65	21	62	0	0	0.2780	0.3146	0.4419	162
+"McCann, Brian C NYY"	EVIL EMPIRE	420	46	106	70	15	0	21	65	47	77	2	1	0.2524	0.3305	0.4381	177
+"Saltalamacchia, Jarrod C MIA"	Whiteness	396	58	97	51	27	1	18	60	35	132	2	1	0.2449	0.3065	0.4545	187
+"Rosario, Wilin C COL"	Sofa Kings	300	45	83	50	15	1	17	53	14	76	3	2	0.2767	0.3091	0.5033	197
+"Martin, Russell C PIT "	User Abuser	426	53	96	59	19	0	18	58	54	95	8	3	0.2254	0.3217	0.3967	202
+"Gattis, Evan OF ATL"	Sofa Kings	354	44	86	44	21	0	21	65	21	81	0	0	0.2429	0.2906	0.4802	204
+"Avila, Alex C DET "	Free Agent	387	48	100	62	23	2	13	59	59	116	2	0	0.2584	0.3562	0.4289	233
+"Ruiz, Carlos C PHI"	Orange-a-Tangs	364	45	107	74	24	0	9	48	32	46	2	0	0.2940	0.3667	0.4341	253
+"Arencibia, J.P. C TEX"	Titty`s Warriors	421	46	90	50	18	1	21	63	24	130	1	1	0.2138	0.2594	0.4109	255
+"Doumit, Ryan C ATL "	Floaters and Sinkers	396	41	106	67	25	1	13	53	31	77	0	0	0.2677	0.3226	0.4343	270
+"Perez, Salvador C KC"	Shits & Giggles	311	35	94	67	16	2	9	46	13	37	0	0	0.3023	0.3313	0.4534	300
+"Buck, John C SEA "	Old Dirty Bugg	400	36	86	57	14	1	14	53	44	107	1	1	0.2150	0.3009	0.3600	377
+"Ramos, Wilson C WAS "	EVIL EMPIRE	253	29	68	46	11	0	11	40	22	46	0	1	0.2688	0.3285	0.4427	379
+"Iannetta, Chris C LAA"	Orange-a-Tangs	297	39	69	44	13	1	11	40	56	83	2	2	0.2323	0.3565	0.3939	380
+"Soto, Geovany C TEX"	Free Agent	303	37	67	39	16	0	12	38	32	87	1	1	0.2211	0.3009	0.3927	407
+"Ellis, A.J. C LAD"	Free Agent	299	32	77	55	13	1	8	38	41	67	0	1	0.2575	0.3516	0.3880	422
+"Suzuki, Kurt C MIN "	Free Agent	384	38	90	62	20	0	8	40	27	57	2	1	0.2344	0.2898	0.3490	426
+"Jaso, John C OAK "	Free Agent	249	33	64	42	15	1	6	33	40	44	3	1	0.2570	0.3639	0.3976	430
+"Castro, Jason C HOU "	SA`s	231	31	62	36	17	1	8	28	27	64	1	0	0.2684	0.3435	0.4545	437
+"Norris, Derek C OAK"	Floaters and Sinkers	236	30	54	34	12	0	8	32	29	68	5	0	0.2288	0.3160	0.3814	444
+"Olivo, Miguel C MIA "	Free Agent	289	29	64	40	12	0	12	33	11	83	3	4	0.2215	0.2475	0.3875	447
+"Gomes, Yan C CLE "	Free Agent	196	27	53	33	11	1	8	26	12	50	1	0	0.2704	0.3226	0.4592	480
+"Pacheco, Jordan 1B COL "	Free Agent	269	26	77	57	16	1	3	30	12	36	2	1	0.2862	0.3193	0.3866	492
+"Hundley, Nick C SD"	Free Agent	286	28	67	43	14	2	8	32	21	76	1	1	0.2343	0.2939	0.3811	524
+"Montero, Jesus C SEA "	Free Agent	226	20	58	43	8	0	7	28	15	46	0	1	0.2566	0.3020	0.3850	558
+"Navarro, Dioner C TOR"	Want-a-be Ghetto All Stars	162	17	42	29	5	1	7	21	15	28	0	0	0.2593	0.3240	0.4321	629
+"Hernandez, Ramon C KC "	Free Agent	177	16	45	30	8	0	7	23	12	27	0	0	0.2542	0.3057	0.4181	632
+"Molina, Jose C TB"	Free Agent	235	24	57	41	12	0	4	22	19	56	2	1	0.2426	0.3035	0.3447	636
+"Barajas, Rod C ARI "	Free Agent	209	19	45	28	8	0	9	26	17	47	0	0	0.2153	0.2845	0.3828	640
+"Torrealba, Yorvit C COL"	Free Agent	256	23	65	47	14	0	4	22	17	43	0	1	0.2539	0.3018	0.3555	655
+"Castillo, Welington C CHC"	Disco Bush Horticulturists	188	19	50	35	11	0	4	18	17	51	1	0	0.2660	0.3381	0.3883	662
+"Hanigan, Ryan C TB"	Free Agent	268	23	67	55	9	0	3	25	36	32	0	0	0.2500	0.3463	0.3172	664
+"Ross, David C BOS"	Free Agent	143	14	36	24	6	0	6	19	15	51	1	0	0.2517	0.3208	0.4196	678
+"Pena, Brayan C CIN"	Free Agent	221	17	58	44	11	0	3	24	9	25	0	1	0.2624	0.2894	0.3529	686
+"McKenry, Michael C COL "	Free Agent	178	17	40	23	11	0	6	21	16	49	0	0	0.2247	0.2929	0.3876	722
+"Flowers, Tyler C CHW "	Free Agent	167	19	34	20	7	0	7	18	13	63	1	1	0.2036	0.2757	0.3713	724
+"Kottaras, George C CHC"	Free Agent	127	16	27	15	5	1	6	20	24	39	0	0	0.2126	0.3421	0.4094	734
+"Mesoraco, Devin C CIN"	Free Agent	179	18	40	27	8	0	5	21	15	35	0	1	0.2235	0.2806	0.3520	740
+"Pinto, Josmil C MIN"	Free Agent	76	10	26	17	5	0	4	12	6	22	0	0	0.3421	0.3976	0.5658	742
+"Shoppach, Kelly C CLE"	Free Agent	183	19	37	21	8	1	7	19	16	71	0	0	0.2022	0.2899	0.3716	752
+"Zunino, Mike C SEA "	Whiteness	173	22	37	27	5	0	5	14	16	49	1	0	0.2139	0.2902	0.3295	755
+"Kratz, Erik C TOR"	Free Agent	115	12	26	14	6	0	6	17	10	27	0	0	0.2261	0.2891	0.4348	760
+"Grandal, Yasmani C SD "	SA`s	93	14	25	17	5	0	3	15	16	19	0	0	0.2688	0.3784	0.4194	767
+"Thole, Josh C TOR"	Free Agent	260	19	62	48	12	0	2	23	26	41	0	1	0.2385	0.3114	0.3077	774
+"Lobaton, Jose C TB "	Free Agent	159	19	37	24	9	1	3	17	19	40	0	1	0.2327	0.3167	0.3585	776
+"Mathis, Jeff C MIA"	Free Agent	230	19	44	28	11	0	5	26	15	73	1	1	0.1913	0.2419	0.3043	785
+"Stewart, Chris C PIT"	Free Agent	199	21	43	33	7	0	3	16	19	29	2	0	0.2161	0.2915	0.2965	787
+"Laird, Gerald C ATL"	Free Agent	130	16	35	25	8	1	1	12	12	21	1	1	0.2692	0.3379	0.3692	802
+"Sanchez, Hector C SF"	Free Agent	126	10	34	25	7	0	2	18	5	29	0	0	0.2698	0.3008	0.3730	805
+"Phegley, Josh C CHW"	Free Agent	204	14	42	31	7	0	4	22	5	41	2	0	0.2059	0.2227	0.2990	810
+"Maldonado, Martin C MIL"	Free Agent	139	12	31	22	5	0	4	17	10	37	0	0	0.2230	0.2848	0.3453	840
+"Conger, Hank C LAA"	Free Agent	143	12	33	22	7	0	4	14	12	33	0	0	0.2308	0.2975	0.3636	861
+"Quintero, Humberto C SEA "	Free Agent	177	12	42	30	10	0	2	19	5	37	0	0	0.2373	0.2609	0.3277	867
+"Cervelli, Francisco C NYY "	Free Agent	59	10	16	12	2	0	2	10	6	13	1	0	0.2712	0.3485	0.4068	871
+"Marson, Lou C PHI "	Free Agent	147	18	33	26	6	1	0	11	21	37	3	1	0.2245	0.3235	0.2789	881
+"Corporan, Carlos C HOU"	Free Agent	141	10	31	22	5	0	4	15	8	43	0	0	0.2199	0.2792	0.3404	904
+"Brantly, Rob C MIA"	Free Agent	162	12	38	28	8	0	2	13	14	34	0	0	0.2346	0.2961	0.3210	941
+"Snyder, Chris C BAL "	Free Agent	112	12	22	15	4	0	3	14	18	33	0	0	0.1964	0.3158	0.3125	947
+"Nieves, Wil C PHI"	Free Agent	109	8	30	24	5	0	1	10	5	20	0	0	0.2752	0.3043	0.3486	957
+"Blanco, Henry C ARI "	Free Agent	99	10	19	11	4	0	4	11	10	25	0	0	0.1919	0.2661	0.3535	971
+"Cruz, Tony C STL"	Free Agent	105	11	25	16	7	1	1	10	4	19	0	1	0.2381	0.2703	0.3524	991
+"Paulino, Ronny C SEA"	Free Agent	97	8	26	20	5	0	1	8	5	16	0	0	0.2680	0.3010	0.3505	996
+"Lavarnway, Ryan C BOS"	Free Agent	90	8	19	11	6	0	2	11	6	23	0	0	0.2111	0.2653	0.3444	1028
+"Sanchez, Tony C PIT"	Free Agent	60	9	14	8	4	0	2	5	3	14	0	0	0.2333	0.2879	0.4000	1033
+"Vogt, Stephen C OAK"	Free Agent	80	9	17	12	3	0	2	8	6	15	0	0	0.2125	0.2644	0.3250	1043
+"Hayes, Brett C KC "	Free Agent	87	9	19	11	6	0	2	7	5	30	0	0	0.2184	0.2609	0.3563	1059
+"Recker, Anthony C NYM"	Free Agent	67	8	13	8	3	0	2	8	8	24	0	0	0.1940	0.2857	0.3284	1083
+"Flores, Jesus C LAD"	Free Agent	121	9	26	18	6	0	2	9	6	29	0	1	0.2149	0.2500	0.3140	1086
+"Hester, John C LAA"	Free Agent	42	8	9	7	0	0	2	2	4	12	0	0	0.2143	0.2826	0.3571	1114
+"Herrmann, Chris C MIN"	Free Agent	88	8	16	10	4	0	2	10	10	27	0	0	0.1818	0.2653	0.2955	1116
+"Gimenez, Chris C TB "	Free Agent	54	5	13	10	2	0	1	5	6	13	0	0	0.2407	0.3167	0.3333	1151
+"Miller, Corky C CIN"	Free Agent	35	2	9	4	5	0	0	8	5	6	0	0	0.2571	0.3659	0.4000	1183
+"Wilson, Bobby C ARI"	Free Agent	94	8	19	14	4	0	1	7	8	16	0	1	0.2021	0.2621	0.2766	1198
+"Baker, John C SD "	Free Agent	82	6	18	15	3	0	0	6	9	19	1	0	0.2195	0.2967	0.2561	1200
+"Federowicz, Tim C LAD"	Free Agent	59	4	13	9	3	0	1	6	4	21	0	0	0.2203	0.2698	0.3220	1201
+"Johnson, Rob C STL"	Free Agent	89	5	18	13	3	1	1	7	7	25	1	0	0.2022	0.2653	0.2921	1202
+"Holaday, Bryan C DET"	Free Agent	20	6	6	5	1	0	0	1	1	2	0	0	0.3000	0.3333	0.3500	1208
+"Whiteside, Eli C TEX"	Free Agent	75	6	14	9	3	1	1	6	6	21	1	0	0.1867	0.2530	0.2933	1210
+"Solano, Jhonatan C WAS"	Free Agent	42	4	9	6	2	0	1	4	2	6	0	0	0.2143	0.2500	0.3333	2301
+"Gimenez, Hector C CHW "	Free Agent	29	3	6	4	1	0	1	4	2	9	0	0	0.2069	0.2727	0.3448	2313
+"Nickeas, Mike C TOR"	Free Agent	54	4	10	8	1	0	1	6	4	13	0	0	0.1852	0.2542	0.2593	2354
+"Castro, Ramon C LAD"	Free Agent	23	2	5	3	1	0	1	3	2	8	0	0	0.2174	0.2800	0.3913	2359
+"Butera, Drew C LAD"	Free Agent	118	9	21	15	5	0	1	9	7	24	0	0	0.1780	0.2302	0.2458	2379
+"Robinson, Chris C SD"	Free Agent	12	1	2	1	0	0	1	3	0	3	0	0	0.1667	0.1667	0.4167	2395
+"Clevenger, Steve C BAL"	Free Agent	75	6	15	10	5	0	0	6	6	15	0	0	0.2000	0.2593	0.2667	2402
+"Towles, J.R. C STL"	Free Agent	49	4	9	6	2	0	1	4	4	9	0	0	0.1837	0.2545	0.2857	2403
+"Alfonzo, Eliezer C LAD"	Free Agent	25	1	7	7	0	0	0	3	1	4	0	0	0.2800	0.3077	0.2800	2410
+"Teagarden, Taylor C NYM "	Free Agent	50	3	9	6	2	0	1	5	3	18	0	0	0.1800	0.2264	0.2800	2416
+"Romine, Austin C NYY"	Free Agent	51	6	10	7	3	0	0	3	3	14	0	0	0.1961	0.2407	0.2549	2427
+"Jaramillo, Jason C HOU"	Free Agent	14	0	5	4	1	0	0	2	1	4	0	0	0.3571	0.4000	0.4286	2429
+"Rupp, Cameron C PHI"	Free Agent	13	1	4	3	1	0	0	2	1	4	0	0	0.3077	0.3571	0.3846	2431
+"Fryer, Eric C MIN"	Free Agent	14	2	4	4	0	0	0	1	2	4	0	0	0.2857	0.3750	0.2857	2449
+"Hill, Koyie C MIA"	Free Agent	77	7	14	11	2	0	1	3	5	22	0	0	0.1818	0.2317	0.2468	2458
+"Martinez, Luis C LAA"	Free Agent	26	3	5	5	0	0	0	3	3	6	0	0	0.1923	0.3000	0.1923	2459
+"Rivera, Rene C SD"	Free Agent	57	4	11	9	2	0	0	4	3	16	0	0	0.1930	0.2295	0.2281	2497
+"Leon, Sandy C WAS"	Free Agent	16	1	4	3	1	0	0	1	2	6	0	0	0.2500	0.3684	0.3125	2501
+"Centeno, Juan C NYM"	Free Agent	10	0	3	3	0	0	0	1	0	1	0	0	0.3000	0.3000	0.3000	2508
+"Moore, Adam C KC"	Free Agent	9	1	2	1	1	0	0	1	1	2	0	0	0.2222	0.3000	0.3333	2509
+"Monell, Johnny C BAL"	Free Agent	8	2	1	1	0	0	0	1	0	3	0	0	0.1250	0.2222	0.1250	2510
+"Carlin, Luke C CLE "	Free Agent	7	1	2	2	0	0	0	0	0	2	0	0	0.2857	0.2857	0.2857	2517
+"Pagnozzi, Matt C MIL"	Free Agent	17	1	4	4	0	0	0	1	1	4	0	0	0.2353	0.2778	0.2353	2518
+"Stassi, Max C HOU"	Free Agent	7	0	2	2	0	0	0	1	0	2	0	0	0.2857	0.3750	0.2857	2521
+"Sucre, Jesus C SEA"	Free Agent	26	1	5	5	0	0	0	3	2	1	0	0	0.1923	0.2414	0.1923	2525
+"Pina, Manny C SEA "	Free Agent	5	1	1	0	1	0	0	0	0	1	0	0	0.2000	0.2000	0.4000	2540
+"Boscan, J.C. C LAD"	Free Agent	9	0	2	2	0	0	0	1	0	3	0	0	0.2222	0.2222	0.2222	2543
+"Schmidt, Konrad C CIN"	Free Agent	2	0	0	0	0	0	0	1	0	1	0	0	0.0000	0.0000	0.0000	2549
+"Hathaway, Aaron C NYM"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Yepez, Jose C ATL "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Bird, Greg C NYY"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"McCraw, Sean C NYM"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Pedro, Erick San C WAS"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Anderson, Dennis C CHC"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Perry, Patrick C BOS"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Knapp, Andrew C PHI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Deglan, Kellin C TEX"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Leyland, Patrick C DET"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Schneider, John C TOR"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Mercado, Orlando C LAD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Guevara, Orlando C PHI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Bock, Brian C BAL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Smith, Ryan D. C CHW"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Davis, Brad C DET"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Nieto, Adrian C CHW "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Vazquez, Christian C BOS"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Kroski, Chris C CIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Thibault, Kiel C KC"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Tarleton, Dallas C COL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Davidson, Kevin C HOU"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Chiaffredo, Paul C PIT"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Hansen, Josh C CHW"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Erickson, Gorman C LAD "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Britton, Phillip C ATL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Rojas, Nestor C SF"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Rosario, Alberto C BOS"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Neda, Rafael C MIL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Gibbs, Micah C CHC"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Swanner, William C COL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Garcia, Anthony C STL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Brown, Jason C NYY"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Gutierrez, Gabe C LAD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Roberts, Tyler C MIL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Sumi, Ikko C LAA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Jimenez, Jose C LAA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Kennelly, Timothy C PHI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Castillo, David C OAK"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Suomi, John C PHI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Gronauer, Kai C NYM"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Price, Jared C CHW"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Cordell, Brent C STL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Skelton, James C COL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Nicholas, Brett C TEX"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Easley, Ed C STL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Arnold, Jeff C SF"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"LaTorre, Tyler C SF"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Guarnaccia, Luke C SEA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Leger, Jose C MIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Moore, Johnathan C TEX"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Del Chiaro, Brent C LAA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Pena, Roberto C HOU"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Watts, Kristopher C WAS"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Cerda, Matthew C CHC"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Spring, Matt C BOS "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Munhall, Brian C SF"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Gonzalez, Yovan C CIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"de San Miguel, Allan C BAL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Stocco, Matt C SD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Canham, Mitch C KC "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Wilson, Neil C COL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Sharp, Matthew C CHW"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Ambort, Michael C SF"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Mathisen, Wyatt C PIT"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Clemens, Koby C HOU"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Casali, Curt C TB"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Johnson, Ben B. C MIL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Johnson, Joshua C HOU"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Rams, Danny C MIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Lipkin, Ryan C OAK"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Duenas, Tommy C KC"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Reyes, Milver C PIT"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Manriquez, Salomon C NYM"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Berberet, Parker C MIL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Mendonca, Tommy C TEX"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Nessy, Santiago C TOR"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Torres, Kevin C TEX"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Albernaz, Craig C DET "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"McMillan, Drew C WAS"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Jamieson, Alex C TB"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Sisco, Chance C BAL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Bernard, Oscar C CHC"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Farnham, Jeffrey C NYY"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Fermin, Miguel C MIA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Wilson, Andy C NYM"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Acosta, Mayobanex C TB"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Camacaro, Armando C CLE"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Hagerty, Jason C SD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Pena, Francisco C KC"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Hernandez, Francisco C CHW"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Hedges, Austin C SD "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Molina, Angel C MIA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Schweiger, Brian C SEA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Garcia, Rene C HOU "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Dillon, Zachary C BAL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Freitas, Dave C OAK "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Jhang, Jin-De C PIT"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Murrian, John C DET"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Weisenburger, Adam C MIL "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Cutler, Charlie C STL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Susac, Andrew C SF"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Caratini, Victor C ATL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Peacock, Brian C CIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"McCullough, Clayton C CLE"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Henriquez, Ralph C SEA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Franco, Iker C ATL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Massiatte, Dan C TB"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Diaz, Robinzon C MIL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Ochinko, Sean C TOR"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Felix, Jose C TEX"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Berset, Chris C CIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Stanley, Cody C STL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Paulino, Carlos C PIT "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Taylor, Beau C OAK"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Johnston, Jonathan C OAK"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Lino, Gabriel C BAL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Ashley, Nevin C PIT"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Jimenez, A.J. C TOR "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Arlis, Patrick C MIL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Barnes, Austin C MIA "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Ortiz, Gabriel C OAK"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Sprowl, Jon-Mark C NYY"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Rodriguez, Julio C KC"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Dirosa, Michael C ARI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Castellano, John C CIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Higashioka, Kyle C NYY"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Spilman, Ryan C CLE"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Murphy, Tom C COL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Theriot, Ben C KC"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"De Los Santos, Anel C LAA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Joseph, Tommy C PHI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Donachie, Adam C BAL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Castillo, Keith C TB"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Eigsti, Ryan C KC"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Rodriguez, Reynaldo C BOS"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Rohlfing, Dan C MIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Butler, Daniel C BOS"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Gale, Rocky C SD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Wipke, Flint C LAA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Valle, Sebastian C PHI "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Moylan, Dan C STL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Zaneski, Zach C TEX"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"McCann, James C DET"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"De La Rosa, Anderson C MIL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Santangelo, Lou C HOU"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Alvino, William C DET"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Lafrenz, Kyle C PHI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Wright, Zach C LAA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"David, Kevin C KC"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Ehrlich, Adam C STL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Knudson, Kyle C MIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Radwan, Jason C SEA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"McMurray, Chris C CIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Pilittere, P.J. C ARI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Thomas, Mark C TB"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Kvasnicka, Michael C HOU"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Moorman, Charles C TEX"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Gimenez, Wilfredo C MIA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Sanchez, Gary C NYY"	EVIL EMPIRE	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Isenia, Chairon C TB"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Douillard, Jonathan C CHC"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Arroyo, Rafael C NYM"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Joseph, Caleb C BAL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Torres, Gabby C MIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Duff, Tim C LAA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Bandy, Jett C LAA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Perez, Carlos T. C HOU"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Geiger, Kyle C MIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Walker, Brian C LAA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Perez, Roberto C CLE "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Walk, John C PIT"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Jeroloman, Brian C CLE"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Perez, Rossmel C CIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Bernard, Miguel C ATL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Ortiz, Ryan C OAK"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Murphy, Jack C TOR"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Blanke, Mike C CHW"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"De La Cruz, Luis C ATL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Bernardo, Luis C BAL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Reed, Mark C ARI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Delmonico, Anthony C LAD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Martinez, Brett C LAA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"O'Brien, Chris C LAD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Herrera, Javier C WAS"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Kunkel, Jeff C DET"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Perez, Michael C ARI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Collins, Mike C SD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Curry, Christopher C SF"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Brenly, Michael C CHC"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Bouchie, Andy C DET"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Flores, Angel C DET"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Sarmiento, Elio C TEX"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Lopez, Rafael C CHC"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Hatcher, Justin C SD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Maggard, Zach C DET"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Devries, Jonathan C BOS"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Casanova, Adrian C DET"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Bormaster, Brian C TOR"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Blumenthal, Benjamin C NYY"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Howell, Jeff C WAS"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Wallace, Chris C CLE"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Del Castillo, Miguel C SD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Denove, Chris C CIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Weems, Chase C CIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Dowd, Michael C SEA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Hankins, Ryan C NYY"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Arcia, Francisco C NYY"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Ventura, Leivi C NYM"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Plawecki, Kevin C NYM"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Ansman, Craig C ARI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Baker, Abel C LAA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Naylor, Clinton C SD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Perez, Carlos C HOU"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Ramirez, Carlos C LAA "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Williams, Jackson C SF"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Lee, Carlos H. C CHW"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Cabrera, Ramon C DET"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"May, Lucas C PIT"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Fleury, Mark C CIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Derba, Nick C STL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Ramirez, Max C CIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Noble, Chad C CHC"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Ciuffo, Nick C TB"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Langill, Eric C LAD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Glenn, Jeffrey C NYM"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Lugo, Carlos C LAA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Apodaca, Juan C TEX"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Arhart, Josh C TB"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Vanden Berg, John C PHI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Rosendo, Gustavo C OAK"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Ward, Brian C BAL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"O'Conner, Justin C TB"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Casillas, Omar C CLE"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Jefferies, Jake C MIA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Trzesniak, Nick C DET"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Paciorek, Joey C MIL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Chauncey, Clinton C BOS"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Day, Lawrence C NYY"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Pratt, Trent C PHI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Kennelly, Matt C ATL "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Graterol, Juan C KC"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Fernandez, Jair C MIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"McGuire, Reese C PIT"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Buller, Dayton C MIL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Hubele, Ryan C BAL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Concepcion, Alberto C LAD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Ivany, Devin C WAS"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Whittaker, Tim C TOR"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Tintor, Eli C MIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Wideman, Jordan C CIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Realmuto, Jacob C MIA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Peterson, Brian C BOS"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Wallach, Matt C LAD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Talley, Jon C TOR"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Aceves, Jonathan C CHW"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Chen, Chun-Hsiu C CLE"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Morgan, Matt C ARI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Graham, Andrew C DET"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Wallace, David C CLE"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Alfaro, Jorge C TEX"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Buckley, Jim C BOS"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Jennings, Todd C SF"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Morris, Jed C OAK"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Snitker, Troy C ATL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Coulter, Clint C MIL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Hicks, John C SEA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Gonzalez, Jose C COL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Lehmann, Danny C MIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Ohlman, Michael C BAL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Nelson, Kevin C PHI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Montero, Jesus C STL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Roa, Alcantara C DET"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Liuzza, Matt C TOR"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Rick, Alan C CHC"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Caldwell, Tony C MIA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Avlas, Phil C ARI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Phillips, Dane C SD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Clements, Zac C NYM"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Munoz, Aaron C TOR"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Davis, Lars C COL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Brock, Caleb C CLE"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Kent, Mat C BOS"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Corredor, Nestor C MIL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Colantonio, Matthew C SD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Gil, Jose C BAL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Baron, Steven C SEA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Purdom, John C PHI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Dudley, Aaron C MIA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Kopitzke, Casey C CHC"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Swihart, Blake C BOS"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Espino, Damaso C CHW"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Yarbrough, Brandon C CIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Roberson, Tim C BOS"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Ebarb, C.J. C TOR"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Feiner, Korey C MIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Cruz, Rafael C ATL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Ford, Josh C ARI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Harrigan, Hunter C TEX"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Vazquez, William C BOS"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Schlehuber, Braeden C ATL "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Trahan, Stryker C ARI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Waldron, Jeffrey C TEX"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Coughlin, Sean C ARI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Sanchez, Luany C KC"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Myers, Corey C ARI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"DePew, Jake C TB"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Galarraga, Joel C OAK"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Smith, Kevan C CHW "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Sanchez, Danilo C STL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Bowen, Joe C DET"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Roof, Eric C DET"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Murphy, J.R. C NYY "	Free Agent	26	3	4	3	1	0	0	1	1	9	0	0	0.1538	0.1852	0.1923	4560
+"Bethancourt, Christian C ATL "	Free Agent	1	0	0	0	0	0	0	0	0	1	0	0	0.0000	0.0000	0.0000	4563
+"Perez, Audry C STL"	Free Agent	1	0	0	0	0	0	0	0	0	1	0	0	0.0000	0.0000	0.0000	4563
+"Anderson, Bryan C CHW"	Free Agent	10	1	1	0	1	0	0	1	1	4	0	0	0.1000	0.1818	0.2000	4570
+"Quiroz, Guillermo C SF"	Free Agent	44	2	8	4	4	0	0	3	2	11	0	0	0.1818	0.2174	0.2727	4577
+"Gonzalez, Miguel C CHW "	Free Agent	9	0	2	2	0	0	0	0	0	3	0	0	0.2222	0.2222	0.2222	4579
+"Solis, Ali C PIT "	Free Agent	2	0	0	0	0	0	0	0	0	1	0	0	0.0000	0.0000	0.0000	4583
+"Bantz, Brandon C SEA"	Free Agent	2	0	0	0	0	0	0	0	0	1	0	0	0.0000	0.0000	0.0000	4583
+"Molina, Gustavo C COL"	Free Agent	2	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	4583
+"Rodriguez, Eddy C SD "	Free Agent	2	0	0	0	0	0	0	0	1	2	0	0	0.0000	0.3333	0.0000	4583
+"d'Arnaud, Travis C NYM "	Titty`s Warriors	50	2	10	8	2	0	0	2	6	10	0	0	0.2000	0.2857	0.2400	4594
+"Santos, Omir C CLE"	Free Agent	10	0	2	2	0	0	0	0	0	2	0	0	0.2000	0.2000	0.2000	4595
+"Skipworth, Kyle C MIA "	Free Agent	3	0	0	0	0	0	0	0	1	1	0	0	0.0000	0.2500	0.0000	4599
+"Exposito, Luis C DET"	Free Agent	6	1	0	0	0	0	0	0	1	2	0	0	0.0000	0.1429	0.0000	4606
+"Maldonado, Carlos C WAS"	Free Agent	4	0	0	0	0	0	0	0	1	2	0	0	0.0000	0.2000	0.0000	4610
+"Powell, Landon C NYM"	Free Agent	37	3	6	5	1	0	0	1	4	11	0	0	0.1622	0.2439	0.1892	4613
+"Lerud, Steven C ATL "	Free Agent	8	0	1	1	0	0	0	0	0	3	0	0	0.1250	0.1250	0.1250	4614
+"Gosewisch, Tuffy C ARI"	Free Agent	45	1	8	6	2	0	0	3	0	8	0	0	0.1778	0.1739	0.2222	4621
+"Clark, Cody C HOU"	Free Agent	38	1	4	3	1	0	0	0	1	15	0	0	0.1053	0.1282	0.1316	4653
+"Rasmus, Casey C STL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	9999
+"Tartamella, Travis C STL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	9999
+"Heineman, Tyler C HOU"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	9999
+"Rodriguez, Steven C ARI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	9999
+"Turner, Ben C SF"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	9999
+"Lowery, Jake C CLE"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	9999
+"Koch, Matt C MIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	9999
+"Turner, Stuart C MIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	9999

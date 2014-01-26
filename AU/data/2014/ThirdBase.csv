@@ -1,345 +1,345 @@
 All Third Basemen 3 Year Averages MLB Standard Stats
-Player,Team,AB,R,H,1B,2B,3B,HR,RBI,BB,KO,SB,CS,BA,OBP,SLG,Rank,
-"Cabrera, Miguel 3B DET ",Free Agent,583,108,198,121,38,0,39,127,88,94,3,1,0.3396,0.4271,0.6055,1
-"Beltre, Adrian 3B TEX",Shits & Giggles,574,88,179,112,33,1,33,100,37,71,1,0,0.3118,0.3563,0.5453,7
-"Encarnacion, Edwin 1B TOR",Sofa Kings,518,84,142,80,30,0,32,90,70,78,9,2,0.2741,0.3639,0.5174,18
-"Wright, David 3B NYM",Want-a-be Ghetto All Stars,467,71,136,86,29,3,18,71,63,96,15,5,0.2912,0.3780,0.4818,58
-"Ramirez, Aramis 3B MIL",Free Agent,480,72,143,86,34,1,22,82,41,69,3,1,0.2979,0.3619,0.5104,59
-"Zimmerman, Ryan 3B WAS ",EVIL EMPIRE,514,76,144,93,28,2,21,74,53,107,5,1,0.2802,0.3479,0.4650,67
-"Longoria, Evan 3B TB",Whiteness,457,69,121,67,26,1,27,81,61,105,2,2,0.2648,0.3529,0.5033,70
-"Headley, Chase 3B SD ",Old Dirty Bugg,502,66,138,89,31,2,16,70,68,130,13,4,0.2749,0.3661,0.4402,83
-"Prado, Martin 3B ARI ",Free Agent,592,72,167,117,35,3,12,70,46,58,8,6,0.2821,0.3328,0.4122,102
-"Young, Michael 3B LAD ",Free Agent,587,73,176,131,31,5,9,73,41,77,3,1,0.2998,0.3433,0.4157,104
-"Reynolds, Mark 1B NYY ",Old Dirty Bugg,479,68,106,57,22,0,27,74,66,170,3,3,0.2213,0.3213,0.4363,116
-"Sandoval, Pablo 3B SF ",Shits & Giggles,449,55,131,87,26,2,16,71,39,67,1,2,0.2918,0.3461,0.4655,127
-"Gyorko, Jedd 2B SD",Orange-a-Tangs,486,62,121,72,26,0,23,63,33,123,1,1,0.2490,0.3010,0.4444,143
-"Bonifacio, Emilio 2B KC ",Free Agent,410,54,111,86,17,5,3,26,38,95,33,7,0.2707,0.3319,0.3585,159
-"Freese, David 3B LAA ",Whiteness,432,55,122,86,22,1,13,65,43,101,2,2,0.2824,0.3554,0.4282,160
-"Johnson, Kelly OF NYY ",Titty`s Warriors,473,59,107,66,19,4,18,55,52,140,12,4,0.2262,0.3070,0.3975,174
-"Seager, Kyle 3B SEA",Orange-a-Tangs,464,54,120,77,27,1,15,56,42,89,8,3,0.2586,0.3243,0.4181,176
-"Alvarez, Pedro 3B PIT ",User Abuser,439,51,101,58,19,1,23,68,43,149,1,0,0.2301,0.3004,0.4351,182
-"Rodriguez, Alex 3B NYY ",Free Agent,331,54,89,60,15,0,14,46,40,80,7,1,0.2689,0.3553,0.4411,194
-"Johnson, Chris 3B ATL ",Whiteness,460,45,132,90,28,3,11,62,25,115,2,1,0.2870,0.3272,0.4326,201
-"Machado, Manny 3B BAL ",Floaters and Sinkers,429,56,120,77,30,3,10,48,19,76,4,4,0.2797,0.3104,0.4336,212
-"Aviles, Mike 3B CLE",Free Agent,386,47,97,66,20,1,10,48,17,54,12,5,0.2513,0.2822,0.3860,232
-"Callaspo, Alberto 3B OAK",Free Agent,462,54,123,93,21,0,9,52,56,51,4,2,0.2662,0.3442,0.3701,241
-"Lawrie, Brett 3B TOR ",EVIL EMPIRE,348,47,94,64,17,3,10,40,26,62,10,5,0.2701,0.3281,0.4224,242
-"Roberts, Ryan 2B TB ",Free Agent,361,51,88,58,17,1,12,45,39,76,9,6,0.2438,0.3168,0.3961,244
-"Middlebrooks, Will 3B BOS ",Free Agent,308,38,78,46,16,0,16,52,16,84,4,1,0.2532,0.2918,0.4610,252
-"Carpenter, Matt 2B STL ",Old Dirty Bugg,312,57,96,60,26,4,6,41,37,55,1,1,0.3077,0.3827,0.4744,254
-"Frazier, Todd 3B CIN",Old Dirty Bugg,355,45,88,50,20,3,15,52,31,85,3,2,0.2479,0.3173,0.4479,257
-"Arenado, Nolan 3B COL",SA`s,486,49,130,87,29,4,10,52,23,72,2,0,0.2675,0.3008,0.4053,259
-"Plouffe, Trevor 3B MIN ",Free Agent,395,49,96,60,20,1,15,46,32,92,2,2,0.2430,0.3057,0.4127,277
-"Youkilis, Kevin 3B NYY ",EVIL EMPIRE,325,51,79,47,18,1,13,49,42,80,1,0,0.2431,0.3491,0.4246,278
-"Donaldson, Josh 3B OAK",SA`s,284,41,80,50,18,1,11,42,30,57,3,1,0.2817,0.3563,0.4683,280
-"Moustakas, Mike 3B KC ",Free Agent,458,46,112,73,26,1,12,48,31,86,3,2,0.2445,0.2958,0.3843,303
-"Keppinger, Jeff 2B CHW ",Free Agent,396,41,112,89,16,1,6,38,19,32,0,1,0.2828,0.3159,0.3737,360
-"Betancourt, Yuniesky 1B MIL",Free Agent,387,36,91,59,19,2,11,50,13,53,1,2,0.2351,0.2586,0.3798,372
-"Izturis, Maicer 2B TOR",Free Agent,368,40,95,72,19,0,4,30,28,47,9,4,0.2582,0.3159,0.3424,382
-"Nunez, Eduardo SS NYY ",Free Agent,234,30,62,44,13,2,3,23,16,33,14,4,0.2650,0.3110,0.3761,395
-"Chavez, Eric 3B ARI ",Free Agent,222,27,61,40,11,1,9,36,21,46,0,0,0.2748,0.3360,0.4550,410
-"Carroll, Jamey 3B KC ",Free Agent,383,48,102,86,14,2,0,23,39,54,7,2,0.2663,0.3357,0.3133,417
-"Valencia, Danny DH KC ",Free Agent,293,32,72,46,16,1,9,39,17,58,1,3,0.2457,0.2843,0.3993,418
-"Wigginton, Ty 1B STL ",Free Agent,258,34,60,39,11,1,9,31,27,61,3,1,0.2326,0.3103,0.3876,435
-"Wallace, Brett 1B HOU ",Free Agent,276,32,68,43,15,1,9,30,24,89,1,1,0.2464,0.3170,0.4058,458
-"Descalso, Daniel SS STL",Free Agent,343,40,83,58,18,4,3,32,31,68,5,3,0.2420,0.3097,0.3440,462
-"Lucas, Ed 3B MIA",Free Agent,351,43,90,71,14,1,4,28,26,78,1,1,0.2564,0.3105,0.3362,466
-"Polanco, Placido 3B MIA",Free Agent,383,36,102,85,14,0,3,31,28,33,2,0,0.2663,0.3214,0.3264,468
-"Johnson, Elliot 2B ATL",Free Agent,237,26,52,38,8,2,4,23,18,68,15,5,0.2194,0.2763,0.3207,472
-"Nelson, Chris 3B LAA",Free Agent,245,28,66,46,12,3,5,31,16,62,2,1,0.2694,0.3144,0.4041,478
-"Dominguez, Matt 3B HOU ",Disco Bush Horticulturists,232,24,58,38,10,1,9,32,12,40,0,0,0.2500,0.2932,0.4181,502
-"Turner, Justin 3B NYM ",Free Agent,269,27,72,49,19,1,3,29,20,39,3,1,0.2677,0.3288,0.3792,516
-"Francisco, Juan 1B MIL ",Free Agent,211,21,49,28,10,1,10,32,16,77,1,1,0.2322,0.2882,0.4313,520
-"Uribe, Juan 3B LAD ",Free Agent,273,28,65,44,14,1,6,32,20,59,2,0,0.2381,0.2953,0.3626,530
-"Arias, Joaquin 3B SF ",Free Agent,272,24,74,56,11,4,3,26,8,38,3,0,0.2721,0.2962,0.3750,536
-"Chisenhall, Lonnie 3B CLE ",Free Agent,214,24,52,32,12,0,8,25,11,44,1,0,0.2430,0.2832,0.4112,546
-"LeMahieu, DJ 2B COL ",Free Agent,231,23,65,50,12,2,1,18,11,40,6,3,0.2814,0.3115,0.3636,560
-"Gonzalez, Alex 1B MIL",Free Agent,253,27,59,41,11,0,7,26,10,56,1,0,0.2332,0.2642,0.3597,565
-"Forsythe, Logan 2B TB ",Free Agent,228,26,55,40,9,2,4,19,20,48,6,1,0.2412,0.3123,0.3509,566
-"Baker, Jeff RF TEX ",Free Agent,181,20,47,29,11,1,6,23,13,47,2,0,0.2597,0.3112,0.4309,567
-"Nix, Jayson SS TB ",Free Agent,193,24,43,29,9,1,4,19,17,58,8,2,0.2228,0.2944,0.3420,575
-"Hairston, Jerry 3B LAD",Free Agent,260,26,66,47,14,1,4,26,23,32,1,1,0.2538,0.3194,0.3615,578
-"Lillibridge, Brent 3B TEX ",Free Agent,145,22,31,22,4,0,5,15,10,50,8,3,0.2138,0.2795,0.3448,595
-"Flaherty, Ryan 2B BAL",Free Agent,200,22,44,30,6,0,8,23,12,52,2,0,0.2200,0.2778,0.3700,601
-"Hannahan, Jack 3B CIN",Free Agent,249,24,60,43,12,1,4,28,28,60,1,1,0.2410,0.3214,0.3454,623
-"Cruz, Luis 3B NYY",Free Agent,228,22,54,38,12,0,4,26,8,34,2,0,0.2368,0.2708,0.3421,634
-"Amarista, Alexi OF SD",Free Agent,232,24,54,37,11,3,3,23,14,36,4,2,0.2328,0.2782,0.3448,638
-"Kelly, Don LF DET",Free Agent,195,27,44,32,5,2,5,19,18,27,2,0,0.2256,0.2949,0.3487,643
-"Ciriaco, Pedro SS KC",Free Agent,139,15,38,28,7,2,1,11,6,25,9,2,0.2734,0.3034,0.3741,653
-"Herrera, Jonathan SS BOS ",Free Agent,234,24,61,51,7,1,2,14,19,34,4,2,0.2607,0.3176,0.3248,654
-"Asche, Cody 3B PHI",Free Agent,162,18,38,24,8,1,5,22,15,43,1,0,0.2346,0.3017,0.3889,677
-"Harrison, Josh OF PIT",Free Agent,177,22,44,31,8,3,2,15,5,24,4,1,0.2486,0.2796,0.3616,683
-"Punto, Nick SS OAK",Free Agent,196,25,49,37,10,1,1,17,28,43,3,1,0.2500,0.3407,0.3265,684
-"Rendon, Anthony 2B WAS",Free Agent,176,20,46,30,12,0,4,18,16,34,0,0,0.2614,0.3265,0.3977,685
-"Valbuena, Luis 3B CHC ",Free Agent,213,21,46,28,12,0,6,22,30,42,1,2,0.2160,0.3143,0.3568,703
-"Ransom, Cody 3B CHC",Free Agent,149,18,30,14,9,0,7,22,18,60,0,0,0.2013,0.2959,0.4027,710
-"Inge, Brandon 2B PIT",Free Agent,226,22,46,31,9,1,5,28,17,66,0,1,0.2035,0.2602,0.3186,726
-"Santiago, Ramon 2B DET",Free Agent,230,25,53,39,9,2,3,20,19,36,0,0,0.2304,0.2953,0.3261,738
-"Morel, Brent 3B TOR ",Free Agent,184,20,42,32,7,0,3,16,11,34,3,2,0.2283,0.2755,0.3152,741
-"Gillaspie, Conor 3B CHW",Free Agent,149,17,36,25,5,1,5,15,13,27,0,0,0.2416,0.2988,0.3893,748
-"Murphy, Donnie 3B CHC ",Free Agent,119,15,27,15,6,1,5,15,7,35,1,0,0.2269,0.2901,0.4202,756
-"Tejada, Miguel 2B KC",Free Agent,159,14,41,32,7,0,2,15,6,20,2,1,0.2579,0.2857,0.3396,769
-"Iglesias, Jose SS DET ",Free Agent,141,16,39,31,6,1,1,10,6,26,2,1,0.2766,0.3268,0.3546,782
-"Profar, Jurickson 2B TEX ",Whiteness,152,16,35,25,6,0,4,14,13,34,1,2,0.2303,0.2994,0.3487,792
-"Moore, Scott 3B STL",Free Agent,100,12,26,16,6,0,4,13,8,28,0,0,0.2600,0.3333,0.4400,794
-"DeRosa, Mark 2B TOR",Free Agent,125,15,29,21,6,0,2,18,17,28,1,0,0.2320,0.3241,0.3280,797
-"Coghlan, Chris LF MIA ",Free Agent,186,18,42,29,10,1,2,14,16,35,3,3,0.2258,0.2913,0.3226,806
-"McDonald, John SS BOS ",Free Agent,164,15,36,26,7,0,3,16,10,25,1,2,0.2195,0.2670,0.3171,846
-"Davidson, Matt 3B CHW ",Free Agent,76,8,18,9,6,0,3,12,10,24,0,1,0.2368,0.3333,0.4342,917
-"Harris, Brendan SS NYY",Free Agent,107,14,22,14,4,0,4,9,6,29,0,1,0.2056,0.2522,0.3551,922
-"Semien, Marcus 3B CHW",Free Agent,69,7,18,12,4,0,2,7,1,22,2,2,0.2609,0.2676,0.4058,930
-"Galvis, Freddy 2B PHI",Free Agent,132,9,30,18,7,2,3,14,7,25,0,0,0.2273,0.2662,0.3788,934
-"Tracy, Chad 3B WAS",Free Agent,111,6,26,16,6,0,4,12,8,20,0,1,0.2342,0.2857,0.3964,935
-"Donald, Jason 3B KC ",Free Agent,85,10,22,17,3,1,1,6,4,25,2,1,0.2588,0.3043,0.3529,942
-"Kouzmanoff, Kevin 3B TEX ",Free Agent,78,8,18,12,4,0,2,11,4,15,1,0,0.2308,0.2791,0.3590,945
-"Bianchi, Jeff 3B MIL",Free Agent,102,10,23,19,3,0,1,11,5,20,1,1,0.2255,0.2593,0.2843,982
-"Escobar, Eduardo SS MIN",Free Agent,101,14,23,18,3,1,1,6,7,22,1,1,0.2277,0.2752,0.3069,985
-"DeWitt, Blake 3B ATL",Free Agent,87,7,22,15,4,1,2,9,4,11,0,0,0.2529,0.2857,0.3908,988
-"Garcia, Leury 2B CHW",Free Agent,101,10,20,18,1,1,0,2,7,34,7,2,0.1980,0.2477,0.2277,1000
-"Wood, Brandon 3B KC ",Free Agent,83,9,18,13,3,0,2,10,6,24,0,0,0.2169,0.2697,0.3253,1010
-"Gonzalez, Alberto 2B SD",Free Agent,119,10,26,19,5,1,1,14,5,19,0,1,0.2185,0.2520,0.3025,1011
-"Satin, Josh 1B NYM",Free Agent,72,9,19,13,5,0,1,6,10,23,0,0,0.2639,0.3537,0.3750,1018
-"Bogaerts, Xander 3B BOS ",Floaters and Sinkers,44,7,11,8,2,0,1,5,5,13,1,0,0.2500,0.3200,0.3636,1040
-"Falu, Irving 3B MIL",Free Agent,44,7,15,12,3,0,0,4,2,4,0,1,0.3409,0.3696,0.4091,1044
-"Bernier, Doug SS MIN",Free Agent,53,9,12,9,3,0,0,5,8,15,2,1,0.2264,0.3387,0.2830,1048
-"Snyder, Brandon 3B BOS",Free Agent,43,6,10,6,2,0,2,6,2,15,0,0,0.2326,0.2826,0.4186,1061
-"Holt, Brock 3B BOS",Free Agent,62,8,16,14,2,0,0,7,6,9,0,0,0.2581,0.3143,0.2903,1080
-"Janish, Paul 3B ATL",Free Agent,181,17,37,29,7,1,0,11,13,29,1,1,0.2044,0.2626,0.2541,1082
-"Stewart, Ian 3B CHC ",Free Agent,100,10,18,11,4,1,2,8,12,28,1,2,0.1800,0.2743,0.3000,1100
-"Pena, Ramiro 3B ATL",Free Agent,47,6,11,8,2,0,1,5,3,10,0,1,0.2340,0.2745,0.3404,1135
-"Jimenez, Luis 3B LAA",Free Agent,52,8,14,11,3,0,0,2,1,14,0,1,0.2692,0.3091,0.3269,1156
-"Noonan, Nick 2B SF",Free Agent,105,12,23,21,2,0,0,5,6,24,0,0,0.2190,0.2613,0.2381,1164
-"Romine, Andrew 3B LAA",Free Agent,47,4,12,11,1,0,0,4,4,11,1,0,0.2553,0.3137,0.2766,1176
-"Teahen, Mark 3B TEX",Free Agent,53,5,11,9,1,0,1,5,5,15,0,0,0.2075,0.2759,0.2830,1215
-"Adams, David 3B CLE ",Free Agent,70,5,14,11,2,0,1,6,4,22,0,0,0.2000,0.2533,0.2714,2328
-"Flores, Wilmer 3B NYM",Whiteness,48,4,10,8,2,0,0,6,2,12,0,0,0.2083,0.2400,0.2500,2362
-"Burroughs, Sean 3B MIN",Free Agent,42,3,11,9,2,0,0,3,1,6,0,0,0.2619,0.2791,0.3095,2366
-"Worth, Danny 3B DET ",Free Agent,38,5,9,7,2,0,0,2,5,11,0,0,0.2368,0.3256,0.2895,2375
-"Brignac, Reid SS NYY",Free Agent,121,8,22,18,3,0,1,7,5,33,1,0,0.1818,0.2143,0.2314,2389
-"LaRoche, Andy 3B TOR",Free Agent,32,3,8,6,2,0,0,2,3,7,0,0,0.2500,0.3333,0.3125,2415
-"Olmedo, Ray 3B MIN ",Free Agent,20,4,5,4,1,0,0,0,0,4,0,0,0.2500,0.2500,0.3000,2435
-"Valaika, Chris SS MIA",Free Agent,30,2,7,5,2,0,0,3,2,6,0,0,0.2333,0.2812,0.3000,2448
-"Tolleson, Steve 3B TOR ",Free Agent,36,2,6,3,2,0,1,3,2,8,0,0,0.1667,0.2105,0.3056,2481
-"Velazquez, Gil 3B MIA",Free Agent,21,1,5,5,0,0,0,1,0,4,0,0,0.2381,0.2381,0.2381,2524
-"Lutz, Zach 3B NYM",Free Agent,10,1,2,1,1,0,0,1,2,4,0,0,0.2000,0.3333,0.3000,2526
-"Diaz, Jonathan 3B TOR",Free Agent,4,2,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2541
-"Vitters, Josh 3B CHC ",Floaters and Sinkers,50,4,6,4,1,0,1,2,4,16,1,0,0.1200,0.2000,0.2000,2547
-"Smolinski, Jake 3B MIA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Klink, Simon 3B SF",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Cecchini, Garin 3B BOS ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Portes, Juan 3B MIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Peterson, D.J. 3B SEA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Murillo, Agustin 3B ARI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Kelly, Carson 3B STL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Skole, Matt 3B WAS",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Redman, Reid 3B TB",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Brown, Hunter 3B SEA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Villalona, Angel 3B SF",User Abuser,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Sweeney, Kellen 3B TOR",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Almanzar, Michael 3B BAL ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Hernandez, Brian 3B LAA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Mangini, Matt 3B CIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Johnson, Josh 3B WAS",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Stovall, Ryan 3B KC",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Linares, Donell 3B ATL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Campbell, Eric 3B NYM",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Mittelstaedt, T.J. 3B MIL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"King, Brennan 3B PHI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Huffman, Royce 3B TEX",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Reynolds, Kyle 3B CHC",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Johnson, Sherman 3B LAA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Adams, Joshua 3B MIA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Franco, Maikel 3B PHI ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Dominguez, Chris 3B SF",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Shaffer, Richie 3B TB ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Torres, Tim 3B CHC",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Rohan, Greg 3B CHC",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Salcedo, Edward 3B ATL ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Taylor, Brandon 3B CHC",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Prettyman, Ronald 3B SEA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Nye, Rodney 3B BOS",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Meyer, Jonathan 3B HOU ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Kelly, Tyler 3B SEA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Jova, Lopez 3B TOR",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Varner, Gary 3B ARI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Schnurstein, Micah 3B CHW",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Quintana, Gabriel 3B SD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Torreyes, Ronald 3B HOU ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Johnson, Tripper 3B PIT",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Rogelstad, Matt 3B SEA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Ferrer, Simon 3B COL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Souza, Steven 3B WAS",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Holcomb, Darin 3B COL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Wing, Michael 3B SD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Martinez, Francisco 3B DET",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Sano, Miguel 3B MIN ",Whiteness,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Hall, Matthew 3B TB",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Whitney, Matt 3B OAK",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Kleinknecht, Barrett 3B ATL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Pope, Peter 3B ATL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Sosa, Ricardo 3B ARI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Corcino, Edgar 3B DET",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Bellows, Kyle 3B CLE",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Mura, Kyle 3B STL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Sexton, Greg 3B TB",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Barden, Brian 3B LAD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Spann, Chad 3B BOS",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Collins, Michael 3B LAA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Gallagher, Glenn 3B LAD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Norris, Shawn 3B WAS",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Jagielo, Eric 3B NYY",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Thompson, Tony 3B OAK",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Gonzalez, Elevys 3B LAD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Renfroe, David 3B BOS",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Yount, Austin 3B CHW",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Shaw, Travis 3B BOS",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Cabrera, Yordy 3B OAK",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Mejias-Brean, Seth 3B CIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Catricala, Vinnie 3B OAK ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Drury, Brandon 3B ARI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Lucas, Richard 3B NYM",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"McCarthy, Ryan 3B CHW",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Villanueva, Christian 3B CHC",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Betsill, Matthew 3B MIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Gran, Paul 3B MIA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Rincon, Edinson 3B SD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Campbell, Eric 3B ATL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Mahoney, Kevin 3B NYY",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Urshela, Giovanny 3B CLE",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Dayleg, Terrence 3B MIA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Vechionacci, Marcos 3B NYY",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Schugel, A.J. 3B ARI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Mitchell, Lee 3B MIA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Green, Zach 3B PHI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Geiger, Dustin 3B CHC ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Biery, Drew 3B SF",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Spanos, Vasili 3B OAK",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Candelario, Jeimer 3B CHC",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Ruggiano, Brian 3B LAD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Vazquez, Jorge 3B NYY",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Gallo, Joey 3B TEX",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Risinger, Ben 3B SD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Hrynio, Mike 3B SEA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Maples, Chris 3B DET",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Rowell, William 3B BAL",Titty`s Warriors,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Lawley, Dustin 3B NYM",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Christian, Jason 3B MIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Jones, Duanel 3B SD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Lansford, Joshua 3B CHC",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Sobolewski, Mark 3B MIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Baez, Pedro 3B LAD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Cuthbert, Cheslor 3B KC",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Tanos, Brett 3B COL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Colonel, Christian 3B ATL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Alfaro, J.D. 3B KC",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Gaynor, Wade 3B DET",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Langfels, Jayson 3B COL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Cornejo, Eduardo 3B OAK",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Hidalgo, Anderson 3B MIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Kubitza, Kyle 3B ATL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Retherford, C.J. 3B LAD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Kreke, Jordan 3B HOU",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Nowak, Chris 3B MIL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Tugwell, Marc 3B PHI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Cowart, Kaleb 3B LAA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"McCann, Bradley 3B MIA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"McGee, Lenell 3B LAD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Valdez, Nova 3B OAK",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Duvall, Adam 3B SF",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Pahuta, Timothy 3B WAS",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Sing, Brandon 3B BAL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Avila, Eric 3B PIT",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Perez, Kenny 3B COL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Hawkins, Chris 3B TOR",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Greene, Jonathan 3B TEX",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Suarez, Cesar 3B LAD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Fields, Josh 3B PHI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Mansolino, Tony 3B PIT",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Molina, Felix 3B MIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Castillo, Ali 3B NYY",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Hessman, Mike 3B CIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Wisdom, Patrick 3B STL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Jones, Ryder 3B SF",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Leonard, Joe 3B ATL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Bolivar, Domnit 3B MIL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Brossman, Jay 3B LAA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Franklin, K.J. 3B CIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Pounds, Bryan 3B DET",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Hoenecke, Paul 3B LAD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Smith, Jordan 3B CLE",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Bucce, Yasmil 3B NYM",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Head, Miles 3B OAK",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Bryant, Kris 3B CHC ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Hannahan, Buzz 3B PHI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Trejo, Edgar 3B SEA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Wilkins, Andy 3B CHW ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Wheeler, Zelous 3B BAL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Suttle, Bradley 3B NYY",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Russo, Kevin 3B DET ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Vidal, David 3B CIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Smith, Marquez 3B CHC",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Cruz, Jeremy 3B LAA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Buckner, Grant 3B CHW",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Snyder, Brian 3B OAK",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Moran, Colin 3B MIA ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Blackwood, Jacob 3B SD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"McMahon, Ryan 3B COL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Moses, Matt 3B MIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Comerota, Jimmy 3B ARI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Whittleman, John 3B TEX",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Nazario, Radames 3B COL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Pinckney, Andrew 3B TOR",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Buckley, Sean 3B CIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Rodriguez, Aderlin 3B NYM",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Ponce, Ashley 3B PIT",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Minicozzi, Mark 3B SF",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Spina, Michael 3B OAK",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Perez, Jairo 3B MIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Trejo, Jaime 3B TEX",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Gemoll, Justin 3B KC",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Anson, Kyle 3B NYY",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Gilmore, Jonathan 3B CHW",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Henderson, Chris 3B LAD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Marte, Jefry 3B OAK",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Leer, Andy 3B MIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Loftus, Joseph 3B ARI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Reynolds, Matthew 3B NYM",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Hanson, Nathan 3B MIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Nunez, Renato 3B OAK",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Wilson, Steffan 3B MIL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Aspito, Jason 3B LAA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Brewer, Daniel 3B NYY",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Romero, Deibinson 3B MIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Bailey, Dwayne 3B LAA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Court, Ryan 3B ARI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Fisher, Ryan 3B MIA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Cabrera, Felix 3B SD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Reynolds, Jeff 3B NYM",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Sanchez, Adrian 3B WAS",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Hatch, Anthony 3B LAD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Mattair, Travis 3B CIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Ruiz, Rio 3B HOU",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Segedin, Rob 3B NYY",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Greene, Kyle 3B ARI",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Osborn, Pat 3B CLE",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Martinez, Mario 3B SEA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Fox, Adam 3B TEX",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Adams, Skip 3B SD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Esposito, Jason 3B BAL",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Clark, Matt 3B SD",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Ust, Brant 3B SEA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Tenbrink, Nate 3B SEA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Cox, Zack 3B MIA",Floaters and Sinkers,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Craig, Matthew 3B MIA",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Prasch, Edward 3B PIT",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Glenn, Brad 3B TOR",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Marte, Andy 3B ARI ",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Farrell, Jeremy 3B PIT",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Sweeney, Matt 3B TB",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Nuzzo, Matthew 3B TOR",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Mauer, Jake 3B MIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Bichette, Dante 3B NYY",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Jimenez, Jorge 3B BOS",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Harrison, Travis 3B MIN",Free Agent,0,0,0,0,0,0,0,0,0,0,0,0,0.0000,0.0000,0.0000,2551
-"Bell, Josh 3B CHW ",Free Agent,38,3,6,5,1,0,0,3,3,13,0,0,0.1579,0.2195,0.1842,4551
-"Jackson, Ryan 3B SD ",Free Agent,12,1,1,1,0,0,0,0,0,2,0,0,0.0833,0.0833,0.0833,4623
+Player,Team	AB	R	H	1B	2B	3B	HR	RBI	BB	KO	SB	CS	BA	OBP	SLG	Rank	
+"Cabrera, Miguel 3B DET "	Free Agent	583	108	198	121	38	0	39	127	88	94	3	1	0.3396	0.4271	0.6055	1
+"Beltre, Adrian 3B TEX"	Shits & Giggles	574	88	179	112	33	1	33	100	37	71	1	0	0.3118	0.3563	0.5453	7
+"Encarnacion, Edwin 1B TOR"	Sofa Kings	518	84	142	80	30	0	32	90	70	78	9	2	0.2741	0.3639	0.5174	18
+"Wright, David 3B NYM"	Want-a-be Ghetto All Stars	467	71	136	86	29	3	18	71	63	96	15	5	0.2912	0.3780	0.4818	58
+"Ramirez, Aramis 3B MIL"	Free Agent	480	72	143	86	34	1	22	82	41	69	3	1	0.2979	0.3619	0.5104	59
+"Zimmerman, Ryan 3B WAS "	EVIL EMPIRE	514	76	144	93	28	2	21	74	53	107	5	1	0.2802	0.3479	0.4650	67
+"Longoria, Evan 3B TB"	Whiteness	457	69	121	67	26	1	27	81	61	105	2	2	0.2648	0.3529	0.5033	70
+"Headley, Chase 3B SD "	Old Dirty Bugg	502	66	138	89	31	2	16	70	68	130	13	4	0.2749	0.3661	0.4402	83
+"Prado, Martin 3B ARI "	Free Agent	592	72	167	117	35	3	12	70	46	58	8	6	0.2821	0.3328	0.4122	102
+"Young, Michael 3B LAD "	Free Agent	587	73	176	131	31	5	9	73	41	77	3	1	0.2998	0.3433	0.4157	104
+"Reynolds, Mark 1B NYY "	Old Dirty Bugg	479	68	106	57	22	0	27	74	66	170	3	3	0.2213	0.3213	0.4363	116
+"Sandoval, Pablo 3B SF "	Shits & Giggles	449	55	131	87	26	2	16	71	39	67	1	2	0.2918	0.3461	0.4655	127
+"Gyorko, Jedd 2B SD"	Orange-a-Tangs	486	62	121	72	26	0	23	63	33	123	1	1	0.2490	0.3010	0.4444	143
+"Bonifacio, Emilio 2B KC "	Free Agent	410	54	111	86	17	5	3	26	38	95	33	7	0.2707	0.3319	0.3585	159
+"Freese, David 3B LAA "	Whiteness	432	55	122	86	22	1	13	65	43	101	2	2	0.2824	0.3554	0.4282	160
+"Johnson, Kelly OF NYY "	Titty`s Warriors	473	59	107	66	19	4	18	55	52	140	12	4	0.2262	0.3070	0.3975	174
+"Seager, Kyle 3B SEA"	Orange-a-Tangs	464	54	120	77	27	1	15	56	42	89	8	3	0.2586	0.3243	0.4181	176
+"Alvarez, Pedro 3B PIT "	User Abuser	439	51	101	58	19	1	23	68	43	149	1	0	0.2301	0.3004	0.4351	182
+"Rodriguez, Alex 3B NYY "	Free Agent	331	54	89	60	15	0	14	46	40	80	7	1	0.2689	0.3553	0.4411	194
+"Johnson, Chris 3B ATL "	Whiteness	460	45	132	90	28	3	11	62	25	115	2	1	0.2870	0.3272	0.4326	201
+"Machado, Manny 3B BAL "	Floaters and Sinkers	429	56	120	77	30	3	10	48	19	76	4	4	0.2797	0.3104	0.4336	212
+"Aviles, Mike 3B CLE"	Free Agent	386	47	97	66	20	1	10	48	17	54	12	5	0.2513	0.2822	0.3860	232
+"Callaspo, Alberto 3B OAK"	Free Agent	462	54	123	93	21	0	9	52	56	51	4	2	0.2662	0.3442	0.3701	241
+"Lawrie, Brett 3B TOR "	EVIL EMPIRE	348	47	94	64	17	3	10	40	26	62	10	5	0.2701	0.3281	0.4224	242
+"Roberts, Ryan 2B TB "	Free Agent	361	51	88	58	17	1	12	45	39	76	9	6	0.2438	0.3168	0.3961	244
+"Middlebrooks, Will 3B BOS "	Free Agent	308	38	78	46	16	0	16	52	16	84	4	1	0.2532	0.2918	0.4610	252
+"Carpenter, Matt 2B STL "	Old Dirty Bugg	312	57	96	60	26	4	6	41	37	55	1	1	0.3077	0.3827	0.4744	254
+"Frazier, Todd 3B CIN"	Old Dirty Bugg	355	45	88	50	20	3	15	52	31	85	3	2	0.2479	0.3173	0.4479	257
+"Arenado, Nolan 3B COL"	SA`s	486	49	130	87	29	4	10	52	23	72	2	0	0.2675	0.3008	0.4053	259
+"Plouffe, Trevor 3B MIN "	Free Agent	395	49	96	60	20	1	15	46	32	92	2	2	0.2430	0.3057	0.4127	277
+"Youkilis, Kevin 3B NYY "	EVIL EMPIRE	325	51	79	47	18	1	13	49	42	80	1	0	0.2431	0.3491	0.4246	278
+"Donaldson, Josh 3B OAK"	SA`s	284	41	80	50	18	1	11	42	30	57	3	1	0.2817	0.3563	0.4683	280
+"Moustakas, Mike 3B KC "	Free Agent	458	46	112	73	26	1	12	48	31	86	3	2	0.2445	0.2958	0.3843	303
+"Keppinger, Jeff 2B CHW "	Free Agent	396	41	112	89	16	1	6	38	19	32	0	1	0.2828	0.3159	0.3737	360
+"Betancourt, Yuniesky 1B MIL"	Free Agent	387	36	91	59	19	2	11	50	13	53	1	2	0.2351	0.2586	0.3798	372
+"Izturis, Maicer 2B TOR"	Free Agent	368	40	95	72	19	0	4	30	28	47	9	4	0.2582	0.3159	0.3424	382
+"Nunez, Eduardo SS NYY "	Free Agent	234	30	62	44	13	2	3	23	16	33	14	4	0.2650	0.3110	0.3761	395
+"Chavez, Eric 3B ARI "	Free Agent	222	27	61	40	11	1	9	36	21	46	0	0	0.2748	0.3360	0.4550	410
+"Carroll, Jamey 3B KC "	Free Agent	383	48	102	86	14	2	0	23	39	54	7	2	0.2663	0.3357	0.3133	417
+"Valencia, Danny DH KC "	Free Agent	293	32	72	46	16	1	9	39	17	58	1	3	0.2457	0.2843	0.3993	418
+"Wigginton, Ty 1B STL "	Free Agent	258	34	60	39	11	1	9	31	27	61	3	1	0.2326	0.3103	0.3876	435
+"Wallace, Brett 1B HOU "	Free Agent	276	32	68	43	15	1	9	30	24	89	1	1	0.2464	0.3170	0.4058	458
+"Descalso, Daniel SS STL"	Free Agent	343	40	83	58	18	4	3	32	31	68	5	3	0.2420	0.3097	0.3440	462
+"Lucas, Ed 3B MIA"	Free Agent	351	43	90	71	14	1	4	28	26	78	1	1	0.2564	0.3105	0.3362	466
+"Polanco, Placido 3B MIA"	Free Agent	383	36	102	85	14	0	3	31	28	33	2	0	0.2663	0.3214	0.3264	468
+"Johnson, Elliot 2B ATL"	Free Agent	237	26	52	38	8	2	4	23	18	68	15	5	0.2194	0.2763	0.3207	472
+"Nelson, Chris 3B LAA"	Free Agent	245	28	66	46	12	3	5	31	16	62	2	1	0.2694	0.3144	0.4041	478
+"Dominguez, Matt 3B HOU "	Disco Bush Horticulturists	232	24	58	38	10	1	9	32	12	40	0	0	0.2500	0.2932	0.4181	502
+"Turner, Justin 3B NYM "	Free Agent	269	27	72	49	19	1	3	29	20	39	3	1	0.2677	0.3288	0.3792	516
+"Francisco, Juan 1B MIL "	Free Agent	211	21	49	28	10	1	10	32	16	77	1	1	0.2322	0.2882	0.4313	520
+"Uribe, Juan 3B LAD "	Free Agent	273	28	65	44	14	1	6	32	20	59	2	0	0.2381	0.2953	0.3626	530
+"Arias, Joaquin 3B SF "	Free Agent	272	24	74	56	11	4	3	26	8	38	3	0	0.2721	0.2962	0.3750	536
+"Chisenhall, Lonnie 3B CLE "	Free Agent	214	24	52	32	12	0	8	25	11	44	1	0	0.2430	0.2832	0.4112	546
+"LeMahieu, DJ 2B COL "	Free Agent	231	23	65	50	12	2	1	18	11	40	6	3	0.2814	0.3115	0.3636	560
+"Gonzalez, Alex 1B MIL"	Free Agent	253	27	59	41	11	0	7	26	10	56	1	0	0.2332	0.2642	0.3597	565
+"Forsythe, Logan 2B TB "	Free Agent	228	26	55	40	9	2	4	19	20	48	6	1	0.2412	0.3123	0.3509	566
+"Baker, Jeff RF TEX "	Free Agent	181	20	47	29	11	1	6	23	13	47	2	0	0.2597	0.3112	0.4309	567
+"Nix, Jayson SS TB "	Free Agent	193	24	43	29	9	1	4	19	17	58	8	2	0.2228	0.2944	0.3420	575
+"Hairston, Jerry 3B LAD"	Free Agent	260	26	66	47	14	1	4	26	23	32	1	1	0.2538	0.3194	0.3615	578
+"Lillibridge, Brent 3B TEX "	Free Agent	145	22	31	22	4	0	5	15	10	50	8	3	0.2138	0.2795	0.3448	595
+"Flaherty, Ryan 2B BAL"	Free Agent	200	22	44	30	6	0	8	23	12	52	2	0	0.2200	0.2778	0.3700	601
+"Hannahan, Jack 3B CIN"	Free Agent	249	24	60	43	12	1	4	28	28	60	1	1	0.2410	0.3214	0.3454	623
+"Cruz, Luis 3B NYY"	Free Agent	228	22	54	38	12	0	4	26	8	34	2	0	0.2368	0.2708	0.3421	634
+"Amarista, Alexi OF SD"	Free Agent	232	24	54	37	11	3	3	23	14	36	4	2	0.2328	0.2782	0.3448	638
+"Kelly, Don LF DET"	Free Agent	195	27	44	32	5	2	5	19	18	27	2	0	0.2256	0.2949	0.3487	643
+"Ciriaco, Pedro SS KC"	Free Agent	139	15	38	28	7	2	1	11	6	25	9	2	0.2734	0.3034	0.3741	653
+"Herrera, Jonathan SS BOS "	Free Agent	234	24	61	51	7	1	2	14	19	34	4	2	0.2607	0.3176	0.3248	654
+"Asche, Cody 3B PHI"	Free Agent	162	18	38	24	8	1	5	22	15	43	1	0	0.2346	0.3017	0.3889	677
+"Harrison, Josh OF PIT"	Free Agent	177	22	44	31	8	3	2	15	5	24	4	1	0.2486	0.2796	0.3616	683
+"Punto, Nick SS OAK"	Free Agent	196	25	49	37	10	1	1	17	28	43	3	1	0.2500	0.3407	0.3265	684
+"Rendon, Anthony 2B WAS"	Free Agent	176	20	46	30	12	0	4	18	16	34	0	0	0.2614	0.3265	0.3977	685
+"Valbuena, Luis 3B CHC "	Free Agent	213	21	46	28	12	0	6	22	30	42	1	2	0.2160	0.3143	0.3568	703
+"Ransom, Cody 3B CHC"	Free Agent	149	18	30	14	9	0	7	22	18	60	0	0	0.2013	0.2959	0.4027	710
+"Inge, Brandon 2B PIT"	Free Agent	226	22	46	31	9	1	5	28	17	66	0	1	0.2035	0.2602	0.3186	726
+"Santiago, Ramon 2B DET"	Free Agent	230	25	53	39	9	2	3	20	19	36	0	0	0.2304	0.2953	0.3261	738
+"Morel, Brent 3B TOR "	Free Agent	184	20	42	32	7	0	3	16	11	34	3	2	0.2283	0.2755	0.3152	741
+"Gillaspie, Conor 3B CHW"	Free Agent	149	17	36	25	5	1	5	15	13	27	0	0	0.2416	0.2988	0.3893	748
+"Murphy, Donnie 3B CHC "	Free Agent	119	15	27	15	6	1	5	15	7	35	1	0	0.2269	0.2901	0.4202	756
+"Tejada, Miguel 2B KC"	Free Agent	159	14	41	32	7	0	2	15	6	20	2	1	0.2579	0.2857	0.3396	769
+"Iglesias, Jose SS DET "	Free Agent	141	16	39	31	6	1	1	10	6	26	2	1	0.2766	0.3268	0.3546	782
+"Profar, Jurickson 2B TEX "	Whiteness	152	16	35	25	6	0	4	14	13	34	1	2	0.2303	0.2994	0.3487	792
+"Moore, Scott 3B STL"	Free Agent	100	12	26	16	6	0	4	13	8	28	0	0	0.2600	0.3333	0.4400	794
+"DeRosa, Mark 2B TOR"	Free Agent	125	15	29	21	6	0	2	18	17	28	1	0	0.2320	0.3241	0.3280	797
+"Coghlan, Chris LF MIA "	Free Agent	186	18	42	29	10	1	2	14	16	35	3	3	0.2258	0.2913	0.3226	806
+"McDonald, John SS BOS "	Free Agent	164	15	36	26	7	0	3	16	10	25	1	2	0.2195	0.2670	0.3171	846
+"Davidson, Matt 3B CHW "	Free Agent	76	8	18	9	6	0	3	12	10	24	0	1	0.2368	0.3333	0.4342	917
+"Harris, Brendan SS NYY"	Free Agent	107	14	22	14	4	0	4	9	6	29	0	1	0.2056	0.2522	0.3551	922
+"Semien, Marcus 3B CHW"	Free Agent	69	7	18	12	4	0	2	7	1	22	2	2	0.2609	0.2676	0.4058	930
+"Galvis, Freddy 2B PHI"	Free Agent	132	9	30	18	7	2	3	14	7	25	0	0	0.2273	0.2662	0.3788	934
+"Tracy, Chad 3B WAS"	Free Agent	111	6	26	16	6	0	4	12	8	20	0	1	0.2342	0.2857	0.3964	935
+"Donald, Jason 3B KC "	Free Agent	85	10	22	17	3	1	1	6	4	25	2	1	0.2588	0.3043	0.3529	942
+"Kouzmanoff, Kevin 3B TEX "	Free Agent	78	8	18	12	4	0	2	11	4	15	1	0	0.2308	0.2791	0.3590	945
+"Bianchi, Jeff 3B MIL"	Free Agent	102	10	23	19	3	0	1	11	5	20	1	1	0.2255	0.2593	0.2843	982
+"Escobar, Eduardo SS MIN"	Free Agent	101	14	23	18	3	1	1	6	7	22	1	1	0.2277	0.2752	0.3069	985
+"DeWitt, Blake 3B ATL"	Free Agent	87	7	22	15	4	1	2	9	4	11	0	0	0.2529	0.2857	0.3908	988
+"Garcia, Leury 2B CHW"	Free Agent	101	10	20	18	1	1	0	2	7	34	7	2	0.1980	0.2477	0.2277	1000
+"Wood, Brandon 3B KC "	Free Agent	83	9	18	13	3	0	2	10	6	24	0	0	0.2169	0.2697	0.3253	1010
+"Gonzalez, Alberto 2B SD"	Free Agent	119	10	26	19	5	1	1	14	5	19	0	1	0.2185	0.2520	0.3025	1011
+"Satin, Josh 1B NYM"	Free Agent	72	9	19	13	5	0	1	6	10	23	0	0	0.2639	0.3537	0.3750	1018
+"Bogaerts, Xander 3B BOS "	Floaters and Sinkers	44	7	11	8	2	0	1	5	5	13	1	0	0.2500	0.3200	0.3636	1040
+"Falu, Irving 3B MIL"	Free Agent	44	7	15	12	3	0	0	4	2	4	0	1	0.3409	0.3696	0.4091	1044
+"Bernier, Doug SS MIN"	Free Agent	53	9	12	9	3	0	0	5	8	15	2	1	0.2264	0.3387	0.2830	1048
+"Snyder, Brandon 3B BOS"	Free Agent	43	6	10	6	2	0	2	6	2	15	0	0	0.2326	0.2826	0.4186	1061
+"Holt, Brock 3B BOS"	Free Agent	62	8	16	14	2	0	0	7	6	9	0	0	0.2581	0.3143	0.2903	1080
+"Janish, Paul 3B ATL"	Free Agent	181	17	37	29	7	1	0	11	13	29	1	1	0.2044	0.2626	0.2541	1082
+"Stewart, Ian 3B CHC "	Free Agent	100	10	18	11	4	1	2	8	12	28	1	2	0.1800	0.2743	0.3000	1100
+"Pena, Ramiro 3B ATL"	Free Agent	47	6	11	8	2	0	1	5	3	10	0	1	0.2340	0.2745	0.3404	1135
+"Jimenez, Luis 3B LAA"	Free Agent	52	8	14	11	3	0	0	2	1	14	0	1	0.2692	0.3091	0.3269	1156
+"Noonan, Nick 2B SF"	Free Agent	105	12	23	21	2	0	0	5	6	24	0	0	0.2190	0.2613	0.2381	1164
+"Romine, Andrew 3B LAA"	Free Agent	47	4	12	11	1	0	0	4	4	11	1	0	0.2553	0.3137	0.2766	1176
+"Teahen, Mark 3B TEX"	Free Agent	53	5	11	9	1	0	1	5	5	15	0	0	0.2075	0.2759	0.2830	1215
+"Adams, David 3B CLE "	Free Agent	70	5	14	11	2	0	1	6	4	22	0	0	0.2000	0.2533	0.2714	2328
+"Flores, Wilmer 3B NYM"	Whiteness	48	4	10	8	2	0	0	6	2	12	0	0	0.2083	0.2400	0.2500	2362
+"Burroughs, Sean 3B MIN"	Free Agent	42	3	11	9	2	0	0	3	1	6	0	0	0.2619	0.2791	0.3095	2366
+"Worth, Danny 3B DET "	Free Agent	38	5	9	7	2	0	0	2	5	11	0	0	0.2368	0.3256	0.2895	2375
+"Brignac, Reid SS NYY"	Free Agent	121	8	22	18	3	0	1	7	5	33	1	0	0.1818	0.2143	0.2314	2389
+"LaRoche, Andy 3B TOR"	Free Agent	32	3	8	6	2	0	0	2	3	7	0	0	0.2500	0.3333	0.3125	2415
+"Olmedo, Ray 3B MIN "	Free Agent	20	4	5	4	1	0	0	0	0	4	0	0	0.2500	0.2500	0.3000	2435
+"Valaika, Chris SS MIA"	Free Agent	30	2	7	5	2	0	0	3	2	6	0	0	0.2333	0.2812	0.3000	2448
+"Tolleson, Steve 3B TOR "	Free Agent	36	2	6	3	2	0	1	3	2	8	0	0	0.1667	0.2105	0.3056	2481
+"Velazquez, Gil 3B MIA"	Free Agent	21	1	5	5	0	0	0	1	0	4	0	0	0.2381	0.2381	0.2381	2524
+"Lutz, Zach 3B NYM"	Free Agent	10	1	2	1	1	0	0	1	2	4	0	0	0.2000	0.3333	0.3000	2526
+"Diaz, Jonathan 3B TOR"	Free Agent	4	2	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2541
+"Vitters, Josh 3B CHC "	Floaters and Sinkers	50	4	6	4	1	0	1	2	4	16	1	0	0.1200	0.2000	0.2000	2547
+"Smolinski, Jake 3B MIA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Klink, Simon 3B SF"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Cecchini, Garin 3B BOS "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Portes, Juan 3B MIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Peterson, D.J. 3B SEA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Murillo, Agustin 3B ARI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Kelly, Carson 3B STL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Skole, Matt 3B WAS"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Redman, Reid 3B TB"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Brown, Hunter 3B SEA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Villalona, Angel 3B SF"	User Abuser	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Sweeney, Kellen 3B TOR"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Almanzar, Michael 3B BAL "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Hernandez, Brian 3B LAA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Mangini, Matt 3B CIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Johnson, Josh 3B WAS"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Stovall, Ryan 3B KC"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Linares, Donell 3B ATL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Campbell, Eric 3B NYM"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Mittelstaedt, T.J. 3B MIL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"King, Brennan 3B PHI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Huffman, Royce 3B TEX"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Reynolds, Kyle 3B CHC"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Johnson, Sherman 3B LAA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Adams, Joshua 3B MIA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Franco, Maikel 3B PHI "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Dominguez, Chris 3B SF"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Shaffer, Richie 3B TB "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Torres, Tim 3B CHC"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Rohan, Greg 3B CHC"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Salcedo, Edward 3B ATL "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Taylor, Brandon 3B CHC"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Prettyman, Ronald 3B SEA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Nye, Rodney 3B BOS"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Meyer, Jonathan 3B HOU "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Kelly, Tyler 3B SEA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Jova, Lopez 3B TOR"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Varner, Gary 3B ARI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Schnurstein, Micah 3B CHW"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Quintana, Gabriel 3B SD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Torreyes, Ronald 3B HOU "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Johnson, Tripper 3B PIT"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Rogelstad, Matt 3B SEA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Ferrer, Simon 3B COL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Souza, Steven 3B WAS"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Holcomb, Darin 3B COL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Wing, Michael 3B SD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Martinez, Francisco 3B DET"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Sano, Miguel 3B MIN "	Whiteness	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Hall, Matthew 3B TB"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Whitney, Matt 3B OAK"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Kleinknecht, Barrett 3B ATL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Pope, Peter 3B ATL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Sosa, Ricardo 3B ARI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Corcino, Edgar 3B DET"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Bellows, Kyle 3B CLE"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Mura, Kyle 3B STL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Sexton, Greg 3B TB"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Barden, Brian 3B LAD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Spann, Chad 3B BOS"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Collins, Michael 3B LAA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Gallagher, Glenn 3B LAD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Norris, Shawn 3B WAS"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Jagielo, Eric 3B NYY"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Thompson, Tony 3B OAK"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Gonzalez, Elevys 3B LAD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Renfroe, David 3B BOS"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Yount, Austin 3B CHW"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Shaw, Travis 3B BOS"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Cabrera, Yordy 3B OAK"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Mejias-Brean, Seth 3B CIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Catricala, Vinnie 3B OAK "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Drury, Brandon 3B ARI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Lucas, Richard 3B NYM"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"McCarthy, Ryan 3B CHW"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Villanueva, Christian 3B CHC"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Betsill, Matthew 3B MIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Gran, Paul 3B MIA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Rincon, Edinson 3B SD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Campbell, Eric 3B ATL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Mahoney, Kevin 3B NYY"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Urshela, Giovanny 3B CLE"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Dayleg, Terrence 3B MIA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Vechionacci, Marcos 3B NYY"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Schugel, A.J. 3B ARI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Mitchell, Lee 3B MIA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Green, Zach 3B PHI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Geiger, Dustin 3B CHC "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Biery, Drew 3B SF"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Spanos, Vasili 3B OAK"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Candelario, Jeimer 3B CHC"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Ruggiano, Brian 3B LAD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Vazquez, Jorge 3B NYY"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Gallo, Joey 3B TEX"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Risinger, Ben 3B SD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Hrynio, Mike 3B SEA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Maples, Chris 3B DET"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Rowell, William 3B BAL"	Titty`s Warriors	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Lawley, Dustin 3B NYM"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Christian, Jason 3B MIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Jones, Duanel 3B SD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Lansford, Joshua 3B CHC"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Sobolewski, Mark 3B MIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Baez, Pedro 3B LAD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Cuthbert, Cheslor 3B KC"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Tanos, Brett 3B COL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Colonel, Christian 3B ATL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Alfaro, J.D. 3B KC"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Gaynor, Wade 3B DET"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Langfels, Jayson 3B COL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Cornejo, Eduardo 3B OAK"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Hidalgo, Anderson 3B MIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Kubitza, Kyle 3B ATL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Retherford, C.J. 3B LAD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Kreke, Jordan 3B HOU"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Nowak, Chris 3B MIL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Tugwell, Marc 3B PHI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Cowart, Kaleb 3B LAA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"McCann, Bradley 3B MIA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"McGee, Lenell 3B LAD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Valdez, Nova 3B OAK"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Duvall, Adam 3B SF"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Pahuta, Timothy 3B WAS"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Sing, Brandon 3B BAL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Avila, Eric 3B PIT"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Perez, Kenny 3B COL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Hawkins, Chris 3B TOR"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Greene, Jonathan 3B TEX"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Suarez, Cesar 3B LAD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Fields, Josh 3B PHI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Mansolino, Tony 3B PIT"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Molina, Felix 3B MIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Castillo, Ali 3B NYY"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Hessman, Mike 3B CIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Wisdom, Patrick 3B STL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Jones, Ryder 3B SF"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Leonard, Joe 3B ATL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Bolivar, Domnit 3B MIL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Brossman, Jay 3B LAA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Franklin, K.J. 3B CIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Pounds, Bryan 3B DET"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Hoenecke, Paul 3B LAD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Smith, Jordan 3B CLE"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Bucce, Yasmil 3B NYM"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Head, Miles 3B OAK"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Bryant, Kris 3B CHC "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Hannahan, Buzz 3B PHI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Trejo, Edgar 3B SEA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Wilkins, Andy 3B CHW "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Wheeler, Zelous 3B BAL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Suttle, Bradley 3B NYY"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Russo, Kevin 3B DET "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Vidal, David 3B CIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Smith, Marquez 3B CHC"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Cruz, Jeremy 3B LAA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Buckner, Grant 3B CHW"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Snyder, Brian 3B OAK"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Moran, Colin 3B MIA "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Blackwood, Jacob 3B SD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"McMahon, Ryan 3B COL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Moses, Matt 3B MIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Comerota, Jimmy 3B ARI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Whittleman, John 3B TEX"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Nazario, Radames 3B COL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Pinckney, Andrew 3B TOR"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Buckley, Sean 3B CIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Rodriguez, Aderlin 3B NYM"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Ponce, Ashley 3B PIT"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Minicozzi, Mark 3B SF"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Spina, Michael 3B OAK"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Perez, Jairo 3B MIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Trejo, Jaime 3B TEX"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Gemoll, Justin 3B KC"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Anson, Kyle 3B NYY"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Gilmore, Jonathan 3B CHW"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Henderson, Chris 3B LAD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Marte, Jefry 3B OAK"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Leer, Andy 3B MIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Loftus, Joseph 3B ARI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Reynolds, Matthew 3B NYM"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Hanson, Nathan 3B MIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Nunez, Renato 3B OAK"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Wilson, Steffan 3B MIL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Aspito, Jason 3B LAA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Brewer, Daniel 3B NYY"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Romero, Deibinson 3B MIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Bailey, Dwayne 3B LAA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Court, Ryan 3B ARI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Fisher, Ryan 3B MIA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Cabrera, Felix 3B SD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Reynolds, Jeff 3B NYM"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Sanchez, Adrian 3B WAS"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Hatch, Anthony 3B LAD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Mattair, Travis 3B CIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Ruiz, Rio 3B HOU"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Segedin, Rob 3B NYY"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Greene, Kyle 3B ARI"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Osborn, Pat 3B CLE"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Martinez, Mario 3B SEA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Fox, Adam 3B TEX"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Adams, Skip 3B SD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Esposito, Jason 3B BAL"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Clark, Matt 3B SD"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Ust, Brant 3B SEA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Tenbrink, Nate 3B SEA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Cox, Zack 3B MIA"	Floaters and Sinkers	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Craig, Matthew 3B MIA"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Prasch, Edward 3B PIT"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Glenn, Brad 3B TOR"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Marte, Andy 3B ARI "	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Farrell, Jeremy 3B PIT"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Sweeney, Matt 3B TB"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Nuzzo, Matthew 3B TOR"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Mauer, Jake 3B MIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Bichette, Dante 3B NYY"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Jimenez, Jorge 3B BOS"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Harrison, Travis 3B MIN"	Free Agent	0	0	0	0	0	0	0	0	0	0	0	0	0.0000	0.0000	0.0000	2551
+"Bell, Josh 3B CHW "	Free Agent	38	3	6	5	1	0	0	3	3	13	0	0	0.1579	0.2195	0.1842	4551
+"Jackson, Ryan 3B SD "	Free Agent	12	1	1	1	0	0	0	0	0	2	0	0	0.0833	0.0833	0.0833	4623

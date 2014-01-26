@@ -77,19 +77,16 @@ public class AUPitcher extends AUPlayer implements Comparable<AUPitcher> {
     	AULeague l = AULeague.getInstance();
 
     	// get the percentages
-    	double innAvg = (double)stats.getInnings() / (l.getInnAverage()/6);     // 2013: Weight innings more without affecting ERA/WHIP
-    	double savesAvg = (double)stats.getSaves() / l.getSaveAverage() * 2;	// pear down the value of saves
+    	double innAvg = (double)stats.getInnings() / (l.getInnAverage());     // 2013: Weight innings more without affecting ERA/WHIP
+    	                                                                      // 2014: Roll back 2013 change
+    	double savesAvg = (double)stats.getSaves() / l.getSaveAverage() * 2;  // pare down the value of saves
     	double kAvg = (double)stats.getStrikeouts() / l.getKAverage();
     	double winAvg = (double)stats.getWins() / l.getWinAverage();
     	
     	// weight whip and average with innings
     	double innPerPlayerAvg = l.getInnAverage() / 10.0;
-    	//double weight = ((double)stats.getInnings() - innPerPlayerAvg) / innPerPlayerAvg;  // Original weighting.
-    	//double weight = ((double)stats.getInnings()) / innPerPlayerAvg;  
-    	
-    	// 2012, weighted innings/whip too much.  Fix this by cutting the weight in half.  Adjust
-    	// innAvg weight to give more value to starters.
-    	double weight = ((double)stats.getInnings()) / innPerPlayerAvg / 2;
+    	double weight = ((double)stats.getInnings()) / innPerPlayerAvg;
+    
     	double eraAvg = (( l.getEraAverage() - (double)stats.getEra() ) / l.getEraAverage()) + weight/2;
     	double whipAvg = (( l.getWhipAverage() - (double)stats.getWhip() ) / l.getWhipAverage()) + weight/2;
 

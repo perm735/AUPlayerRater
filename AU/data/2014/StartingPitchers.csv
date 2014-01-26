@@ -1,0 +1,726 @@
+All Starting Pitchers 3 Year Averages MLB Standard Stats
+Player,Team,INN,GS,QS,CG,W,L,S,BS,K,BBI,HA,ERA,WHIP,Rank,
+"Kershaw, Clayton SP LAD ",Sofa Kings,232.3,33,26,3,17,8,0,0,236,56,169,2.208,0.9684,2
+"Verlander, Justin SP DET ",Free Agent,236.0,34,25,3,18,8,0,0,235,64,193,2.822,1.0890,6
+"Lee, Cliff SP PHI ",Want-a-be Ghetto All Stars,222.0,31,23,3,12,8,0,0,222,34,199,2.797,1.0495,23
+"Fernandez, Jose SP MIA",Old Dirty Bugg,172.7,28,20,0,12,6,0,0,187,58,111,2.189,0.9788,24
+"Shields, James SP KC",Orange-a-Tangs,235.3,33,24,5,15,10,0,0,215,64,206,3.136,1.1473,35
+"Darvish, Yu SP TEX ",SA`s,200.7,30,20,0,14,9,0,0,249,84,150,3.319,1.1661,38
+"Weaver, Jered SP LAA ",User Abuser,193.0,29,22,2,16,7,0,0,152,46,156,2.751,1.0466,39
+"Hamels, Cole SP PHI",Free Agent,217.0,32,24,2,13,10,0,0,204,49,188,3.152,1.0922,47
+"Bumgarner, Madison SP SF",Disco Bush Horticulturists,204.7,32,21,1,14,11,0,0,194,52,177,3.122,1.1189,52
+"Price, David SP TB ",Orange-a-Tangs,207.3,31,21,2,14,9,0,0,191,50,181,3.125,1.1141,53
+"Hernandez, Felix SP SEA",Shits & Giggles,223.3,32,22,3,13,11,0,0,220,56,204,3.184,1.1642,54
+"Scherzer, Max SP DET ",Want-a-be Ghetto All Stars,199.0,32,20,0,17,6,0,0,215,57,179,3.663,1.1859,56
+"Gonzalez, Gio SP WAS",Want-a-be Ghetto All Stars,199.0,32,21,1,16,9,0,0,199,81,164,3.121,1.2312,62
+"Greinke, Zack SP LAD ",Shits & Giggles,187.3,30,19,0,15,5,0,0,183,48,171,3.315,1.1690,68
+"Cain, Matt SP SF",EVIL EMPIRE,208.3,32,22,1,12,9,0,0,177,56,171,3.197,1.0896,69
+"Dickey, R.A. SP TOR ",Shits & Giggles,222.3,33,23,3,14,11,0,0,180,60,200,3.400,1.1694,80
+"Sabathia, CC SP NYY ",Free Agent,216.0,31,19,2,16,9,0,0,201,57,213,3.708,1.2500,84
+"Iwakuma, Hisashi SP SEA",Want-a-be Ghetto All Stars,172.7,24,16,0,12,6,1,0,143,42,148,2.815,1.1004,88
+"Sale, Chris SP CHW ",Sofa Kings,159.0,20,14,2,10,8,3,1,166,41,134,3.000,1.1006,92
+"Ryu, Hyun-Jin SP LAD ",SA`s,192.0,30,22,2,14,8,0,0,154,49,182,3.000,1.2031,94
+"Zimmermann, Jordan SP WAS ",Floaters and Sinkers,190.0,30,20,2,13,9,0,0,146,38,177,3.126,1.1316,97
+"Wilson, C.J. SP LAA ",Want-a-be Ghetto All Stars,212.7,34,23,1,15,8,0,0,189,83,191,3.386,1.2884,99
+"Latos, Mat SP CIN ",Orange-a-Tangs,204.7,32,20,1,12,8,0,0,186,61,181,3.386,1.1824,101
+"Kuroda, Hiroki SP NYY",Titty`s Warriors,207.7,32,20,1,13,13,0,0,159,48,197,3.250,1.1798,106
+"Lohse, Kyle SP MIL ",User Abuser,199.3,32,20,1,14,7,0,0,126,39,189,3.206,1.1438,108
+"Gallardo, Yovani SP MIL",Whiteness,197.3,32,22,0,15,10,0,0,185,69,186,3.785,1.2922,121
+"Kennedy, Ian SP SD ",Whiteness,204.0,32,19,1,14,9,0,0,183,61,194,3.882,1.2500,129
+"Fister, Doug SP WAS ",Shits & Giggles,195.7,30,20,2,12,11,0,0,147,39,193,3.312,1.1857,130
+"Sanchez, Anibal SP DET",Free Agent,191.3,31,20,2,10,10,0,0,190,55,181,3.387,1.2334,131
+"Haren, Dan SP LAD ",Free Agent,195.0,31,19,2,13,12,0,0,162,34,193,3.969,1.1641,133
+"Cueto, Johnny SP CIN",Old Dirty Bugg,144.7,23,16,2,11,5,0,0,108,38,125,2.613,1.1267,136
+"Harvey, Matt SP NYM ",Orange-a-Tangs,118.7,18,13,0,6,5,0,0,130,28,88,2.427,0.9775,147
+"Wainwright, Adam SP STL ",EVIL EMPIRE,146.7,22,15,3,11,7,0,0,134,29,140,3.375,1.1523,155
+"Strasburg, Stephen SP WAS ",EVIL EMPIRE,122.0,21,13,0,8,5,0,0,137,35,96,2.951,1.0738,158
+"Hudson, Tim SP SF ",Floaters and Sinkers,175.0,27,17,1,13,8,0,0,118,47,159,3.549,1.1771,163
+"Bailey, Homer SP CIN ",Sofa Kings,183.0,29,18,1,11,10,0,0,158,46,174,3.787,1.2022,171
+"Burnett, A.J. SP PIT ",Floaters and Sinkers,194.7,31,16,1,12,11,0,0,187,71,181,3.976,1.2945,173
+"Halladay, Roy SP PHI",Free Agent,150.7,23,15,3,11,6,0,0,134,36,139,3.704,1.1615,180
+"Holland, Derek SP TEX ",Titty`s Warriors,195.3,31,19,2,13,7,0,0,165,61,191,3.962,1.2901,184
+"Colon, Bartolo SP NYM",Free Agent,169.0,27,16,1,12,8,0,0,114,31,175,3.302,1.2189,185
+"Lester, Jon SP BOS ",Free Agent,203.3,32,19,1,13,10,0,0,175,70,197,4.028,1.3131,188
+"Lincecum, Tim SP SF",Free Agent,200.3,33,17,1,11,14,0,0,201,84,181,4.043,1.3228,189
+"Santana, Ervin SP KC ",Floaters and Sinkers,206.0,32,20,2,10,12,0,0,157,61,187,3.845,1.2039,193
+"Masterson, Justin SP CLE ",User Abuser,205.0,32,19,2,12,12,0,0,171,76,193,3.863,1.3122,196
+"Griffin, A.J. SP OAK",Orange-a-Tangs,141.3,24,12,0,10,6,0,0,118,36,122,3.566,1.1179,198
+"Minor, Mike SP ATL ",Disco Bush Horticulturists,155.7,26,15,0,10,7,0,0,134,44,140,3.700,1.1820,206
+"Medlen, Kris SP ATL ",Shits & Giggles,112.3,14,11,1,8,4,0,0,93,23,99,2.484,1.0861,207
+"Peavy, Jake SP BOS",Whiteness,158.3,24,15,2,10,8,0,0,137,36,146,3.979,1.1495,210
+"Hellickson, Jeremy SP TB ",Free Agent,180.0,30,16,1,12,10,0,0,125,60,165,3.700,1.2500,215
+"Buehrle, Mark SP TOR",Free Agent,203.7,32,19,1,13,11,0,0,124,45,214,3.845,1.2717,225
+"Cole, Gerrit SP PIT",SA`s,117.3,19,14,0,10,7,0,0,100,28,109,3.222,1.1676,226
+"Lynn, Lance SP STL ",Orange-a-Tangs,137.3,21,12,0,11,6,0,0,139,50,127,3.801,1.2888,229
+"Corbin, Patrick SP ARI",Orange-a-Tangs,157.7,24,15,2,10,8,0,0,132,40,153,3.767,1.2241,231
+"Garza, Matt SP TEX ",Disco Bush Horticulturists,152.3,24,14,1,8,8,0,0,143,46,142,3.604,1.2341,246
+"Niese, Jonathon SP NYM ",Free Agent,163.7,27,17,0,11,9,0,0,133,47,170,3.794,1.3259,260
+"Rodriguez, Wandy SP PIT ",Old Dirty Bugg,153.0,25,16,0,10,9,0,0,117,46,148,3.647,1.2680,264
+"Leake, Mike SP CIN ",Free Agent,179.7,29,17,1,11,8,0,0,119,42,184,3.907,1.2579,265
+"Samardzija, Jeff SP CHC ",EVIL EMPIRE,158.7,20,12,1,8,10,0,1,160,61,144,3.914,1.2920,267
+"Gonzalez, Miguel SP BAL ",Free Agent,138.3,22,14,0,10,6,0,0,98,44,124,3.578,1.2145,268
+"Miller, Shelby SP STL ",Shits & Giggles,93.3,16,7,0,8,4,0,0,92,30,80,2.893,1.1786,271
+"Arroyo, Bronson SP CIN ",Free Agent,201.0,32,19,1,12,11,0,0,120,38,212,4.209,1.2438,274
+"Moore, Matt SP TB",Shits & Giggles,112.3,20,9,0,10,5,0,0,111,53,95,3.525,1.3175,281
+"Vargas, Jason SP KC",Free Agent,189.3,30,18,3,11,11,0,0,127,53,189,4.040,1.2782,282
+"Vogelsong, Ryan SP SF",Free Agent,157.7,26,16,0,10,7,0,0,121,54,153,3.653,1.3129,284
+"Buchholz, Clay SP BOS ",Want-a-be Ghetto All Stars,126.7,20,11,1,10,4,0,0,95,44,113,3.553,1.2395,285
+"Miley, Wade SP ARI",EVIL EMPIRE,145.7,23,15,0,10,8,0,0,105,40,147,3.522,1.2838,286
+"Harrison, Matt SP TEX ",Free Agent,136.7,21,13,1,11,7,0,0,90,41,135,3.490,1.2878,289
+"Nolasco, Ricky SP MIN",Free Agent,198.7,32,16,2,12,12,0,0,146,46,218,4.304,1.3289,291
+"Chen, Wei-Yin SP BAL ",Free Agent,164.7,28,15,0,10,9,0,0,129,48,164,4.045,1.2874,295
+"Nova, Ivan SP NYY ",Free Agent,158.3,25,14,1,12,6,0,0,122,52,164,3.979,1.3642,297
+"Ogando, Alexi SP TEX",Free Agent,113.0,16,8,0,7,4,1,1,88,34,95,3.345,1.1416,301
+"Quintana, Jose SP CHW",Free Agent,168.0,28,14,0,8,6,0,0,122,49,165,3.643,1.2738,305
+"Dempster, Ryan SP BOS",Free Agent,182.3,30,18,0,10,10,0,0,167,71,179,4.294,1.3711,311
+"Cobb, Alex SP TB ",Sofa Kings,110.7,18,10,1,8,5,0,0,92,35,100,3.416,1.2199,317
+"Roark, Tanner SP WAS",Free Agent,53.7,5,4,0,7,1,0,0,40,11,38,1.509,0.9130,319
+"Beckett, Josh SP LAD ",Floaters and Sinkers,135.7,22,12,1,7,9,0,0,116,40,123,3.848,1.2015,320
+"Cahill, Trevor SP ARI",Disco Bush Horticulturists,184.7,30,16,1,11,12,0,0,135,74,180,3.996,1.3755,321
+"Maholm, Paul SP ATL ",Old Dirty Bugg,168.0,28,15,1,10,12,0,0,114,50,169,3.911,1.3036,323
+"Gee, Dillon SP NYM ",Free Agent,156.3,25,13,1,10,8,0,0,118,49,155,4.030,1.3049,324
+"Capuano, Chris SP LAD",Free Agent,163.3,28,13,0,9,10,0,0,137,44,170,4.133,1.3102,327
+"Tillman, Chris SP BAL",Shits & Giggles,118.0,20,11,0,9,5,0,0,97,39,109,3.814,1.2542,328
+"Chen, Bruce RP KC ",Free Agent,156.0,25,13,0,11,9,0,1,105,44,158,4.154,1.2949,331
+"Estrada, Marco SP MIL ",User Abuser,119.7,17,9,0,5,6,0,1,116,29,107,3.836,1.1365,335
+"Jimenez, Ubaldo SP CLE ",Free Agent,182.7,32,15,1,11,13,0,0,172,84,180,4.434,1.4453,341
+"Parker, Jarrod SP OAK ",Orange-a-Tangs,128.0,21,14,0,8,5,0,0,92,42,116,3.656,1.2344,343
+"Jackson, Edwin SP CHC",Free Agent,188.3,31,16,1,10,13,0,0,150,60,198,4.253,1.3699,344
+"Liriano, Francisco SP PIT",EVIL EMPIRE,150.7,26,14,1,10,10,0,0,147,75,134,4.420,1.3872,345
+"Morrow, Brandon SP TOR ",Old Dirty Bugg,119.3,20,11,1,8,7,0,0,118,43,108,4.223,1.2654,349
+"Chacin, Jhoulys SP COL",Free Agent,153.3,25,13,1,9,10,0,0,107,60,145,3.698,1.3370,350
+"Beachy, Brandon SP ATL ",EVIL EMPIRE,84.3,14,9,0,5,3,0,0,87,26,67,3.202,1.1028,351
+"Wood, Travis SP CHC ",Free Agent,154.0,25,16,0,7,10,0,0,113,53,138,3.916,1.2403,356
+"Marcum, Shaun SP CLE ",Free Agent,134.3,22,12,0,7,7,0,0,109,40,125,3.953,1.2283,358
+"Milone, Tommy SP OAK",Old Dirty Bugg,124.0,21,9,1,9,6,0,0,93,26,132,3.919,1.2742,359
+"Norris, Bud SP BAL ",Free Agent,177.0,30,16,0,8,12,0,0,163,68,179,4.170,1.3955,362
+"Kendrick, Kyle SP PHI ",Whiteness,152.0,23,12,1,10,10,0,0,95,42,157,4.026,1.3092,368
+"Harang, Aaron SP NYM",Free Agent,164.7,28,15,1,10,10,0,0,123,61,165,4.154,1.3725,370
+"McCarthy, Brandon SP ARI",Free Agent,139.0,22,13,2,7,9,0,0,91,23,148,3.691,1.2302,371
+"Lewis, Colby SP TEX ",Free Agent,101.7,16,10,1,7,5,0,0,87,23,95,4.072,1.1607,375
+"Garcia, Jaime SP STL ",User Abuser,124.0,20,11,1,8,5,0,0,99,32,133,3.702,1.3306,376
+"Gray, Sonny SP OAK ",Titty`s Warriors,64.0,10,6,0,5,3,0,0,67,20,51,2.672,1.1094,383
+"Hanson, Tommy SP LAA",Free Agent,126.0,22,9,0,9,7,0,0,120,49,124,4.357,1.3730,384
+"Kelly, Joe RP STL",Want-a-be Ghetto All Stars,115.3,16,9,0,8,6,0,0,77,40,118,3.121,1.3699,387
+"Floyd, Gavin SP ATL ",Free Agent,128.7,21,11,0,8,9,0,0,107,40,124,4.407,1.2746,396
+"Villanueva, Carlos RP CHC",Free Agent,120.3,15,7,0,7,6,0,1,98,39,111,4.114,1.2465,397
+"Porcello, Rick SP DET ",Floaters and Sinkers,178.3,30,17,0,12,10,0,0,118,44,207,4.542,1.4075,406
+"Wheeler, Zack SP NYM",Disco Bush Horticulturists,100.0,17,10,0,7,5,0,0,84,46,90,3.420,1.3600,409
+"Wacha, Michael SP STL ",Orange-a-Tangs,64.7,9,5,0,4,1,0,1,65,19,52,2.784,1.0979,412
+"Aceves, Alfredo SP BOS ",Free Agent,78.3,3,1,0,5,4,9,4,60,32,69,3.906,1.2894,420
+"Guthrie, Jeremy SP KC",Free Agent,200.3,31,16,2,11,14,0,0,114,58,218,4.358,1.3777,425
+"Cingrani, Tony SP CIN",Old Dirty Bugg,54.7,9,4,0,4,2,0,0,64,22,38,2.963,1.0976,436
+"Lilly, Ted SP LAD",Free Agent,88.0,15,7,0,6,6,0,0,69,27,78,3.886,1.1932,439
+"Billingsley, Chad SP LAD ",User Abuser,116.7,20,11,0,7,7,0,0,95,45,116,3.857,1.3800,445
+"Saunders, Joe SP SEA",Free Agent,190.0,31,17,1,11,14,0,0,109,56,212,4.311,1.4105,448
+"Straily, Dan SP OAK ",Floaters and Sinkers,96.0,17,8,0,6,4,0,0,78,36,84,3.938,1.2500,450
+"Cashner, Andrew SP SD",EVIL EMPIRE,77.3,11,7,0,4,4,0,1,63,23,65,3.259,1.1379,453
+"Feldman, Scott SP HOU ",Floaters and Sinkers,112.3,18,8,1,7,8,0,0,83,33,108,4.326,1.2552,457
+"Correia, Kevin SP MIN",Free Agent,170.0,28,15,0,11,12,0,0,89,43,190,4.394,1.3706,461
+"McDonald, James SP PIT",Free Agent,124.0,22,11,0,8,6,0,0,106,56,117,4.355,1.3952,464
+"Teheran, Julio SP ATL ",User Abuser,70.7,11,6,0,5,3,0,0,62,18,66,3.439,1.1887,467
+"Oberholtzer, Brett SP HOU",Free Agent,71.7,10,7,2,4,5,0,0,45,13,66,2.763,1.1023,469
+"Stults, Eric SP SD ",Want-a-be Ghetto All Stars,105.0,16,10,1,6,5,0,0,64,24,107,3.686,1.2476,476
+"Garcia, Freddy SP ATL ",Free Agent,111.3,18,9,0,8,7,0,0,77,32,116,4.284,1.3293,490
+"Phelps, David SP NYY",User Abuser,93.3,12,4,0,5,4,0,0,88,36,84,4.050,1.2857,496
+"Romero, Ricky SP TOR",Free Agent,137.7,22,13,2,8,9,0,0,102,64,128,4.315,1.3947,497
+"Luebke, Cory SP SD ",Orange-a-Tangs,57.0,7,4,0,3,4,0,0,59,17,44,3.158,1.0702,500
+"Karstens, Jeff SP PIT ",Free Agent,84.3,14,8,0,5,4,0,0,54,16,84,3.628,1.1858,507
+"Johnson, Josh SP SD ",Whiteness,111.0,19,11,0,4,8,0,0,101,38,108,3.973,1.3153,512
+"De La Rosa, Jorge SP COL",Free Agent,79.0,14,7,0,7,3,0,0,57,29,78,3.760,1.3544,513
+"Carpenter, Chris SP STL ",Orange-a-Tangs,84.7,12,8,1,4,4,0,0,68,19,86,3.508,1.2402,514
+"Gorzelanny, Tom RP MIL",Free Agent,87.3,9,3,0,4,5,0,1,80,31,81,3.710,1.2824,518
+"Hudson, Daniel SP ARI ",Free Agent,89.0,14,8,1,6,5,0,0,69,21,93,4.146,1.2809,522
+"Hughes, Phil SP MIN",Free Agent,137.3,25,12,1,8,11,0,0,111,38,150,4.849,1.3689,526
+"Detwiler, Ross SP WAS ",User Abuser,100.7,17,8,0,5,7,0,0,62,29,101,3.487,1.2914,528
+"Wood, Alex RP ATL ",Free Agent,77.7,11,5,0,3,3,0,0,77,27,76,3.129,1.3262,531
+"Vazquez, Javier SP MIA",Free Agent,64.3,11,6,1,4,4,0,0,54,17,59,3.637,1.1813,540
+"Hammel, Jason SP BAL",Free Agent,142.7,23,10,0,7,9,1,0,101,53,145,4.479,1.3879,541
+"Pineda, Michael SP NYY ",Free Agent,57.0,9,6,0,3,3,0,0,58,18,44,3.789,1.0877,543
+"Bedard, Erik SP HOU",Free Agent,135.3,25,10,0,5,12,0,1,127,60,132,4.389,1.4187,547
+"Davis, Wade SP KC",Free Agent,130.0,18,8,0,7,7,0,0,102,50,136,4.362,1.4308,548
+"Doubront, Felix SP BOS",Disco Bush Horticulturists,111.3,19,10,0,7,5,0,0,104,50,112,4.608,1.4551,551
+"Westbrook, Jake SP STL ",Free Agent,158.3,27,13,1,11,9,0,0,85,58,177,4.377,1.4842,553
+"Santiago, Hector SP LAA ",Sofa Kings,75.0,9,4,0,3,3,1,1,73,38,64,3.360,1.3600,555
+"Morton, Charlie SP PIT",EVIL EMPIRE,112.7,19,9,1,6,7,0,0,73,41,120,3.754,1.4290,574
+"Archer, Chris SP TB",User Abuser,52.7,9,5,1,3,3,0,0,46,17,43,3.418,1.1392,586
+"Baker, Scott SP CHC",Free Agent,50.0,8,4,0,3,2,0,0,43,12,45,3.240,1.1400,589
+"Lackey, John SP BOS",Want-a-be Ghetto All Stars,116.3,19,9,1,7,8,0,0,90,32,127,4.874,1.3668,591
+"Torres, Carlos RP NYM",Free Agent,69.7,4,3,0,4,4,0,0,58,22,64,4.134,1.2344,597
+"Williams, Jerome SP LAA ",Free Agent,117.0,15,8,0,6,6,0,0,78,35,122,4.462,1.3419,602
+"Worley, Vance SP MIN",Free Agent,104.3,18,9,0,6,6,0,0,84,36,117,4.141,1.4665,606
+"Paxton, James SP SEA",Free Agent,24.0,4,3,0,3,0,0,0,21,7,15,1.500,0.9167,607
+"McAllister, Zach SP CLE",Free Agent,92.3,17,7,0,5,6,0,0,75,31,98,4.094,1.3971,609
+"Myers, Brett SP CLE",Whiteness,101.0,12,7,1,3,8,6,1,71,26,107,4.455,1.3168,610
+"Niemann, Jeff SP TB",Free Agent,57.7,10,4,0,4,3,0,0,46,16,54,3.902,1.2139,611
+"Perez, Martin SP TEX",Free Agent,81.3,13,6,0,6,5,0,0,54,26,88,3.984,1.4016,624
+"Richard, Clayton SP SD",Free Agent,123.7,21,9,0,7,9,0,0,61,34,132,4.367,1.3423,626
+"Happ, J.A. SP TOR",Free Agent,131.3,23,10,0,7,11,0,0,118,61,132,4.934,1.4695,631
+"Kluber, Corey SP CLE",Titty`s Warriors,71.7,12,5,0,4,3,0,0,65,18,78,4.270,1.3395,647
+"Figaro, Alfredo RP MIL",Free Agent,74.0,5,1,0,3,3,1,0,54,15,77,4.135,1.2432,657
+"Volquez, Edinson SP PIT",Free Agent,154.0,28,11,0,8,10,0,0,140,82,153,5.084,1.5260,658
+"Alvarez, Henderson SP MIA ",Free Agent,118.0,19,10,1,5,8,0,0,59,30,123,4.271,1.2966,663
+"Cumpton, Brandon SP PIT",Free Agent,30.7,5,1,0,2,1,0,0,22,5,26,2.054,1.0109,665
+"Danks, John SP CHW",Free Agent,120.7,19,11,1,5,10,0,0,85,32,130,4.699,1.3425,672
+"Thornburg, Tyler RP MIL ",Free Agent,44.3,5,4,0,2,0,0,0,34,16,38,2.639,1.2180,676
+"Delgado, Randall SP ARI",Free Agent,81.3,14,6,0,3,6,0,0,58,26,78,4.094,1.2787,688
+"Marquis, Jason SP SD",Free Agent,125.7,22,12,1,8,7,0,0,80,51,137,4.584,1.4960,690
+"Jurrjens, Jair SP DET",Free Agent,69.3,11,6,1,5,3,0,0,38,21,74,3.894,1.3702,693
+"Ramirez, Erasmo SP SEA",Free Agent,65.7,10,5,0,3,3,0,0,52,19,63,4.249,1.2487,697
+"Gaudin, Chad RP PHI ",Titty`s Warriors,58.3,4,2,0,3,2,0,0,52,25,55,3.857,1.3714,713
+"Pettibone, Jonathan SP PHI ",Free Agent,100.3,18,8,0,5,4,0,0,66,38,109,4.037,1.4651,715
+"Cosart, Jarred SP HOU",Free Agent,60.0,10,7,0,1,1,0,0,33,35,46,1.950,1.3500,716
+"Peralta, Wily SP MIL",Free Agent,70.7,12,7,1,4,5,0,0,51,28,70,4.075,1.3868,718
+"Kazmir, Scott SP OAK",SA`s,53.3,10,4,0,3,3,0,0,54,16,56,4.219,1.3500,719
+"Erlin, Robbie SP SD",Free Agent,54.7,9,6,0,3,3,0,0,40,15,53,4.116,1.2439,723
+"Deduno, Samuel SP MIN ",Free Agent,63.3,11,6,0,5,4,0,0,43,32,60,4.121,1.4526,728
+"Locke, Jeff SP PIT ",Titty`s Warriors,72.3,13,5,0,4,4,0,0,55,35,68,4.106,1.4240,731
+"Ross, Tyson RP SD ",SA`s,78.0,12,6,0,3,7,0,0,63,31,76,4.154,1.3718,733
+"Lannan, John SP PHI ",Free Agent,97.3,18,8,0,6,7,0,0,54,39,104,4.161,1.4692,735
+"Arrieta, Jake SP CHC",Free Agent,103.0,18,8,0,6,7,0,0,87,45,99,5.418,1.3981,736
+"Tepesch, Nick SP TEX ",SA`s,93.0,17,4,0,4,6,0,0,76,27,100,4.839,1.3656,745
+"Anderson, Brett RP COL",Titty`s Warriors,54.3,8,4,0,3,4,1,0,44,18,55,4.307,1.3436,749
+"Paulino, Felipe SP CHW",Free Agent,59.0,9,4,0,2,4,0,0,57,23,59,3.814,1.3898,750
+"Eovaldi, Nate SP MIA ",Free Agent,86.7,15,9,0,3,7,0,0,60,36,87,3.842,1.4192,754
+"Diamond, Scott SP MIN",Free Agent,114.3,19,9,0,6,9,0,0,54,28,133,4.408,1.4082,758
+"Nicasio, Juan SP COL ",Free Agent,95.7,18,7,0,5,5,0,0,77,35,104,4.892,1.4530,768
+"Richards, Garrett RP LAA ",Free Agent,76.7,10,4,0,4,4,1,1,52,28,81,4.461,1.4217,770
+"Zito, Barry SP SF",Old Dirty Bugg,123.7,22,9,0,8,8,0,0,77,49,137,4.949,1.5040,771
+"Salazar, Danny SP CLE",Free Agent,26.0,5,1,0,1,2,0,0,32,8,22,3.115,1.1538,775
+"Lindblom, Josh SP OAK",Free Agent,44.0,2,0,0,2,3,0,1,40,19,39,3.886,1.3182,779
+"Young, Chris SP WAS",Free Agent,46.3,8,5,0,2,3,0,0,34,16,44,3.691,1.2950,790
+"Zambrano, Carlos SP PHI",Free Agent,92.7,15,8,0,5,6,0,0,65,44,92,4.662,1.4676,795
+"Hefner, Jeremy SP NYM ",Whiteness,74.7,12,7,0,3,5,0,0,54,18,81,4.701,1.3259,807
+"Britton, Zach SP BAL ",Free Agent,85.0,15,6,0,6,6,0,0,56,37,92,4.765,1.5176,811
+"Petit, Yusmeiro SP SF ",User Abuser,26.3,4,2,0,2,0,0,0,24,8,26,3.418,1.2911,812
+"Lyons, Tyler SP STL",Free Agent,53.0,8,3,0,2,4,0,0,43,16,49,4.755,1.2264,818
+"Humber, Philip RP HOU",Free Agent,106.7,16,8,0,5,7,0,1,79,35,113,5.316,1.3875,822
+"Redmond, Todd SP TOR",Free Agent,40.0,8,2,0,2,2,0,0,39,14,38,4.500,1.3000,825
+"Albers, Andrew SP MIN ",Free Agent,60.0,10,4,1,2,5,0,0,25,7,64,4.050,1.1833,827
+"Harrell, Lucas SP HOU",Free Agent,121.7,19,7,0,6,10,0,0,81,58,127,4.660,1.5205,831
+"Gomez, Jeanmar RP PIT",Titty`s Warriors,76.7,12,3,0,4,4,0,0,44,26,78,4.696,1.3565,832
+"Blanton, Joe SP LAA ",Free Agent,121.7,19,9,1,4,10,0,0,103,26,146,5.252,1.4137,841
+"Oswalt, Roy SP COL",Free Agent,76.7,13,5,0,4,6,0,0,62,18,94,4.930,1.4609,850
+"Hale, David SP ATL",Free Agent,11.0,2,1,0,1,0,0,0,14,1,11,0.818,1.0909,852
+"Johnson, Erik SP CHW ",Free Agent,27.7,5,3,0,3,2,0,0,18,11,32,3.253,1.5542,859
+"Gausman, Kevin RP BAL ",Free Agent,47.7,5,1,0,3,5,0,2,49,13,51,5.664,1.3427,860
+"Fife, Stephen SP LAD",Free Agent,42.7,8,3,0,2,3,0,0,32,16,47,3.375,1.4766,862
+"Mendoza, Luis SP KC",SA`s,91.7,14,7,0,4,5,0,0,55,36,98,4.418,1.4618,879
+"Chatwood, Tyler SP COL ",Disco Bush Horticulturists,106.0,19,7,0,6,7,0,0,60,48,119,4.330,1.5755,880
+"Nuno, Vidal SP NYY",Free Agent,20.0,3,2,0,1,2,0,0,9,6,16,2.250,1.1000,885
+"Santana, Johan SP NYM ",Free Agent,39.0,7,3,1,2,3,0,0,37,13,39,4.846,1.3333,888
+"Peacock, Brad SP HOU",Free Agent,31.7,5,2,0,2,2,0,0,27,14,28,4.547,1.3263,897
+"Pavano, Carl SP MIN ",Free Agent,95.0,15,7,1,4,6,0,0,45,16,114,4.642,1.3684,902
+"Koehler, Tom SP MIA",Free Agent,78.0,12,4,0,2,6,0,0,52,28,78,4.500,1.3590,910
+"Turner, Jacob SP MIA",Free Agent,62.0,11,5,0,2,5,0,0,40,25,61,4.210,1.3871,912
+"Hand, Donovan RP MIL",Free Agent,68.3,7,2,0,1,5,0,1,37,21,71,3.688,1.3463,914
+"Walker, Taijuan SP SEA ",Want-a-be Ghetto All Stars,15.0,3,0,0,1,0,0,0,12,4,11,3.600,1.0000,920
+"Hutchison, Drew SP TOR ",Free Agent,29.3,6,2,0,2,2,0,0,24,10,30,4.602,1.3636,928
+"LeBlanc, Wade RP LAA ",Floaters and Sinkers,67.7,10,4,0,3,5,0,0,42,22,76,4.522,1.4483,943
+"Jordan, Taylor SP WAS",Free Agent,51.7,9,3,0,1,3,0,0,29,11,59,3.658,1.3548,944
+"Hernandez, Roberto SP PHI ",Free Agent,118.0,20,9,0,4,10,0,0,75,34,129,5.186,1.3814,960
+"Gast, John SP STL",Free Agent,12.3,3,0,0,2,0,0,0,8,5,11,5.108,1.2973,976
+"Duffy, Danny SP KC ",Free Agent,52.3,10,4,0,3,3,0,0,46,28,55,4.815,1.5860,978
+"Rogers, Mark SP SEA ",Free Agent,13.0,2,0,0,1,0,0,0,14,5,12,4.154,1.3077,992
+"De Vries, Cole SP MIN ",Free Agent,51.3,9,4,0,2,4,0,0,35,14,55,5.084,1.3442,1001
+"Skaggs, Tyler SP LAA ",SA`s,34.0,6,2,0,2,3,0,0,28,14,34,5.294,1.4118,1015
+"Lyles, Jordan SP COL ",Free Agent,125.7,22,9,0,5,10,0,0,86,39,144,5.371,1.4562,1020
+"Mejia, Jenrry SP NYM ",Free Agent,14.3,3,1,0,1,1,0,0,12,4,16,3.767,1.3953,1022
+"Rogers, Esmil RP TOR ",Free Agent,99.7,11,4,0,5,6,0,1,81,40,115,5.418,1.5552,1027
+"Harden, Rich SP MIN",Free Agent,27.7,5,2,0,1,1,0,0,30,10,29,5.205,1.4096,1037
+"Shoemaker, Matt SP LAA",Free Agent,5.0,1,0,0,0,0,0,0,5,2,2,0.000,0.8000,1038
+"Carrasco, Carlos SP CLE ",Free Agent,57.0,9,4,0,3,4,0,0,38,19,65,5.210,1.4737,1057
+"Rusin, Chris SP CHC",Free Agent,48.0,10,2,0,2,4,0,0,28,18,52,4.688,1.4583,1089
+"Ventura, Yordano SP KC",Free Agent,15.3,3,0,0,0,1,0,0,11,6,13,3.522,1.2391,1092
+"Rienzo, Andre SP CHW",Free Agent,56.0,10,6,0,2,3,0,0,38,28,55,4.821,1.4821,1099
+"Odorizzi, Jake SP TB",Shits & Giggles,18.7,3,0,0,0,1,0,0,13,6,18,3.857,1.2857,1109
+"Francis, Jeff SP COL ",Free Agent,122.0,22,7,0,5,9,0,0,77,28,153,5.311,1.4836,1117
+"Pelfrey, Mike SP MIN ",Free Agent,122.0,22,9,1,4,9,0,0,73,41,143,4.795,1.5082,1118
+"Werner, Andrew SP OAK ",Free Agent,20.0,4,2,0,1,2,0,0,18,7,22,5.400,1.4500,1122
+"Wieland, Joe SP SD ",Free Agent,14.0,2,1,0,0,2,0,0,12,4,13,4.500,1.2143,1124
+"Romero, Enny SP TB",Free Agent,4.7,1,0,0,0,0,0,0,0,4,1,0.000,1.0714,1125
+"Colome, Alex SP TB ",Free Agent,8.0,2,0,0,0,0,0,0,6,4,7,2.250,1.3750,1128
+"Slowey, Kevin SP MIA ",Whiteness,50.3,7,2,0,1,5,0,0,37,8,61,5.185,1.3709,1140
+"Clemens, Paul RP HOU",Free Agent,36.7,2,1,0,2,4,0,1,24,13,41,5.400,1.4727,1141
+"Braden, Dallas SP OAK ",Free Agent,6.0,1,0,0,0,0,0,0,5,2,6,3.000,1.3333,1158
+"Laffey, Aaron SP MIL ",Free Agent,55.7,6,2,0,2,3,0,0,29,23,62,4.527,1.5269,1197
+"Garland, Jon SP COL",Free Agent,40.7,7,4,0,2,4,0,0,20,14,47,5.090,1.5000,1218
+"Capaul, Alex SP ARI",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Whitenack, Robert SP CLE",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Brigham, Jake SP PIT",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Pettit, Jacob SP BAL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Granier, Drew SP OAK",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Blair, Aaron SP ARI",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"May, Trevor SP MIN",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Castro, Angel SP STL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Treinen, Blake SP OAK",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Corcino, Daniel SP CIN",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Inman, Will SP TB",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Sappington, Mark SP LAA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Selik, Cameron SP WAS",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Lofgren, Chuck SP MIL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Musgrove, Joe SP HOU",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Boyd, Hudson SP MIN",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Sanchez, Victor SP SEA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Olenberger, Kasey SP MIA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Merklinger, Dan SP MIL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Lovegrove, Kieran SP CLE",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Tropeano, Nick SP HOU ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Jungmann, Taylor SP MIL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Gonzales, Marco SP STL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Reed, Chris SP LAD",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Lansford, Jared SP OAK",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Ramirez, Neil SP CHC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Hyatt, Austin SP PHI",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Appel, Mark SP HOU ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Wojciechowski, Asher SP HOU",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Reyes, Jorge SP SD",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Matzek, Tyler SP COL",SA`s,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Sanford, Shawn SP SF",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Lee, Zach SP LAD",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Packer, Matt SP CLE",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Durbin, J.D. SP BOS",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Banuelos, Manny SP NYY",Disco Bush Horticulturists,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Broadway, Michael SP TOR",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Rodriguez, Julio SP PHI",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Turley, Nik SP NYY",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Pucetas, Kevin SP TEX",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Pike, Tyler SP SEA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Shirek, Charlie SP CHW",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Howard, Dillon SP CLE",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Santos, Jarrett SP MIA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Zastryzny, Rob SP CHC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Nin, Sandy SP COL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Northcraft, Aaron SP ATL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Hollon, Clinton SP TOR",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Glen, Willie SP MIA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Buckel, Cody SP TEX ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Norris, Daniel SP TOR",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Stephenson, Robert SP CIN ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Maples, Dillon SP CHC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Heston, Chris SP SF",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Snow, Forrest SP SEA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Klinker, Matt SP CIN",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Bloom, Kyle SP PIT",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Kasparek, Kenn SP SEA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Smith, Kyle SP HOU",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Bradley, Archie SP ARI",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Ginley, Kyle SP TOR",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Savage, Will SP LAD",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Gutierrez, Danny SP TEX",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Kiely, Timothy SP LAA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Martin, J.D. SP TB",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Perez, Sergio SP HOU",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Arenas, Orangel SP LAA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Williamson, Joseph SP COL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Peguero, Tony SP TB",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Church, Andrew SP NYM",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Bolsinger, Mike SP ARI",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Williams, Devin SP MIL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Hagens, Bradin SP ARI",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Bouknight, Kip SP PIT",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Robertson, Montreal SP DET",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Gray, Jonathan SP COL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Hankins, Derek SP TEX",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Perrault, Josh M. SP BAL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Hernandez, Carlos SP OAK",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Urias, Julio SP LAD",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Arbiso, Cory SP NYY",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Cova, Rafael SP SF",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Mock, Garrett SP ARI",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Heckathorn, Kyle SP MIL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Taillon, Jameson SP PIT ",Disco Bush Horticulturists,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Paduch, Jim SP TB",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Holder, Trevor SP WAS",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"De Paula, Rafael SP NYY",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"McGuire, Deck SP TOR",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Pope, Ryan SP NYY",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Brown, Mitch SP CLE",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Mazone, Brian SP LAD",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Reed, Cody SP KC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Hahn, Jesse SP SD ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Clevinger, Michael SP LAA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Tepera, Ryan SP TOR",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Jenkins, Tyrell SP STL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Rainwater, Josh SP DET",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Fulmer, Michael SP NYM",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Escobar, Kelvim SP MIL ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Rivera, Oscar SP COL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Black, Corey SP CHC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Brownlie, Bobby SP WAS",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Wright, Matt SP OAK",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Bradley, J.R. SP ARI",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Williams, Trevor SP MIA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Cain, Colton SP HOU",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"James, Chad SP MIA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Adams, Austin SP CLE",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Zimmer, Kyle SP KC ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Pimentel, Elisaul SP KC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Petrick, Zach SP STL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Clark, Craig SP SF",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Pena, Ariel SP MIL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Wada, Tsuyoshi SP BAL ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Torra, Matt SP TB",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Ray, Robbie SP DET",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Boscan, Wilfredo SP SD",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Matthews, Kevin SP TEX",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Cole, A.J. SP WAS",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"deGrom, Jacob SP NYM ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Flande, Yohan SP ATL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Ortega, Anthony SP KC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Thomas, Kevin SP STL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Tracy, Matt SP NYY",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Larez, Victor SP DET",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Rohrbaugh, Robert SP SEA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Seaton, Ross SP HOU",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Overton, Dillon SP OAK",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Morla, Ronny SP CHC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Sanchez, Jesus SP MIL ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Anderson, Tyler SP COL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Owen, Dylan SP NYM",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Mercedes, Simon SP SF",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Bono, Robert SP MIA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Rhee, Dae-Eun SP CHC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Morgan, Adam SP PHI",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Petersime, Zachary SP BAL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Anderson, Craig SP BAL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Rollins, Heath SP KC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Pimentel, Carlos SP TEX",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Hobgood, Matthew SP BAL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Foltynewicz, Mike SP HOU ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Greenwood, Nick SP STL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Marceaux, Jacob SP MIA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Burgos, Enrique SP ARI",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Horne, Alan SP NYY",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Simpson, Hayden SP CHC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Jaime, Juan SP ATL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Cordier, Erik SP SF",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Mateo, Victor SP TB",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Tapia, Domingo SP NYM",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Baker, Nathan SP PIT",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Schlosser, Gus SP ATL ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Carroll, Scott SP CIN",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Cummings, Jeremy SP TB",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Purke, Matt SP WAS",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Kiker, Kasey SP TEX",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Kadokura, Ken SP CHC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Holmes, Clay SP PIT",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Everts, Clint SP TOR",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Jackson, Zach SP KC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Barlow, Scott SP LAD",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Agosta, Martin SP SF",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Bushue, Tanner SP HOU",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Light, Pat SP BOS",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Solis, Sammy SP WAS",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Sisco, Jake SP CLE",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Miller, Aaron SP LAD",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Stilson, John SP TOR",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Paulino, Brenny SP DET",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Taylor, Blake SP PIT",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Hornbeck, Ben SP OAK",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Townsend, Wade SP TB",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Danish, Tyler SP CHW",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Heredia, Luis SP PIT",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Snell, Blake SP TB",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Wilson, Tyler SP BAL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Holt, Bradley SP NYM",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Sanburn, Nolan SP OAK",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Stroman, Marcus SP TOR ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Williams, Alan SP MIL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Johansen, Jake SP WAS",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Grube, Jarrett SP LAA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Montgomery, Mike SP TB",Whiteness,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Garrett, Amir SP CIN",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Eades, Ryan SP MIN",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Tago, Peter SP COL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Rivero, Felipe SP TB",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Butler, Eddie SP COL ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Crouse, Matt SP DET",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Anderson, Chase SP ARI",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Hernandez, Raymond SP ARI",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Mann, Brandon SP WAS ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Duarte, Marco SP BOS",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Sims, Lucas SP ATL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Stewart, Kohl SP MIN",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Leek, Randy SP STL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Marti, Yadel SP OAK",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Guerrieri, Taylor SP TB ",SA`s,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Korpi, Wade SP MIA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Peralta, Starling SP ARI",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Gardner, Joe SP COL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Arnett, Eric SP MIL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Prior, Mark SP CIN",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Correa, Manaurys SP LAA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Marks, Justin SP KC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"De Paula, Jose SP SF",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Ross, Joe SP SD ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Soto, Giovanni SP CLE",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Edell, Ryan SP BAL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Rasmussen, Rob SP TOR",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Ynoa, Michael SP OAK",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Ramirez, Jose SP NYY",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Nicolino, Justin SP MIA ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Jackson, Jay SP PIT",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Johnson, Brian SP BOS",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Colvin, Brody SP PHI ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Roach, Donn SP SD",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Sandoval, Juan SP TB",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Rasner, Jacob SP CHW",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Stankiewicz, Teddy SP BOS",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Stripling, Ross SP LAD",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Blackburn, Clayton SP SF ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Rogers, Chad SP CIN",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Banwart, Travis SP CLE ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Conley, Adam SP MIA ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Snyder, Ben SP TEX",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Hursh, Jason SP ATL ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Cota, Luis SP KC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Lotzkar, Kyle SP CIN",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Harvey, Hunter SP BAL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Knapp, Jason SP CLE",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Mathes, J.R. SP CHC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Dorman, Rich SP SEA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Martin, Cody SP ATL ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Carraway, Andrew SP SEA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Rohrbough, Cole SP ATL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Bostick, Akeem SP TEX",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Edwards, C.J. SP CHC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Concepcion, Gerardo SP CHC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Melville, Timothy SP KC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Sampson, Keyvius SP SD",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Heaney, Andrew SP MIA ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Connolly, Jon SP DET",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Ames, Jeff SP TB",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Gonzalez, Alex SP TEX ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Baxendale, D.J. SP MIN",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Windle, Tom SP LAD",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Jang, Pil Joon SP LAA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Aquino, Jayson SP COL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Niesen, Eric SP NYM",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Cardona, Adonys SP TOR",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Lamb, John SP KC",User Abuser,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Feierabend, Ryan SP TEX ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Urena, Jose SP MIA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Cabrera, Mauricio SP ATL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Fitzgerald, Justin SP SF",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Snodgress, Scott SP CHW ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Osuna, Roberto SP TOR",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Owens, Henry SP BOS ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Montero, Rafael SP NYM ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Wisler, Matthew SP SD ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Lobstein, Kyle SP DET",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Parker, Zach SP COL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Mitchell, Bryan SP NYY",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Chen, Hung-Wen SP CHC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Kingham, Nick SP PIT",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Owens, Rudy SP HOU",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Rodriguez, Daniel SP ATL ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Main, Michael SP SF",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Campos, Jose SP NYY",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Hope, Mason SP MIA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Guerra, Deolis SP MIN",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Kline, Branden SP BAL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Cheng, Chi-Hung SP PIT",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"House, T.J. SP CLE",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Bucci, Nick SP MIL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Chafin, Andrew SP ARI",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Johnson, Blake SP LAD",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Cannon, Jon SP ARI",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Ranaudo, Anthony SP BOS",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Wright, Mike SP BAL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Graham, J.R. SP ATL ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Gustafson, Timothy SP ATL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Syndergaard, Noah SP NYM ",Orange-a-Tangs,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Jarrett, Sean SP COL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Roemer, Wes SP ARI",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Sadowski, Ryan SP SF",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Bromberg, David SP PIT",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Drake, Oliver SP BAL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Ziomek, Kevin SP DET",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Stoneburner, Graham SP NYY",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Bradley, Jed SP MIL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Gilmartin, Sean SP MIN ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Fernandez, Anthony SP SEA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Greene, Shane SP NYY",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Selman, Sam SP KC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Molina, Nestor SP CHW",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Meyers, Brad SP NYY",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Erbe, Brandon SP PHI",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Hultzen, Danny SP SEA ",User Abuser,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Capellan, Jose M. SP BOS",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Rodriguez, Armando SP TEX ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Escobar, Edwin SP SF",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Rowland-Smith, Ryan SP ARI",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Pelzer, Wynn SP BAL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Jackson, Luke SP TEX ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Shipley, Braden SP ARI",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Crawford, Jonathon SP DET",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Biddle, Jesse SP PHI ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Anderson, Chris SP LAD",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Glasnow, Tyler SP PIT",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Loux, Barret SP CHC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Rodriguez, Eduardo SP BAL ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Bird, Zachary SP LAD",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Avery, James SP CIN",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Satterwhite, Cody SP DET",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Struck, Nick SP CHC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Gorski, Darin SP NYM",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Thompson, Jake SP DET",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Wood, Austin SP LAA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Bowman, Josh SP OAK",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Clarkin, Ian SP NYY",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Bleich, Jeremy SP NYY",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Allie, Stetson SP PIT",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Lorin, Brett SP ARI",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Robertson, Nate SP TEX",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Alderson, Tim SP BAL",Shits & Giggles,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Meo, Anthony SP ARI",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Bundy, Robert SP BAL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Sullivan, Josh SP COL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Underwood, Duane SP CHC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"De Los Santos, Miguel SP MIL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Houser, Adrian SP HOU",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Piazza, Mike SP LAA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Contreras, Carlos SP CIN",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Riefenhauser, C.J. SP TB",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Guillon, Ismael SP CIN",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Mateo, Luis SP NYM",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Bell, Chad SP TEX",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Adam, Jason SP KC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Manaea, Sean SP KC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Nuding, Zachary SP NYY",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Mazzoni, Cory SP NYM",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Wimmers, Alex SP MIN",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Linares, Serguey SP PIT",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Blair, Seth SP STL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Tatusko, Ryan SP WAS ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Lara, Braulio SP TB",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Meyer, Alex SP MIN ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"De La Cruz, Kelvin SP BAL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"McNutt, Trey SP CHC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Allison, Jeffrey SP MIA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Marimon, Sugar Ray SP KC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Fried, Max SP SD",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Alcantara, Raul SP OAK",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Thurman, Andrew SP HOU",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Stanek, Ryne SP TB ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Hessler, Keith SP ARI",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Jukich, Ben SP CIN",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Osuna, Edgar SP KC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Balog, Alex SP COL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Hernandez, Chris SP BOS",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Benjamin, Ramon SP MIA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Ball, Trey SP BOS",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Jones, Devin SP BAL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Arguello, Douglas SP HOU",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Vasquez, Virgil SP MIN",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Gamboa, Eddie SP BAL ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Arguelles, Noel SP KC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Kaminsky, Rob SP STL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Green, Hunter SP LAA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Robles, Hansel SP NYM",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Weiser, Keith SP COL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"O'Brien, Michael SP NYY",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Ungs, Nick SP MIA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Kibler, Jon SP DET",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Holliman, Mark SP BOS",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Chaffee, Ryan SP LAA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Mason, Chris SP TB",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Rosenbaum, Dan SP COL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Barnes, Matt SP BOS",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Gonzalez, Miguel Alfredo SP PHI ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Sanchez, Aaron SP TOR ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Lowey, Josh SP ATL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Wallach, Brett SP CHC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Liotta, Ray SP KC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Barbosa, Andrew SP ARI",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Bedrosian, Cam SP LAA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Mendez, Roman SP TEX",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Doyle, Terry SP BOS ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Hynick, Brandon SP LAA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,1224
+"Sanabia, Alex SP ARI",Free Agent,22.0,4,2,0,1,2,0,0,13,9,27,4.500,1.6364,2300
+"Mills, Brad SP TEX",Free Agent,7.7,2,0,0,1,1,0,0,8,4,9,8.217,1.6957,2302
+"Ortiz, Ramon SP TOR",Free Agent,19.7,2,1,0,1,1,0,0,11,7,22,5.492,1.4746,2303
+"Bauer, Trevor SP CLE ",User Abuser,11.0,3,1,0,1,1,0,0,9,10,10,5.727,1.8182,2312
+"Martin, Ethan SP PHI",Free Agent,40.0,8,1,0,2,5,0,1,47,26,42,6.075,1.7000,2325
+"Pomeranz, Drew SP OAK",Free Agent,45.7,10,1,0,1,5,0,0,38,23,47,5.124,1.5328,2334
+"Ohlendorf, Ross SP WAS",Free Agent,49.3,8,3,0,3,3,0,0,37,18,59,6.020,1.5608,2337
+"Kelly, Casey SP SD",Shits & Giggles,14.7,3,1,0,1,2,0,0,13,5,20,6.136,1.7045,2350
+"Matsuzaka, Daisuke SP NYM ",Free Agent,40.7,8,2,0,2,4,0,0,33,20,41,6.197,1.5000,2351
+"Grimm, Justin SP CHC",Free Agent,56.0,10,4,0,4,5,0,0,44,18,71,6.429,1.5893,2374
+"Reineke, Chad SP CIN",Free Agent,2.3,0,0,0,0,0,0,0,1,2,2,7.714,1.7143,2397
+"Friedrich, Christian SP COL",Free Agent,42.3,8,2,0,2,4,0,0,37,15,51,6.165,1.5591,2408
+"Keuchel, Dallas SP HOU",Want-a-be Ghetto All Stars,119.3,19,8,0,4,9,0,0,80,46,138,5.204,1.5419,2417
+"Oliver, Andy SP PIT",Free Agent,3.3,1,0,0,0,0,0,0,2,3,4,5.400,2.1000,2419
+"Reynolds, Greg SP CIN ",Free Agent,20.3,3,1,0,1,1,0,0,10,5,26,5.754,1.5246,2421
+"Willis, Dontrelle SP CHC ",Free Agent,25.3,4,3,0,0,2,0,0,19,12,26,4.974,1.5000,2447
+"Alvarez, Jose SP DET",Free Agent,38.7,6,1,0,1,5,0,0,31,16,42,5.819,1.5000,2465
+"Vasquez, Esmerling SP MIN",Free Agent,20.7,2,0,0,0,1,0,1,11,11,20,4.790,1.5000,2472
+"Smith, Burch SP SD",Free Agent,36.3,7,2,0,1,3,0,0,46,21,39,6.440,1.6514,2473
+"Irwin, Phil SP PIT",Free Agent,4.7,1,0,0,0,0,0,0,4,4,6,7.714,2.1429,2520
+"Jakubauskas, Chris SP MIL",Free Agent,24.0,2,0,0,1,1,0,0,17,10,31,5.625,1.7083,2522
+"Maurer, Brandon SP SEA",Free Agent,90.0,14,5,0,5,8,0,0,70,27,114,6.300,1.5667,2527
+"Godfrey, Graham SP BOS",Free Agent,15.3,3,1,0,0,2,0,0,8,5,19,5.283,1.5652,2528
+"Cloyd, Tyler SP CLE ",Free Agent,46.7,8,4,0,2,4,0,0,36,16,58,5.979,1.5857,2530
+"Bonderman, Jeremy RP DET",Free Agent,55.0,7,3,0,2,4,0,0,32,27,58,5.400,1.5455,2545
+"Villanueva, Elih SP MIA",Free Agent,1.0,0,0,0,0,0,0,0,1,2,2,27.000,4.0000,2548
+"Wang, Chien-Ming SP CIN ",Free Agent,40.7,7,2,0,2,3,0,0,18,12,52,5.533,1.5738,4553
+"Surkamp, Eric SP CHW ",Free Agent,9.7,2,0,0,1,1,0,0,4,6,14,7.448,2.0690,4556
+"Holmberg, David SP CIN",Free Agent,3.7,1,0,0,0,0,0,0,0,3,6,7.364,2.4545,4557
+"Galarraga, Armando SP CIN",Free Agent,22.3,4,1,0,1,3,0,0,15,13,25,6.045,1.7015,4558
+"Schwinden, Chris SP NYM",Free Agent,10.0,2,0,0,0,1,0,0,6,3,13,7.200,1.6000,4576
+"Verdugo, Ryan SP KC",Free Agent,0.7,0,0,0,0,0,0,0,1,1,4,40.500,7.5000,4608
+"Cabrera, Edwar SP TEX",Free Agent,2.7,1,0,0,0,1,0,0,2,4,4,13.500,3.0000,4618
+"Axelrod, Dylan SP CHW ",Disco Bush Horticulturists,66.0,10,4,0,2,4,0,0,44,24,81,5.318,1.5909,4624
+"Walters, P.J. SP KC",Free Agent,35.3,7,3,0,1,3,0,0,23,14,42,5.859,1.5849,4632
+"Crosby, Casey SP DET",Free Agent,6.0,2,0,0,0,0,0,0,4,6,8,9.000,2.3333,4640
+"Berken, Jason SP SF",Free Agent,22.3,1,0,0,0,2,0,1,17,9,31,5.239,1.7910,4641
+"Karns, Nathan SP WAS",Free Agent,12.0,3,0,0,0,1,0,0,11,6,17,7.500,1.9167,4644
+"Burgos, Hiram SP MIL",Free Agent,29.3,6,2,0,1,2,0,0,18,11,38,6.443,1.6705,4650
+"Talbot, Mitch SP MIA",Free Agent,21.3,4,1,0,1,2,0,0,12,9,30,6.750,1.8281,4651
+"Figueroa, Nelson SP ARI",Free Agent,9.7,2,0,0,0,1,0,0,6,5,15,8.379,2.0690,4652
+"Vasquez, Anthony SP SEA",Free Agent,9.7,2,0,0,0,2,0,0,4,3,15,9.310,1.8621,4654
+"White, Alex SP HOU ",Free Agent,49.7,10,2,0,2,4,0,0,34,25,59,5.980,1.6913,4655
+"Bettis, Chad SP COL",Free Agent,44.7,8,1,0,1,3,0,1,30,20,55,5.642,1.6791,4657
+"Nolin, Sean SP TOR",Free Agent,1.3,1,0,0,0,1,0,0,0,1,7,40.500,6.0000,4658
+"Sanchez, Jonathan SP LAD ",Free Agent,60.0,13,3,0,2,6,0,0,54,42,62,6.150,1.7333,4664
+"Hendriks, Liam SP BAL ",Free Agent,52.0,9,3,0,1,4,0,0,33,15,67,6.058,1.5769,4665
+"Blackburn, Nick SP MIN",Free Agent,82.3,15,5,0,4,6,0,0,39,27,109,5.684,1.6518,4668
+"Hellweg, Johnny SP MIL ",Free Agent,15.3,4,0,0,0,2,0,0,4,13,20,7.043,2.1522,4670
+"Magill, Matt SP LAD",Free Agent,27.7,6,1,0,0,2,0,0,26,28,27,6.506,1.9880,4671
+"Cook, Aaron SP PHI ",Free Agent,63.7,12,4,0,2,7,0,0,23,19,81,5.796,1.5707,4672
+"Hernandez, Pedro SP MIN",Free Agent,30.3,6,0,0,2,2,0,0,16,12,46,7.714,1.9121,4673
+"Gibson, Kyle SP MIN ",Free Agent,51.0,10,2,0,2,4,0,0,29,20,69,6.529,1.7451,4675
+"Flynn, Brian SP MIA",Free Agent,18.0,4,0,0,0,2,0,0,15,13,27,8.500,2.2222,4676
+"Webster, Allen SP BOS",Free Agent,30.3,7,2,0,1,2,0,0,23,18,37,8.604,1.8132,4677
+"McHugh, Collin SP COL ",Free Agent,23.7,4,0,0,0,4,0,0,14,6,36,9.127,1.7746,4678
+"Batista, Lay SP ATL ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,9999
+"Darnell, Logan SP MIN",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,9999
+"VerHagen, Drew SP DET",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,9999
+"Tanaka, Masahiro SP NYY ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,9999
+"Fernandez, Raul SP COL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,9999
+"Alexander, Scott SP KC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,9999
+"Hollands, Mario SP PHI",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,9999
+"Martin, Jarret SP LAD",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,9999
+"Walden, Marcus SP TOR",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,9999
+"Castillo, Yeiper SP LAA",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,9999
+"Bassitt, Chris SP CHW",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,9999
+"Andriese, Matthew SP TB ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,9999
+"Hendricks, Kyle SP CHC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,9999
+"Paredes, Willy SP ARI",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,9999
+"Beeler, Dallas SP CHC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,9999
+"Doran, Bobby SP HOU",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,9999
+"Flores, Kendry SP SF",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,9999
+"Campos, Leonel SP SD",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,9999
+"Blach, Ty SP SF",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,9999
+"Brooks, Aaron SP KC",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,9999
+"Matz, Steven SP NYM",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,9999
+"Sadler, Casey SP PIT",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,9999
+"Goforth, David SP MIL ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,9999
+"Buchanan, Jake SP HOU",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,9999
+"Rodriguez, Joely SP PIT",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,9999
+"Hall, Brooks SP MIL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,9999
+"Verrett, Logan SP NYM",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,9999
+"Perez, Carlos SP ATL ",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,9999
+"Valdez, Jose SP DET",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,9999
+"Cooney, Tim SP STL",Free Agent,0.0,0,0,0,0,0,0,0,0,0,0,0.000,0.0000,9999

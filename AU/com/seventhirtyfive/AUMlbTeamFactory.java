@@ -30,7 +30,7 @@ public class AUMlbTeamFactory
 	        mTeams[1] = new AUMlbTeam("San Francisco", "SF", true );
 	        mTeams[2] = new AUMlbTeam("Colorado", "COL", true );
 	        mTeams[3] = new AUMlbTeam("Arizona", "ARI", true );
-	        mTeams[4] = new AUMlbTeam("Los Angeles", "LA", true );
+	        mTeams[4] = new AUMlbTeam("Los Angeles", "LAD", true );
 	        
 	        // NL Central
 	        mTeams[5] = new AUMlbTeam("St. Louis", "STL", true );
@@ -48,7 +48,7 @@ public class AUMlbTeamFactory
 	        mTeams[15] = new AUMlbTeam("New York", "NYM", true );
 	        
 	        // AL West
-	        mTeams[16] = new AUMlbTeam("Los Angeles (Anaheim)", "ANA", false );
+	        mTeams[16] = new AUMlbTeam("Los Angeles (Anaheim)", "LAA", false );
 	        mTeams[17] = new AUMlbTeam("Texas", "TEX", false );
 	        mTeams[18] = new AUMlbTeam("Oakland", "OAK", false );
 	        mTeams[19] = new AUMlbTeam("Seattle", "SEA", false );

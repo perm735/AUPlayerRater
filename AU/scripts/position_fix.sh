@@ -24,7 +24,7 @@ do
         if [ $counter -gt 2 ]; then
             newline=$(echo "$name" | sed 's/,/#/')
             newline=$(echo "$newline" | sed 's/^/\"/')
-            newline=$(echo "$newline" | sed 's/#/\" /')
+            newline=$(echo "$newline" | sed 's/#/\"\t/')
     
             # First strip off the '|'
             newline=$(echo "$newline" | sed 's/|//')

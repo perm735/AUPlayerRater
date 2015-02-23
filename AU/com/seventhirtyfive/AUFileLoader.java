@@ -522,7 +522,7 @@ public class AUFileLoader {
 	}
 	private String getTeam(String s){
 	    String [] parse = s.split(" ");
-	    return parse[parse.length-1];
+	    return parse[parse.length-1].replace("\"","");
 	}
 	
 	private AUPlayer getPlayerFromList( Vector<AUPlayer> v, String firstName, String lastName ) {

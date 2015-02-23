@@ -39,7 +39,11 @@ do
             newline=$(echo "$name" | sed 's/,/\t/g')
             newline=$(echo "$newline" | sed 's/\t/,/')
         fi
-        echo "$newline" >> $TMPFILE
+
+        # if the line contains Report,Updated, don't write it out
+        if [[ $string != *"Report,Updated"* ]]; then
+            echo "$newline" >> $TMPFILE
+        fi
     else
         echo "$name" >> $TMPFILE
     fi

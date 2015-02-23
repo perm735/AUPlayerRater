@@ -349,20 +349,20 @@ public class AUFileLoader {
             pitcher.setTeam(AUMlbTeamFactory.getTeam(true, team));
 			// parsedLine[1];       AU Team Name (not used)
             AUPitcherStats stats = pitcher.getStats(mYearToLoad);
-            stats.setInnings(Float.parseFloat(parsedLine[2]));  // 2012 added a dash, all values slide up
-            // parsedLine[3] 		Games Started
-            // parsedLine[4] 		Quality starts
-            // parsedLine[5]		Complete games
-            stats.setWins(Integer.parseInt(parsedLine[6]));
-            stats.setLosses(Integer.parseInt(parsedLine[7]));
-            stats.setSaves(Integer.parseInt(parsedLine[8]));
-            // parsedLine[9]		Blown saves
-            stats.setStrikeouts(Integer.parseInt(parsedLine[10]));
-            stats.setWalks(Integer.parseInt(parsedLine[11]));
-            stats.setHitsAgainst(Integer.parseInt(parsedLine[12]));
+            stats.setInnings(Float.parseFloat(parsedLine[1]));  // 2012 added a dash, all values slide up
+            // parsedLine[2] 		Games Started
+            // parsedLine[3] 		Quality starts
+            // parsedLine[4]		Complete games
+            stats.setWins(Integer.parseInt(parsedLine[5]));
+            stats.setLosses(Integer.parseInt(parsedLine[6]));
+            stats.setSaves(Integer.parseInt(parsedLine[7]));
+            // parsedLine[8]		Blown saves
+            stats.setStrikeouts(Integer.parseInt(parsedLine[9]));
+            stats.setWalks(Integer.parseInt(parsedLine[10]));
+            stats.setHitsAgainst(Integer.parseInt(parsedLine[11]));
             // Only set the ERA if innings is > 0
             if (stats.getInnings()>0.0f) {
-                stats.setEra(Float.parseFloat(parsedLine[13]));
+                stats.setEra(Float.parseFloat(parsedLine[12]));
             }
             // parsedLine[14]		Whip(Calculated)
             
@@ -491,14 +491,22 @@ public class AUFileLoader {
 	private String getLastName(String s) {
 		String [] parse = s.split(" ");
 		String name = parse[0].replace("\"","");
-		name = name.replace(",", ""); 
-		return name;
+		String names[] = name.split(",");
+		if(names.length > 1) {
+			return names[1];
+		} else {
+			return names[0].replace(",", "");
+		}
 	}
 	private String getFirstName(String s) {
 		String [] parse = s.split(" ");
 		if (AUPlayer.isStringPosition(parse[2])) {
 		    return parse[1];
-		} else {
+		} else if (parse[0].contains(",")) {
+			String [] names = parse[0].split(",");
+			return names[0].replace("\"", "");
+		}
+		else {
 		    return parse[1]+" "+parse[2];
 		}
 	}

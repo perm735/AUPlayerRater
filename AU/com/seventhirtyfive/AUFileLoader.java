@@ -420,19 +420,22 @@ public class AUFileLoader {
 			batter.setYear(mYearToLoad);
             String team = getTeam(parsedLine[0]);
             batter.setTeam(AUMlbTeamFactory.getTeam(true, team));
-			// parsedLine[1];       AU Team Name (not used)
+            int offset = 1;
+			// parsedLine[1];       AU Team Name (not used) - removed AU team - 2016
             AUBatterStats stats = batter.getStats(mYearToLoad);
-            stats.setAb(Integer.parseInt(parsedLine[2]));
-            stats.setRuns(Integer.parseInt(parsedLine[3]));
+            stats.setAb(Integer.parseInt(parsedLine[offset++]));
+            stats.setRuns(Integer.parseInt(parsedLine[offset++]));
             // parsedLine[4];       Hits
-            stats.set1B(Integer.parseInt(parsedLine[5]));
-            stats.set2B(Integer.parseInt(parsedLine[6]));
-            stats.set3B(Integer.parseInt(parsedLine[7]));
-            stats.setHr(Integer.parseInt(parsedLine[8]));
-            stats.setRbi(Integer.parseInt(parsedLine[9]));
-            stats.setBb(Integer.parseInt(parsedLine[10]));
+            offset++;
+            stats.set1B(Integer.parseInt(parsedLine[offset++]));
+            stats.set2B(Integer.parseInt(parsedLine[offset++]));
+            stats.set3B(Integer.parseInt(parsedLine[offset++]));
+            stats.setHr(Integer.parseInt(parsedLine[offset++]));
+            stats.setRbi(Integer.parseInt(parsedLine[offset++]));
+            stats.setBb(Integer.parseInt(parsedLine[offset++]));
             // parsedLine[11]        Strikeouts
-            stats.setSb(Integer.parseInt(parsedLine[12]));
+            offset++;
+            stats.setSb(Integer.parseInt(parsedLine[offset++]));
             // parsedLine[13]       Caught Stealing
             // parsedLine[14]       Batting average
             // parsedLine[15]       On base

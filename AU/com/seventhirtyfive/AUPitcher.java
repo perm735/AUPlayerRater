@@ -50,13 +50,13 @@ public class AUPitcher extends AUPlayer implements Comparable<AUPitcher> {
     }
     
     public static final String getPitcherHeader() {
-        return String.format("%-15.15s \t %-25.25s \t %-4.4s \t %-4.4s \t %3.4s \t %-3.4s \t %-3.4s \t %-3.4s \t %-3.4s \t %-3.4s \t %-3.6s", 
-                "Player", "", "","Team", "Inn", "Wins", "Saves", "K", "ERA", "Whip", "Price");
+        return String.format("%-15.15s \t %-25.25s \t %-4.4s \t %3.4s \t %-3.4s \t %-3.4s \t %-3.4s \t %-3.4s \t %-3.4s \t %-3.6s", 
+                "Player", "", "", "Inn", "Wins", "Saves", "K", "ERA", "Whip", "Price");
     }
 
     public String toString() {
-        String output = String.format("%-15.15s \t %-25.25s \t %-4.4s \t %-1.1f \t %-3.3s \t %-3.3s \t %-3.3s \t %-1.3f \t %-1.3f \t %2.2f", 
-                mFirstName,mLastName,mTeam, 
+        String output = String.format("%-15.15s \t %-25.25s \t %-1.1f \t %-3.3s \t %-3.3s \t %-3.3s \t %-1.3f \t %-1.3f \t %2.2f", 
+                mFirstName,mLastName, 
                 getStats().getInnings(), 
                 getStats().getWins(), 
                 getStats().getSaves(), 

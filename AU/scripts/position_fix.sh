@@ -4,20 +4,23 @@ if [ -z "$1" ]; then
     exit 1;
 fi
 
-TMPFILE="/tmp/$1"
+echo "Processing $1"
+
+FILE=${1:2}
+
+TMPFILE="/tmp/$FILE"
 if [ -e "$TMPFILE" ]; then
     echo "remove $TMPFILE"
     rm $TMPFILE
 fi
 
-PREFILE="/tmp/One${1}"
+PREFILE="/tmp/One$FILE"
 if [ -e "$PREFILE" ]; then
     echo "remove $PREFILE"
     rm $PREFILE
 fi
 
-touch $PREFILE
-cut -d, -f1 --complement $1 >> $PREFILE
+cut -d, -f1 --complement $FILE >> $PREFILE
 
 #TODO: don't do the first two lines
 counter=0
@@ -31,9 +34,6 @@ do
     if [ $counter -gt 1 ]; then
 
         if [ $counter -gt 2 ]; then
-            # Strip off the team name
-            newline=$(echo "$newline" | cut -d, -f1 --complement)
-
             newline=$(echo "$name" | sed 's/,/#/')
             newline=$(echo "$newline" | sed 's/^/\"/')
             newline=$(echo "$newline" | sed 's/#/\"\t/')
@@ -64,4 +64,4 @@ done < $PREFILE
 
 # all done
 mv $TMPFILE $1
-rm $PREFILE
+#rm $PREFILE

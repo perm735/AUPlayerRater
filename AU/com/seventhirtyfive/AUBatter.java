@@ -74,13 +74,14 @@ public class AUBatter extends AUPlayer implements Comparable<AUBatter>{
     }
     
     public static final String getBatterHeader() {
-        return String.format("%-15.15s \t %-25.25s \t %-4.4s \t %-4.4s \t %3.3s \t %-3.3s \t %-3.3s \t %-3.3s \t %-3.3s \t %-3.3s \t %-3.3s", 
-                "Player", "", "","Team", "avg", "Runs", "HR", "RBI", "BB", "SB", "OPS");
+        return String.format("%-15.15s \t %-25.25s \t %-4.4s \t %3.3s \t %-3.3s \t %-3.3s \t %-3.3s \t %-3.3s \t %-3.3s \t %-3.3s", 
+                "Player", "", "", "avg", "Runs", "HR", "RBI", "BB", "SB", "OPS", "Price");
     }
     
     public String toString() {
-        String output = String.format("%-15.15s \t %-25.25s \t %-4.4s \t %-1.4f \t %-3.3s \t %-3.3s \t %-3.3s \t %-3.3s \t %-3.3s \t %-1.4f \t $%-2.2f", 
-                mFirstName,mLastName,mTeam, 
+        //String output = String.format("%-15.15s \t %-25.25s \t %-4.4s \t %-1.4f \t %-3.3s \t %-3.3s \t %-3.3s \t %-3.3s \t %-3.3s \t %-1.4f \t $%-2.2f", 
+        String output = String.format("%-20s \t %-25s \t %-1.4f \t %-3s \t %-3s \t %-3s \t %-3s \t %-3s \t %-1.4f \t $%-2.2f", 
+                mFirstName,mLastName, 
                 getStats(mCurrentYear).getAvg(), 
                 getStats(mCurrentYear).getRuns(), 
                 getStats(mCurrentYear).getHr(), 

@@ -55,7 +55,7 @@ public class AUPitcher extends AUPlayer implements Comparable<AUPitcher> {
     }
 
     public String toString() {
-        String output = String.format("%-15.15s \t %-25.25s \t %-1.1f \t %-3.3s \t %-3.3s \t %-3.3s \t %-1.3f \t %-1.3f \t %2.2f", 
+        String output = String.format("%-20s \t %-25s \t %-1.1f \t %-3s \t %-3s \t %-3s \t %-1.3f \t %-1.3f \t %2.2f", 
                 mFirstName,mLastName, 
                 getStats().getInnings(), 
                 getStats().getWins(), 

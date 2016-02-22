@@ -346,23 +346,26 @@ public class AUFileLoader {
 			AUPitcher pitcher = new AUPitcher(first, last, position);
 			pitcher.setYear(mYearToLoad);
             String team = getTeam(parsedLine[0]);
+            int offset = 1;
             pitcher.setTeam(AUMlbTeamFactory.getTeam(true, team));
-			// parsedLine[1];       AU Team Name (not used)
+			// parsedLine[1];       AU Team Name (not used) - 2016 changed parse script - no more team name
             AUPitcherStats stats = pitcher.getStats(mYearToLoad);
-            stats.setInnings(Float.parseFloat(parsedLine[2]));  // 2012 added a dash, all values slide up
+            stats.setInnings(Float.parseFloat(parsedLine[offset++]));  // 2012 added a dash, all values slide up
             // parsedLine[3] 		Games Started
             // parsedLine[4] 		Quality starts
             // parsedLine[5]		Complete games
-            stats.setWins(Integer.parseInt(parsedLine[6]));
-            stats.setLosses(Integer.parseInt(parsedLine[7]));
-            stats.setSaves(Integer.parseInt(parsedLine[8]));
+            offset += 3;
+            stats.setWins(Integer.parseInt(parsedLine[offset++]));
+            stats.setLosses(Integer.parseInt(parsedLine[offset++]));
+            stats.setSaves(Integer.parseInt(parsedLine[offset++]));
             // parsedLine[9]		Blown saves
-            stats.setStrikeouts(Integer.parseInt(parsedLine[10]));
-            stats.setWalks(Integer.parseInt(parsedLine[11]));
-            stats.setHitsAgainst(Integer.parseInt(parsedLine[12]));
+            offset++;
+            stats.setStrikeouts(Integer.parseInt(parsedLine[offset++]));
+            stats.setWalks(Integer.parseInt(parsedLine[offset++]));
+            stats.setHitsAgainst(Integer.parseInt(parsedLine[offset++]));
             // Only set the ERA if innings is > 0
             if (stats.getInnings()>0.0f) {
-                stats.setEra(Float.parseFloat(parsedLine[13]));
+                stats.setEra(Float.parseFloat(parsedLine[offset++]));
             }
             // parsedLine[14]		Whip(Calculated)
             

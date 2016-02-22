@@ -54,7 +54,7 @@ do
         fi
 
         # if the line contains Report,Updated, don't write it out
-        if [[ $string != *"Report,Updated"* ]]; then
+        if [[ $string != *"Report Updated"* ]]; then
             echo "$newline" >> $TMPFILE
         fi
     else

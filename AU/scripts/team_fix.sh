@@ -23,7 +23,9 @@ do
 
         # then replace comma's with tabs
         newline=$(echo "$name" | sed 's/,/\t/g')
-        echo "$newline" >> $TMPFILE
+        if [[ $newline != "Report"* ]]; then
+            echo "$newline" >> $TMPFILE
+        fi
     else
         echo "$name" >> $TMPFILE
     fi

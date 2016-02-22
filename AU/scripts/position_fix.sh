@@ -10,6 +10,15 @@ if [ -e "$TMPFILE" ]; then
     rm $TMPFILE
 fi
 
+PREFILE="/tmp/One${1}"
+if [ -e "$PREFILE" ]; then
+    echo "remove $PREFILE"
+    rm $PREFILE
+fi
+
+touch $PREFILE
+cut -d, -f1 --complement $1 >> $PREFILE
+
 #TODO: don't do the first two lines
 counter=0
 while read line
@@ -22,18 +31,22 @@ do
     if [ $counter -gt 1 ]; then
 
         if [ $counter -gt 2 ]; then
+            # Strip off the team name
+            newline=$(echo "$newline" | cut -d, -f1 --complement)
+
             newline=$(echo "$name" | sed 's/,/#/')
             newline=$(echo "$newline" | sed 's/^/\"/')
             newline=$(echo "$newline" | sed 's/#/\"\t/')
-    
+
             # First strip off the '|'
             newline=$(echo "$newline" | sed 's/|//')
         
             # then replace comma's with tabs
             newline=$(echo "$newline" | sed 's/,/\t/g')
-        
+
             # next replace the first space with a comma
-            newline=$(echo "$newline" | sed 's/ /,/')
+            newline=$(echo "$newline" | sed 's/\" /\",/')
+    
         else
             # special case
             newline=$(echo "$name" | sed 's/,/\t/g')
@@ -47,7 +60,8 @@ do
     else
         echo "$name" >> $TMPFILE
     fi
-done < $1
+done < $PREFILE
 
 # all done
 mv $TMPFILE $1
+rm $PREFILE

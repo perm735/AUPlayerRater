@@ -79,7 +79,9 @@ public class AUPitcher extends AUPlayer implements Comparable<AUPitcher> {
     	// get the percentages
     	double innAvg = (double)stats.getInnings() / (l.getInnAverage());     // 2013: Weight innings more without affecting ERA/WHIP
     	                                                                      // 2014: Roll back 2013 change
-    	double savesAvg = (double)stats.getSaves() / l.getSaveAverage() * 2;  // pare down the value of saves
+    	double savesAvg = (double)stats.getSaves() / l.getSaveAverage();      // pare down the value of saves
+    	                                                                      // 2016: actually pare down the value of saves
+    	
     	double kAvg = (double)stats.getStrikeouts() / l.getKAverage();
     	double winAvg = (double)stats.getWins() / l.getWinAverage();
     	

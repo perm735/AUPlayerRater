@@ -1,0 +1,560 @@
+Free Agent Catchers  Season   Projections Standard Stats
+Player,AB	R	H	1B	2B	3B	HR	RBI	BB	KO	SB	CS	BA	OBP	SLG	Rank	
+"Tom Murphy C  COL"	332	50	79	46	16	0	17	54	32	108	4	0	0.238	0.316	0.440	322
+"Nick Hundley C  COL"	375	42	100	61	24	3	12	55	27	90	2	1	0.267	0.318	0.443	365
+"Bruce Maxwell C  OAK"	412	43	105	68	19	5	13	56	33	112	2	0	0.255	0.313	0.420	377
+"Yan Gomes C  CLE"	540	52	104	56	28	2	18	73	18	150	0	0	0.193	0.234	0.352	419
+"Jett Bandy C  MIL "	396	41	88	53	18	0	17	46	23	113	2	0	0.222	0.275	0.397	434
+"Tyler Flowers C  ATL"	333	29	87	57	18	0	12	47	30	116	0	0	0.261	0.339	0.423	462
+"Mike Zunino C  SEA "	444	39	83	45	17	0	21	59	40	176	0	0	0.187	0.275	0.367	464
+"Derek Norris C  WAS "	324	41	72	44	17	1	10	36	28	89	5	1	0.222	0.292	0.373	479
+"James McCann C  DET"	398	34	93	65	14	3	11	49	21	123	0	0	0.234	0.276	0.367	489
+"Omar Narvaez C  CHW"	415	43	98	73	17	0	8	43	40	92	1	0	0.236	0.306	0.335	501
+"Martin Maldonado C  LAA "	486	46	101	72	16	0	13	48	54	103	0	0	0.208	0.305	0.321	512
+"Roberto Perez C  CLE"	305	38	63	36	13	3	11	39	42	97	0	0	0.207	0.305	0.377	548
+"Tucker Barnhart C  CIN"	326	27	85	61	18	1	5	36	28	63	1	0	0.261	0.323	0.368	569
+"Tony Wolters C  COL"	198	26	50	32	12	2	4	29	18	57	4	1	0.253	0.315	0.394	593
+"Blake Swihart LF  BOS "	220	34	58	43	9	4	2	21	19	66	2	1	0.264	0.325	0.368	626
+"Jose Lobaton C  WAS "	267	26	62	44	9	2	7	32	25	57	0	0	0.232	0.303	0.360	629
+"Austin Hedges C  SD"	492	47	89	66	14	0	9	41	26	135	0	0	0.181	0.237	0.264	672
+"Austin Romine C  NYY "	162	17	37	22	9	0	6	24	9	37	1	0	0.228	0.269	0.395	713
+"Christian Bethancourt C  SD"	213	22	48	33	10	0	5	25	9	53	1	0	0.225	0.257	0.343	716
+"Caleb Joseph C  BAL"	298	30	62	44	11	1	6	28	19	63	0	0	0.208	0.260	0.312	721
+"Josh Phegley C  OAK "	167	20	38	22	11	0	5	22	11	40	0	0	0.228	0.287	0.383	747
+"Luke Maile C  TB "	262	20	57	36	15	0	6	28	10	78	0	0	0.218	0.249	0.344	753
+"Rene Rivera C  NYM "	306	18	61	43	11	0	7	36	19	93	0	0	0.199	0.253	0.304	774
+"A.J. Jimenez C  TOR "	139	16	33	21	7	0	5	19	12	39	0	0	0.237	0.303	0.396	776
+"Miguel Gomez C  SF"	140	15	34	23	7	0	4	18	12	36	0	0	0.243	0.307	0.379	806
+"Jeff Mathis C  ARI "	181	18	40	27	7	2	4	22	10	54	0	0	0.221	0.266	0.348	807
+"Carlos Ruiz C  SEA"	146	17	36	26	7	0	3	15	19	24	1	0	0.247	0.349	0.356	809
+"Victor Caratini C  CHC"	142	16	33	22	7	0	4	18	13	39	0	0	0.232	0.306	0.366	813
+"Anthony Recker C  ATL "	143	11	33	21	8	0	4	18	19	45	2	0	0.231	0.329	0.371	827
+"Dustin Garneau C  COL"	160	18	35	21	10	0	4	19	13	48	0	0	0.219	0.282	0.356	828
+"Kyle Farmer C  LAD"	139	15	32	21	7	0	4	18	12	38	0	0	0.230	0.301	0.367	830
+"Shawn Zarraga C  CIN "	139	15	32	21	7	0	4	18	12	38	0	0	0.230	0.301	0.367	830
+"Cam Gallagher C  KC"	142	15	33	23	7	0	3	18	9	36	1	0	0.232	0.283	0.345	832
+"Juan Graterol C  LAA "	150	15	36	24	9	0	3	19	9	41	0	0	0.240	0.287	0.360	836
+"Alfredo Gonzalez C  CHW"	142	14	34	23	7	0	4	17	10	38	0	0	0.239	0.294	0.373	839
+"Kyle Higashioka C  NYY"	140	15	32	21	7	0	4	18	11	39	0	0	0.229	0.289	0.364	841
+"Jesus Sucre C  SEA "	168	16	40	28	8	0	4	16	9	34	0	0	0.238	0.293	0.357	842
+"Raudy Read C  WAS"	140	14	33	22	7	0	4	17	11	37	0	0	0.236	0.296	0.371	850
+"Drew Butera C  KC"	137	16	33	20	8	1	4	13	7	41	0	0	0.241	0.283	0.402	856
+"Tomas Nido C  NYM"	140	14	32	21	7	0	4	17	12	39	0	0	0.229	0.299	0.364	863
+"Stuart Turner C  CIN "	141	13	33	23	7	0	3	16	10	38	1	0	0.234	0.294	0.347	875
+"Ramon Cabrera C  CIN "	140	10	34	24	7	0	3	17	7	27	1	0	0.243	0.284	0.357	879
+"Brett Nicholas C  TEX"	100	12	24	14	6	0	4	13	9	28	0	0	0.240	0.315	0.420	883
+"Spencer Kieboom C  WAS"	125	14	29	20	6	0	3	16	11	33	0	0	0.232	0.299	0.352	885
+"Tuffy Gosewisch C  ATL "	221	17	45	31	8	1	5	19	18	56	1	0	0.204	0.273	0.317	886
+"Carlos Perez C  LAA"	213	17	44	30	10	0	4	20	11	48	1	0	0.207	0.249	0.310	887
+"Mitch Garver C  MIN"	140	14	30	19	7	0	4	17	12	44	0	0	0.214	0.281	0.350	889
+"Carson Kelly C  STL"	148	14	32	20	8	0	4	17	10	38	0	0	0.216	0.280	0.351	891
+"Luis Torrens C  SD "	138	14	30	21	6	0	3	16	10	38	0	0	0.217	0.280	0.326	909
+"Jose Ruiz C  SD"	138	14	30	21	6	0	3	16	10	38	0	0	0.217	0.280	0.326	909
+"Elias Diaz C  PIT "	129	12	29	20	6	0	3	16	10	33	0	0	0.225	0.291	0.341	911
+"Francisco Pena C  BAL"	163	16	34	26	4	0	4	15	9	50	0	0	0.209	0.254	0.307	913
+"Kevan Smith C  CHW"	133	13	30	21	6	0	3	14	8	37	0	0	0.226	0.275	0.338	920
+"Christian Vazquez C  BOS"	163	18	36	25	8	1	2	14	9	41	0	0	0.221	0.270	0.319	922
+"Bryan Holaday C  PHI "	153	14	34	22	9	1	2	16	8	42	0	0	0.222	0.270	0.333	928
+"Pedro Severino C  WAS"	83	10	21	12	6	0	3	9	7	17	0	0	0.253	0.319	0.434	929
+"A.J. Ellis C  MIA "	124	10	28	20	6	0	2	15	13	23	1	0	0.226	0.304	0.323	930
+"Trevor Brown C  SF"	110	10	26	18	5	0	3	12	6	28	0	0	0.236	0.282	0.364	931
+"Andrew Knapp C  PHI "	138	12	30	21	6	0	3	15	10	40	0	0	0.217	0.280	0.326	932
+"Eric Fryer C  STL "	100	13	25	19	4	1	1	10	9	27	0	0	0.250	0.312	0.340	946
+"Chris Stewart C  PIT "	149	13	35	28	6	0	1	13	12	26	0	0	0.235	0.305	0.295	960
+"Kevin Plawecki C  NYM"	172	12	37	27	8	0	2	17	17	43	0	0	0.215	0.297	0.296	963
+"Andrew Susac C  MIL"	76	9	17	9	4	1	3	9	8	28	0	0	0.224	0.306	0.421	964
+"Manny Pina C  MIL"	84	7	21	14	5	0	2	11	8	23	0	0	0.250	0.315	0.381	965
+"Hector Sanchez C  SD "	58	5	14	9	3	0	2	8	4	14	0	0	0.241	0.302	0.397	991
+"Justin O'Conner C  TB "	71	6	16	10	4	0	2	8	4	21	0	0	0.225	0.276	0.366	994
+"Max Stassi C  HOU"	66	7	14	10	2	0	2	6	4	18	0	0	0.212	0.257	0.333	1001
+"John Ryan Murphy C  MIN"	181	15	35	23	9	1	2	11	11	54	0	0	0.193	0.243	0.287	1003
+"Oscar Hernandez C  ARI"	56	5	12	8	2	0	2	5	3	16	0	0	0.214	0.267	0.357	1008
+"Austin Barnes C  LAD"	50	6	10	7	2	0	1	4	6	14	1	0	0.200	0.298	0.300	1011
+"Tomas Telis C  MIA"	39	3	9	7	1	0	1	5	2	8	0	0	0.231	0.286	0.333	1020
+"Brayan Pena C  STL "	83	5	21	16	5	0	0	5	7	10	0	0	0.253	0.319	0.313	1021
+"Matt Koch C  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	1030
+"Nick Trzesniak C  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ryan Lipkin C  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Mike Kvasnicka C  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Aaron Hathaway C  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ty Ross C  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Justin Marra C  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ryan January C  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Tim Federowicz C  CHC "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Tommy Duenas C  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ben Carhart C  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Chuck Moorman C  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Milver Reyes C  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Joey Paciorek C  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Martin Medina C  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Chad Tromp C  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Joe Odom C  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Salomon Manriquez C  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Parker Berberet C  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"George Kottaras C  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Tommy Mendonca C  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Hamlet Marte C  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Craig Manuel C  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Wilfredo Gimenez C  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Chairon Isenia C  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jonathan Douillard C  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jose Duarte C  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Clinton Chauncey C  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Tony Sanchez C  SF "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Sean McCraw C  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Santiago Nessy C  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Rafael Arroyo C  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Yohel Pozo C  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Erick San Pedro C  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Gabby Torres C  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Dennis Anderson C  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Bennett Pickar C  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Tim Duff C  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Cael Brockmeyer C  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Lawrence Day C  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Trent Pratt C  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Joe Jackson C  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Radley Haddad C  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Patrick Perry C  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Kevin Torres C  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ali Solis C  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Craig Albernaz C  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Luis Flores C  HOU"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Drew McMillan C  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Kellin Deglan C  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Alex Jamieson C  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Sharif Othman C  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Chance Sisco C  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Matt Kennelly C  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Patrick Leyland C  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Oscar Bernard C  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Alejandro Segovia C  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"John Schneider C  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Blake Anderson C  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Carlos T. Perez C  HOU"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Kyle Geiger C  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jair Fernandez C  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jamie Ritchie C  HOU"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Alex Monsalve C  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Geovany Soto C  LAA "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Juan Centeno C  HOU "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Austin Green C  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Josh Elander C  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jeffrey Farnham C  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Carlton Tanabe C  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Orlando Mercado C  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Brian Walker C  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Sebastian Rivero C  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Reese McGuire C  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"John Walk C  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Gerald Laird C  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Dayton Buller C  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jorge Saez C  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Brian Jeroloman C  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Dioner Navarro C  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Webster Rivas C  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Orlando Guevara C  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Miguel Fermin C  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Andy Wilson C  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ryan Hubele C  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Dom Nunez C  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Mayo Acosta C  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Rossmel Perez C  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Armando Camacaro C  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jason Hagerty C  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Xorge Carrillo C  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Miguel Bernard C  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Alberto Concepcion C  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Joel Jimenez C  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Devin Ivany C  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ryan Ortiz C  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jose Ortiz C  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Guillermo Quiroz C  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jack Murphy C  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Francisco Hernandez C  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Grayson Greiner C  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Brian Bock C  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Angel Molina C  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Mike Blanke C  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Tim Whittaker C  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Brian Schweiger C  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Philip Pohl C  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Chad Wallach C  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Eli Tintor C  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Julio Morillo C  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Rene Garcia C  MIL "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ryan D. Smith C  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Yenier Bello C  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Zachary Dillon C  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Francisco Mejia C  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jobduan Morales C  HOU"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Seth Conner C  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Chace Numata C  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jordan Wideman C  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Luis De La Cruz C  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Hank Conger C  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Aramis Garcia C  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Eliezer Alfonzo C  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Austin Allen C  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Brian Peterson C  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Matt Wallach C  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jayson Hernandez C  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Michael McKenry C  STL "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jon Talley C  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Xavier Fernandez C  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Dave Freitas C  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Luke Bailey C  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Arturo Rodriguez C  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Will Remillard C  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Adrian Nieto C  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Anthony Bemboom C  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jin-De Jhang C  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Beau Maggi C  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"David Ross C  CHC "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Miguel Gonzalez C  DET "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jonathan Aceves C  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"John Murrian C  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Luis Bernardo C  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Chun-Hsiu Chen C  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Patrick Mazeika C  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Adam Weisenburger C  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Chris Kroski C  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Juan Gomes C  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Charlie Cutler C  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Mark Reed C  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Chase Vallot C  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Casey Rasmus C  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Matt Morgan C  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Anthony Delmonico C  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Kiel Thibault C  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Brett Martinez C  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Dallas Tarleton C  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Kevin Davidson C  HOU"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Andrew Graham C  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Chris Hoo C  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Brian Peacock C  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Erik Kratz C  CLE "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"A.J. Pierzynski C  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Clayton McCullough C  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"David Wallace C  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Paul Chiaffredo C  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Chris O'Brien C  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"James Kennedy C  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Dustin Houle C  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jim Buckley C  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ralph Henriquez C  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Deivi Grullon C  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jake Henson C  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Javier Herrera C  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Iker Franco C  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Chris Okey C  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Max Pentecost C  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Daniel Torres C  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Josh Hansen C  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Todd Jennings C  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jeff Kunkel C  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Griff Erickson C  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Michael Perez C  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Mike Collins C  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Phillip Britton C  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Taylor Ward C  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jed Morris C  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Alex Burg C  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Tyler Baker C  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Austin Wynns C  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Troy Snitker C  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jose Trevino C  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Carson Blair C  OAK "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Meibrys Viloria C  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Dan Massiatte C  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Nestor Rojas C  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Christopher Curry C  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Alberto Rosario C  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ben Rortvedt C  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Rafael Neda C  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Luis Cruz C  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Joe Hudson C  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Michael Brenly C  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Robinzon Diaz C  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Sean Ochinko C  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Armando Araiza C  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jacob Stallings C  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Rob Brantly C  CIN "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jose Felix C  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Andy Bouchie C  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Steve Clevenger C  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Francisco Diaz C  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Sean Murphy C  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Chris Berset C  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Angel Flores C  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jose Herrera C  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Christian Kelley C  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Elio Sarmiento C  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Raffy Lopez C  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Micah Gibbs C  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Will Smith C  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Will Swanner C  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Alex Murphy C  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Brett Sullivan C  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Justin Hatcher C  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jose Gonzalez C  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Colton Plaia C  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Carlos Paulino C  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Danny Lehmann C  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"John Bormann C  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Steve Bean C  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Zach Maggard C  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Beau Taylor C  OAK "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Mike Ohlman C  TOR "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jonathan Johnston C  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Kevin Nelson C  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jesus Montero C  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Alcantara Roa C  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Donny Sands C  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jakson Reetz C  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Nick Rickles C  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Tyson Blaser C  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Matt Liuzza C  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Alan Rick C  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jarrod Saltalamacchia C  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Tony Caldwell C  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jack Marder C  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Geoff Rowan C  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Humberto Quintero C  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jason Brown C  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Alex Avila C  DET "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Trent Garrison C  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Tyler Heineman C  HOU"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jonathan Devries C  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Adrian Casanova C  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Gabriel Lino C  STL "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Kurt Suzuki C  MIN "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Brian Bormaster C  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Taylor Hawkins C  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"J.T. Watkins C  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Bryan Anderson C  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Benjamin Blumenthal C  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Steve Rodriguez C  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Wes Wilson C  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Gabe Gutierrez C  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Eddy Rodriguez C  MIN "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Nevin Ashley C  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Kyle Skipworth C  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jeff Howell C  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jacob Nottingham C  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Michael Miller C  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Phil Avlas C  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Tyler Roberts C  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Chris Wallace C  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Miguel Del Castillo C  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Logan Moore C  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Kade Scivicque C  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Dane Phillips C  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Matt McBride C  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ikko Sumi C  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Patrick Arlis C  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jose Jimenez C  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Zac Clements C  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jeremy Lucas C  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Cam Maron C  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Danny Jansen C  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Brett Hayes C  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Lars Davis C  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Timothy Kennelly C  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Aaron Munoz C  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ryan Hanigan C  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Chris Denove C  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"David Castillo C  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Pierce Rankin C  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Steel Russell C  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Caleb Brock C  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Mat Kent C  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Sicnarf Loopstok C  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"John Suomi C  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Alex Lavisky C  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Matthew Colantonio C  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Nestor Corredor C  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Chase Weems C  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Cameron Garfield C  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Mike Dowd C  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Gabriel Ortiz C  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Matt Winn C  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jon-Mark Sprowl C  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ricardo Valenzuela C  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Alex Swim C  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Kai Gronauer C  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ryan Hankins C  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Chris Gimenez C  CLE "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jose Gil C  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Adam Moore C  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"P.J. Higgins C  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Julio Rodriguez C  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jared Price C  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Brent Cordell C  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Michael Dirosa C  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"David Lyon C  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Steven Baron C  SEA "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"John Castellano C  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Brett Austin C  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"James Skelton C  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ronnie Freeman C  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ed Easley C  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Francisco Arcia C  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Leivi Ventura C  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jeff Arnold C  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"John Purdom C  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Keibert Ruiz C  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Tyler LaTorre C  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Luke Guarnaccia C  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ryan Spilman C  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Aaron Dudley C  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ben Turner C  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Tyler Stephenson C  CIN "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Carlos Martinez C  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Mike Reeves C  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jose Leger C  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jairo Rosario C  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ryan Lavarnway C  OAK "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Casey Kopitzke C  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Brett Wellman C  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Garrett Stubbs C  HOU"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Chris O'Dowd C  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Johnathan Moore C  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Craig Ansman C  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Lance Rymel C  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Cole Leonida C  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"J.P. Arencibia C  TB "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Brent Del Chiaro C  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"David Rodriguez C  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Shane Zeile C  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ben Theriot C  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Abel Baker C  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Clinton Naylor C  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Myles Schroder C  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Damaso Espino C  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Anel De Los Santos C  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Roberto Pena C  HOU "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Brandon Yarbrough C  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Kristopher Watts C  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Chad Johnson C  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Tyler Marlette C  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Raywilly Gomez C  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Eliezer Zambrano C  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Mario Feliciano C  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Derrick Chung C  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Matthew Cerda C  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Carlos Ramirez C  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Adam Donachie C  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Keith Castillo C  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ryan Eigsti C  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Matt Spring C  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Santiago Chavez C  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jackson Williams C  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Reynaldo Rodriguez C  MIN "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Parker Morin C  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Dan Rohlfing C  MIN "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Carlos H. Lee C  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Dan Butler C  BOS "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Rocky Gale C  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Brian Munhall C  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Carlos Corporan C  NYY "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Tim Roberson C  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Flint Wipke C  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Sebastian Valle C  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Tony Cruz C  KC "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Wilmer Dominguez C  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Yovan Gonzalez C  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Johnny Monell C  NYM "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Dan Moylan C  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Zach Zaneski C  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Zack Collins C  CHW "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Mark Fleury C  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Allan de San Miguel C  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"C.J. Ebarb C  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Matt Stocco C  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Eric Haase C  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Garrett Boulware C  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Anderson De La Rosa C  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Korey Feiner C  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Tyler Ogle C  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Miguel Olivo C  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Rafael Cruz C  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Lou Santangelo C  HOU"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Josh Ford C  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Tanner Murphy C  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Mitch Canham C  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Patrick Cantwell C  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Will Allen C  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"William Alvino C  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jake Lowery C  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Josh Thole C  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Brad Haynal C  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Blake Forsythe C  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Steven Lerud C  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Nick Derba C  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Neil Wilson C  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Hunter Harrigan C  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Albert Cordero C  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Max Ramirez C  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jhonatan Solano C  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Kyle Lafrenz C  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jose Briceno C  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Robert Kral C  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Zach Wright C  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"William Vazquez C  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Michael Strentz C  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Chadd Krist C  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Matthew Sharp C  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Kevin David C  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Spencer Navin C  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Adam Ehrlich C  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jonathan Schwind C  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Michael Ambort C  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Chad Noble C  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Julian Leon C  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Nick Ciuffo C  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Braeden Schlehuber C  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Eric Langill C  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Trent Woodward C  HOU"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jeff Glenn C  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Kyle Knudson C  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jeffrey Waldron C  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Wyatt Mathisen C  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jason Radwan C  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Sean Coughlin C  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Stephen McGee C  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Luany Sanchez C  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Erick Castillo C  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Brett Cumberland C  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jonah Heim C  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Bobby Wilson C  TB "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Audry Perez C  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Carlos Lugo C  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Corey Myers C  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Koby Clemens C  HOU"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jake DePew C  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Juan Apodaca C  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Joel Galarraga C  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Josmil Pinto C  MIL "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Josh Arhart C  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Taylor Davis C  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Chris McMurray C  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"John Vanden Berg C  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ben B. Johnson C  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Gustavo Rosendo C  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"P.J. Pilittere C  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Brian Ward C  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Joshua Johnson C  HOU"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Wade Wass C  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Mark Thomas C  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Roybell Herrera C  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Zane Evans C  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Omar Casillas C  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Danilo Sanchez C  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Danny Rams C  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jordan Procyshen C  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jake Jefferies C  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Joe Bowen C  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Willians Astudillo C  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Eric Roof C  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Report Updated as of  1/21/17  5:55 PM EST

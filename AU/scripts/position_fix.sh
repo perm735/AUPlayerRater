@@ -1,4 +1,7 @@
 #!/bin/bash
+# You can use this find command to execute this script on all csv's:
+# find . -maxdepth 1 -name "*.csv" -exec ~/Builds/AUPlayerRater/AU/scripts/position_fix.sh {} \ 
+
 if [ -z "$1" ]; then
     echo "First argument should be the file name"
     exit 1;
@@ -65,3 +68,4 @@ done < $PREFILE
 # all done
 mv $TMPFILE $1
 #rm $PREFILE
+echo "Done with $1"

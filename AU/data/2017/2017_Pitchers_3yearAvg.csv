@@ -1,58 +1,140 @@
-Free Agents 3 Year Averages MLB Standard Stats
+All Players 3 Year Averages MLB Standard Stats
 Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank	
+"Clayton Kershaw SP  LAD "	193.3	27	23	4	16	5	0	0	237	28	133	1.91	0.83	2
+"Max Scherzer SP  WAS "	225.7	33	24	2	17	8	0	0	271	51	179	2.95	1.02	5
+"Jake Arrieta SP  CHC "	194.3	30	21	2	17	6	0	0	198	55	134	2.41	0.97	10
+"Madison Bumgarner SP  SF "	220.7	33	23	4	17	9	0	0	235	45	184	2.90	1.04	11
 "Corey Kluber SP  CLE "	224.3	33	22	3	15	11	0	0	247	51	189	3.01	1.07	16
+"Johnny Cueto SP  SF "	225.0	33	23	4	16	9	0	0	205	52	186	2.80	1.06	20
+"David Price SP  BOS "	233.0	34	23	3	17	9	0	0	241	45	216	3.25	1.12	21
+"Chris Sale SP  BOS "	203.0	30	22	3	14	8	0	0	238	42	168	3.02	1.03	22
 "Jon Lester SP  CHC "	209.0	32	25	1	15	9	0	0	208	49	177	2.76	1.08	29
+"Zack Greinke SP  ARI "	194.7	30	22	1	16	6	0	0	180	41	166	2.77	1.06	34
+"Felix Hernandez SP  SEA "	197.0	30	20	1	15	8	0	0	187	56	163	3.06	1.11	47
+"Noah Syndergaard SP  NYM "	166.7	27	17	0	12	8	0	0	192	37	147	2.92	1.10	57
+"Kenta Maeda SP  LAD "	175.7	32	14	0	16	11	0	0	179	50	150	3.48	1.14	62
 "Mark Melancon RP  SF "	73.0	0	0	0	3	3	44	3	66	12	53	1.97	0.89	65
+"Zach Britton RP  BAL "	69.7	0	0	0	3	1	40	3	72	18	45	1.42	0.90	70
 "Stephen Strasburg SP  WAS "	163.3	27	17	0	13	7	0	0	193	38	144	3.36	1.11	71
+"Kenley Jansen RP  LAD "	62.0	0	0	0	2	2	42	4	95	13	41	2.32	0.87	74
+"Dallas Keuchel SP  HOU "	200.0	29	21	3	14	10	0	0	169	49	180	3.19	1.15	76
 "Cole Hamels SP  TEX "	206.0	31	23	1	12	7	0	0	204	66	184	3.15	1.21	82
 "Masahiro Tanaka SP  NYY "	163.3	25	17	1	13	5	0	0	148	28	143	3.14	1.05	86
+"Aroldis Chapman RP  NYY "	59.3	0	0	0	3	3	35	3	104	25	32	1.67	0.96	88
+"Carlos Carrasco SP  CLE "	154.7	23	13	2	11	9	0	0	169	35	130	3.20	1.07	94
+"Jacob deGrom SP  NYM "	159.7	25	19	0	10	7	0	0	164	39	136	2.76	1.10	95
+"John Lackey SP  CHC "	201.3	31	23	1	13	9	0	0	173	51	188	3.31	1.19	98
+"Seung Hwan Oh RP  STL "	79.7	0	0	0	6	3	19	4	103	18	55	1.92	0.92	99
+"Andrew Miller RP  CLE"	66.0	0	0	0	6	3	16	2	109	15	36	1.77	0.77	101
 "Julio Teheran SP  ATL "	203.3	32	20	2	11	10	0	0	175	55	178	3.36	1.15	105
+"Chris Archer SP  TB "	202.7	33	19	0	10	14	0	0	219	68	178	3.51	1.21	106
+"Craig Kimbrel RP  BOS"	58.0	0	0	0	2	4	39	3	88	26	33	2.48	1.02	108
+"David Robertson RP  CHW "	63.3	0	0	0	5	4	37	6	86	23	48	3.27	1.12	111
 "Francisco Rodriguez RP  DET"	61.0	0	0	0	3	4	42	4	62	17	44	2.80	1.00	112
+"Rick Porcello SP  BOS "	200.0	31	21	2	15	11	0	0	156	37	200	3.73	1.19	115
 "Justin Verlander SP  DET "	189.0	29	20	1	12	10	0	0	175	51	169	3.67	1.16	118
 "Cody Allen RP  CLE "	69.0	0	0	0	4	5	30	4	92	26	48	2.48	1.07	121
+"Michael Fulmer SP  DET"	159.0	26	15	1	11	7	0	0	132	42	136	3.06	1.12	132
+"Kyle Hendricks SP  CHC "	150.0	25	13	1	10	6	0	0	128	34	127	2.94	1.07	133
 "Collin McHugh SP  HOU"	181.0	30	18	0	14	9	0	0	168	49	177	3.73	1.25	134
 "Jose Quintana SP  CHW"	205.0	32	23	0	10	11	0	0	179	49	202	3.29	1.22	136
+"Jeurys Familia RP  NYM "	77.7	0	0	0	2	4	33	5	81	27	60	2.20	1.12	139
+"Jason Hammel SP  CHC "	171.3	30	15	0	12	9	0	0	158	46	153	3.68	1.16	141
+"Wade Davis RP  CHC "	61.0	0	0	0	6	1	16	2	78	20	35	1.18	0.90	142
+"Dellin Betances RP  NYY "	82.3	0	0	0	5	3	7	4	131	31	48	1.97	0.96	146
 "Gerrit Cole SP  PIT "	154.0	25	17	0	12	8	0	0	146	40	147	3.21	1.21	148
+"Tanner Roark SP  WAS "	173.3	25	16	0	12	9	0	0	127	46	157	3.17	1.17	151
+"J.A. Happ SP  TOR "	175.0	30	17	0	14	8	0	0	149	52	167	3.65	1.25	155
 "Hisashi Iwakuma SP  SEA "	169.3	27	16	0	13	9	0	0	137	29	167	3.77	1.16	158
+"Roberto Osuna RP  TOR "	72.0	0	0	0	2	4	28	4	78	15	52	2.62	0.93	162
+"Jordan Zimmermann SP  DET "	169.0	28	18	1	12	7	0	0	137	31	169	3.52	1.18	166
+"Bartolo Colon SP  ATL"	196.3	32	19	0	15	11	0	0	138	29	212	3.90	1.23	167
+"Marco Estrada SP  TOR "	169.3	25	14	0	10	8	0	0	141	55	134	3.61	1.12	172
+"Ian Kennedy SP  KC "	188.3	32	17	0	11	13	0	0	188	63	176	3.82	1.27	173
+"Jeff Samardzija SP  SF"	212.3	32	18	2	10	12	0	0	177	49	203	3.90	1.19	176
 "Sonny Gray SP  OAK "	181.3	29	19	2	11	9	0	0	149	58	162	3.52	1.21	177
+"Adam Wainwright SP  STL "	151.3	23	15	2	12	6	0	0	120	38	143	3.33	1.20	178
+"Garrett Richards SP  LAA "	137.0	21	16	1	10	6	0	0	125	47	112	3.09	1.16	180
+"Carlos Martinez SP  STL "	154.7	22	13	0	11	7	0	2	147	56	142	3.20	1.28	181
 "Jake Odorizzi SP  TB "	175.0	31	16	0	10	9	0	0	163	53	158	3.70	1.21	183
+"Hector Rondon RP  CHC "	61.3	0	0	0	4	4	26	4	63	13	50	2.50	1.03	184
+"Scott Kazmir SP  LAD "	170.0	30	15	1	11	9	0	0	151	54	155	3.65	1.23	188
 "Chris Devenski RP  HOU"	108.3	5	2	0	4	4	1	0	104	20	79	2.16	0.91	196
+"Santiago Casilla RP  OAK "	58.0	0	0	0	3	3	29	6	57	19	45	2.64	1.10	203
+"Danny Salazar SP  CLE "	144.0	25	12	0	10	8	0	0	159	50	131	3.81	1.26	208
+"Danny Duffy SP  KC "	155.3	25	12	0	9	8	0	0	134	49	138	3.36	1.20	209
+"A.J. Ramos RP  MIA "	66.0	0	0	0	3	3	24	4	78	35	44	2.45	1.20	210
 "Matt Shoemaker SP  LAA "	143.7	24	13	0	11	9	0	0	128	30	141	3.82	1.19	213
+"Trevor Rosenthal RP  STL "	59.7	0	0	0	2	5	36	4	75	32	56	3.02	1.47	217
 "Yordano Ventura SP  KC"	177.3	30	17	1	13	10	0	0	153	68	171	3.91	1.35	222
+"Francisco Liriano SP  TOR"	170.7	30	16	0	9	10	0	0	183	79	147	3.80	1.32	223
+"Jonathan Papelbon RP  WAS"	55.0	0	0	0	3	3	27	3	50	14	45	2.62	1.07	224
 "R.A. Dickey SP  ATL"	200.0	32	19	1	12	13	0	0	142	66	185	4.00	1.25	228
+"Gio Gonzalez SP  WAS "	170.7	30	16	0	11	10	0	0	167	61	165	4.01	1.32	231
 "Luke Gregerson RP  HOU"	63.7	0	0	0	5	4	16	6	62	14	48	2.83	0.97	232
+"Chris Tillman SP  BAL "	184.0	32	17	0	13	8	0	0	137	65	173	4.01	1.29	235
+"Wei-Yin Chen SP  MIA"	166.7	28	15	0	11	6	0	0	130	33	173	3.83	1.24	236
+"Tyson Ross SP  TEX "	132.3	22	14	1	8	9	0	0	137	52	115	3.13	1.26	237
 "Koji Uehara RP  CHC "	50.7	0	0	0	3	4	19	3	63	9	38	2.66	0.93	247
+"Huston Street RP  LAA "	48.0	0	0	0	3	2	30	4	43	15	42	3.00	1.19	248
 "Lance Lynn SP  STL "	126.3	21	14	1	9	7	0	0	116	47	119	2.85	1.31	250
+"Fernando Rodney RP  ARI "	64.7	0	0	0	3	5	30	4	69	31	58	3.62	1.38	259
+"Mike Leake SP  STL"	194.3	31	18	1	10	12	0	0	136	43	198	3.98	1.24	261
 "Steve Cishek RP  SEA "	61.7	0	0	0	3	6	23	5	69	23	52	3.21	1.22	265
+"Drew Pomeranz SP  BOS "	108.7	16	7	0	7	7	1	1	111	41	86	3.23	1.17	266
+"Alex Wood SP  LAD "	140.7	22	14	0	8	9	0	0	125	41	135	3.39	1.25	267
+"Ervin Santana SP  MIN"	161.7	26	16	1	9	9	0	0	137	51	155	3.73	1.27	268
+"Aaron Sanchez SP  TOR "	105.7	14	9	0	8	3	1	0	83	39	83	2.90	1.15	270
 "James Shields SP  CHW"	203.7	33	20	1	11	11	0	0	177	69	207	4.24	1.36	271
 "Tony Watson RP  PIT "	73.3	0	0	0	5	3	6	5	67	17	57	2.21	1.01	273
 "Mike Fiers SP  HOU "	140.3	23	12	0	8	8	0	0	130	41	132	3.72	1.23	277
 "Michael Pineda SP  NYY "	137.7	24	11	0	8	9	0	0	141	27	139	4.12	1.21	278
 "Edinson Volquez SP  MIA "	194.0	33	17	1	12	9	0	0	145	73	191	3.99	1.36	279
 "Joe Blanton RP  LAD"	78.0	2	0	0	7	2	1	0	80	21	62	2.65	1.06	280
+"Jerad Eickhoff SP  PHI "	124.0	20	14	0	7	8	0	0	108	28	114	3.48	1.15	286
+"Ken Giles RP  HOU"	60.3	0	0	0	4	3	10	3	84	20	48	2.54	1.13	290
+"Michael Wacha SP  STL"	142.0	24	15	0	10	7	0	0	120	45	139	3.87	1.30	296
+"Ryan Madson RP  OAK"	64.0	0	0	0	4	4	16	4	54	17	55	2.81	1.12	298
 "Matt Bush RP  TEX"	61.7	0	0	0	7	2	1	3	61	14	44	2.48	0.94	301
 "Brad Brach RP  BAL "	73.7	0	0	0	7	3	1	2	78	29	54	2.57	1.13	302
+"Sean Manaea SP  OAK"	144.7	24	12	0	7	9	0	0	124	37	135	3.86	1.19	305
 "Greg Holland RP  KC"	35.7	0	0	0	1	2	26	2	46	15	25	2.52	1.12	310
 "Darren O'Day RP  BAL"	55.0	0	0	0	5	2	4	4	64	15	38	1.96	0.96	313
+"Brad Ziegler RP  MIA "	67.7	0	0	0	3	4	18	5	49	22	58	2.53	1.18	314
 "Tyler Clippard RP  NYY"	68.0	0	0	0	5	5	8	5	73	27	50	2.91	1.13	317
 "Doug Fister SP  HOU"	149.0	24	14	0	11	9	0	0	92	37	156	3.75	1.30	319
+"Edwin Diaz RP  SEA "	51.7	0	0	0	0	4	18	3	88	15	45	2.79	1.16	320
+"Drew Smyly SP  SEA "	131.7	22	11	0	7	8	0	0	126	37	123	3.96	1.22	321
+"Carlos Rodon SP  CHW "	152.0	26	16	0	9	8	0	0	154	62	153	3.91	1.41	324
 "Hector Santiago SP  MIN "	163.3	30	11	0	9	9	0	0	138	68	148	4.02	1.32	325
 "Jered Weaver SP  LAA"	183.3	30	16	1	12	11	0	0	121	50	188	4.37	1.30	326
+"Trevor Bauer SP  CLE "	173.0	28	16	1	9	9	0	0	160	70	161	4.32	1.34	328
 "Joe Smith RP  CHC"	64.0	0	0	0	5	4	9	4	55	17	52	2.81	1.08	330
+"Yu Darvish SP  TEX "	81.7	13	8	1	6	4	0	0	105	27	71	3.20	1.20	332
+"Sam Dyson RP  TEX "	62.7	0	0	0	4	2	13	3	53	20	56	2.44	1.21	336
+"Brad Boxberger RP  TB "	50.7	0	0	0	4	5	14	4	67	24	37	3.38	1.20	338
 "Josh Tomlin SP  CLE"	114.7	18	9	1	9	7	0	0	90	14	118	4.24	1.15	339
+"Jaime Garcia SP  ATL "	115.0	19	9	0	8	7	0	0	95	31	108	3.76	1.21	341
 "Tom Koehler SP  MIA "	185.0	32	18	0	10	12	0	0	146	77	178	4.09	1.38	344
 "Joaquin Benoit RP  PHI "	56.0	0	0	0	4	3	5	3	60	20	34	2.25	0.96	345
 "Kevin Gausman SP  BAL "	135.0	22	12	0	7	9	0	0	122	38	134	3.80	1.27	348
 "Addison Reed RP  NYM "	64.3	0	0	0	3	4	12	5	70	16	58	3.08	1.15	349
+"Lance McCullers SP  HOU "	103.3	18	9	0	6	6	0	0	118	44	93	3.22	1.33	351
 "Marcus Stroman SP  TOR "	120.7	19	12	0	8	5	0	0	98	29	118	3.88	1.22	353
 "Jake McGee RP  COL "	51.3	0	0	0	3	2	13	4	59	13	44	2.81	1.11	355
 "Phil Hughes SP  MIN "	141.3	23	12	1	9	9	0	0	105	15	160	4.20	1.24	358
 "Kelvin Herrera RP  KC "	70.7	0	0	0	3	4	4	4	70	21	54	2.29	1.06	360
+"Drew Storen RP  CIN "	54.3	0	0	0	3	2	14	3	54	13	48	3.15	1.12	364
+"Matt Harvey SP  NYM "	94.0	15	9	0	6	6	0	0	88	21	89	3.45	1.17	367
+"Alex Colome RP  TB "	63.3	5	2	0	4	3	12	3	57	19	58	3.13	1.22	369
 "Joakim Soria RP  KC"	59.7	0	0	0	3	4	14	5	60	17	54	3.32	1.19	372
 "Tony Barnette RP  TEX"	60.3	0	0	0	7	3	0	1	49	16	54	2.09	1.16	374
+"Glen Perkins RP  MIN "	40.3	0	0	0	2	3	22	4	41	7	42	3.57	1.21	375
 "Colby Lewis SP  TEX"	163.7	27	14	2	11	9	0	0	116	39	175	4.62	1.31	377
 "Chris Young RP  KC "	125.7	20	8	0	9	8	0	0	95	49	113	4.08	1.29	379
 "Shawn Tolleson RP  TEX"	60.0	0	0	0	4	2	15	2	58	18	58	3.90	1.27	382
+"Rich Hill SP  LAD "	48.3	8	6	0	5	2	0	0	58	15	33	2.05	0.99	383
+"Taijuan Walker SP  ARI "	114.0	20	9	1	7	7	0	0	103	32	108	4.18	1.23	391
 "Jason Grilli RP  TOR"	49.0	0	0	0	4	5	13	4	61	21	41	3.86	1.27	392
 "Miguel Gonzalez SP  CHW "	146.3	25	13	0	8	10	0	0	105	46	146	3.94	1.31	396
 "Adam Warren RP  NYY "	91.7	6	2	0	6	6	1	2	77	31	79	3.53	1.20	397
@@ -60,6 +142,7 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Jeremy Hellickson SP  PHI"	133.0	24	11	0	7	9	0	0	110	36	132	4.20	1.26	401
 "Nathan Eovaldi SP  NYY "	159.7	27	13	0	10	8	0	0	120	44	174	4.40	1.37	402
 "Jake Peavy SP  SF"	144.0	24	13	0	7	9	0	0	113	41	143	4.19	1.28	403
+"Joe Ross SP  WAS "	90.7	16	8	0	6	5	0	0	81	25	86	3.57	1.22	405
 "Yovani Gallardo SP  SEA "	165.0	29	13	0	9	10	0	0	117	61	171	3.93	1.41	406
 "Josh Collmenter RP  ATL"	114.0	14	6	1	6	5	1	0	70	26	109	3.63	1.18	407
 "Jorge De La Rosa SP  COL"	155.7	27	14	0	10	9	0	0	127	65	152	4.51	1.39	410
@@ -67,34 +150,47 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Sergio Romo RP  SF"	48.7	0	0	0	2	3	10	2	54	10	40	3.14	1.03	412
 "Pedro Strop RP  CHC"	58.7	0	0	0	2	4	2	3	71	23	35	2.61	0.99	413
 "Zach Davies SP  MIL"	98.7	17	10	0	7	4	0	0	80	26	96	3.92	1.24	417
+"Will Harris RP  HOU"	54.7	0	0	0	2	3	5	3	57	15	40	2.47	1.01	418
 "Shawn Kelley RP  WAS "	53.7	0	0	0	3	3	4	2	70	15	42	3.19	1.06	419
 "Chase Anderson SP  MIL"	139.7	26	10	0	8	8	0	0	112	44	143	4.25	1.34	422
 "Mychal Givens RP  BAL"	52.3	0	0	0	5	1	0	0	67	21	40	2.75	1.17	424
+"Anthony DeSclafani SP  CIN "	113.7	19	11	0	7	7	0	0	94	30	118	3.96	1.30	426
 "Kevin Siegrist RP  STL "	55.7	0	0	0	5	3	3	4	64	25	42	3.23	1.20	427
 "Kyle Gibson SP  MIN "	173.7	29	13	1	10	11	0	0	119	59	180	4.41	1.38	428
 "Jesse Chavez RP  LAA"	123.3	16	8	0	6	8	0	1	112	38	126	3.94	1.33	430
 "Wade Miley SP  BAL"	187.0	32	16	1	9	12	0	0	156	63	198	4.67	1.40	436
 "Anibal Sanchez SP  DET "	145.3	24	9	0	8	9	0	0	125	44	144	4.83	1.29	438
 "Shelby Miller SP  ARI"	163.0	28	13	1	6	13	0	0	123	63	157	3.92	1.35	440
+"Seth Lugo SP  NYM"	64.0	8	4	0	5	2	0	0	45	21	49	2.67	1.09	442
 "Jonathon Niese SP  NYM"	161.7	26	15	0	9	9	0	0	113	49	177	4.17	1.40	443
+"Steven Wright SP  BOS "	83.3	11	6	1	6	4	0	0	67	29	75	3.46	1.25	444
 "Carlos Torres RP  MIL "	79.0	0	0	0	5	5	1	2	74	29	72	3.30	1.28	446
+"Alex Reyes SP  STL"	46.0	5	3	0	4	1	1	0	52	23	33	1.56	1.22	447
+""David Phelps RP  MIA ""	104.0	14	6	0	5	6	2	2	94	39	98	3.81	1.32	448
 "Wily Peralta SP  MIL "	145.0	25	14	0	10	11	0	0	102	47	160	4.22	1.43	449
+"Jeremy Jeffress RP  TEX "	52.7	0	0	0	3	1	9	2	46	17	51	2.56	1.29	450
+"Aaron Nola SP  PHI "	94.3	16	8	0	6	6	0	0	94	24	95	4.29	1.26	455
 "Clay Buchholz SP  PHI "	141.0	22	11	1	8	9	0	0	111	44	142	4.60	1.32	456
 "Hansel Robles RP  NYM"	66.0	0	0	0	5	4	0	3	73	27	53	3.55	1.21	458
 "Kyle Barraclough RP  MIA"	48.7	0	0	0	4	2	0	2	72	31	28	2.77	1.21	459
 "Dan Otero RP  CLE "	68.0	0	0	0	5	2	1	2	43	10	66	3.04	1.12	462
 "John Axford RP  OAK"	58.7	0	0	0	4	4	13	5	62	33	55	3.99	1.50	465
+"Tyler Thornburg RP  BOS "	43.7	0	0	0	4	3	4	3	51	19	31	3.09	1.15	466
 "Ryan Dull RP  OAK"	45.7	0	0	0	3	4	2	2	44	10	31	2.76	0.90	467
 "Erasmo Ramirez RP  TB "	109.7	14	5	0	6	8	1	1	83	33	106	4.10	1.27	468
+"Matt Andriese SP  TB"	96.7	14	4	0	6	6	2	0	79	22	100	4.28	1.26	470
 "Eduardo Rodriguez SP  BOS "	114.3	20	10	0	6	6	0	0	99	38	110	4.25	1.29	471
 "Fernando Salas RP  NYM"	65.3	0	0	0	4	3	2	3	66	15	58	3.86	1.12	472
+"Adam Conley SP  MIA"	100.0	18	7	0	6	4	0	0	92	42	95	3.78	1.37	473
 "Bryan Shaw RP  CLE "	69.0	0	0	0	3	4	2	5	62	23	59	2.87	1.19	474
 "Brett Cecil RP  STL "	48.0	0	0	0	3	5	3	3	64	16	41	3.00	1.19	476
 "Zach Duke RP  STL "	60.0	0	0	0	3	3	1	3	69	26	48	2.70	1.23	478
 "Scott Feldman RP  TOR"	122.0	17	11	1	7	7	0	0	75	32	129	3.84	1.32	481
 "Travis Wood RP  CHC "	111.7	13	5	0	6	6	1	0	104	46	107	4.27	1.37	486
 "Yusmeiro Petit RP  WAS"	85.0	5	2	0	3	4	1	0	80	17	80	3.92	1.14	487
+"Junior Guerra SP  MIL"	62.7	10	6	0	4	2	0	0	52	22	50	2.87	1.15	488
 "Ubaldo Jimenez SP  BAL"	150.7	26	10	0	9	10	0	0	136	72	148	4.72	1.46	489
+"James Paxton SP  SEA "	87.3	15	8	0	5	5	0	0	77	27	87	3.61	1.31	492
 "C.J. Wilson SP  LAA "	102.7	17	9	0	7	6	0	0	87	44	96	4.21	1.36	493
 "Keone Kela RP  TEX"	47.3	0	0	0	6	3	0	2	56	18	41	3.80	1.25	496
 "George Kontos RP  SF "	53.0	0	0	0	4	2	0	1	35	14	41	2.55	1.04	497
@@ -106,6 +202,8 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Kevin Quackenbush RP  SD"	57.3	0	0	0	4	4	3	1	52	20	50	3.45	1.22	508
 "Bud Norris SP  LAD"	120.3	19	6	0	8	10	0	1	104	44	122	4.79	1.38	509
 "Andrew Cashner SP  TEX"	146.7	26	14	1	5	11	0	0	123	52	151	4.11	1.38	510
+"Vince Velasquez SP  PHI "	93.3	16	6	0	4	4	0	0	105	33	90	4.24	1.32	511
+"Julio Urias SP  LAD"	77.0	15	3	0	5	2	0	0	84	31	81	3.39	1.45	512
 "Ross Stripling SP  LAD"	100.0	14	4	0	5	9	0	0	74	30	96	3.96	1.26	513
 "Tony Sipp RP  HOU"	49.7	0	0	0	3	3	2	2	55	17	40	3.26	1.15	514
 "Antonio Bastardo RP  PIT"	63.0	0	0	0	4	3	0	2	73	31	47	3.86	1.24	516
@@ -117,8 +215,10 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Jonathan Broxton RP  STL"	60.0	0	0	0	4	3	2	5	56	22	51	3.75	1.22	526
 "Brandon McCarthy SP  LAD"	87.7	15	6	0	5	6	0	0	83	21	92	4.31	1.29	528
 "Rubby De La Rosa SP  ARI "	113.7	20	9	0	7	7	0	0	93	39	117	4.51	1.37	530
+"Steven Matz SP  NYM "	56.0	9	6	0	4	3	0	0	54	14	54	3.21	1.21	531
 "Jimmy Nelson SP  MIL"	142.0	25	11	0	7	13	0	0	115	57	144	4.44	1.42	532
 "Jake Diekman RP  TEX "	60.7	0	0	0	4	3	1	3	76	31	52	3.71	1.37	533
+"Brandon Finnegan SP  CIN"	75.7	12	5	0	5	5	0	0	67	35	64	3.81	1.31	535
 "Jon Gray SP  COL "	104.3	19	8	0	5	6	0	0	112	36	102	4.83	1.32	536
 "Raisel Iglesias RP  CIN "	58.0	7	3	0	2	3	2	1	62	18	48	3.41	1.14	537
 "Ariel Miranda SP  SEA"	58.0	10	4	0	5	2	0	0	44	18	47	3.88	1.12	538
@@ -126,22 +226,27 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Nathan Karns SP  KC "	84.3	14	5	0	5	3	0	0	86	35	78	4.27	1.34	541
 "Randall Delgado RP  ARI "	75.0	2	0	0	6	3	0	2	76	35	70	4.20	1.40	543
 "Pedro Baez RP  LAD "	49.7	0	0	0	2	1	0	2	54	13	38	3.08	1.03	545
+"Blake Snell SP  TB"	89.0	19	5	0	6	8	0	0	98	51	93	3.54	1.62	546
 "Justin Wilson RP  DET "	60.0	0	0	0	4	3	0	3	64	22	53	3.75	1.25	547
 "Hiroki Kuroda SP  NYY"	66.3	11	7	0	4	3	0	0	49	12	64	3.66	1.15	551
 "Zach Putnam RP  CHW "	43.7	0	0	0	3	2	2	1	47	18	35	2.88	1.21	554
 "Nick Wittgren RP  MIA"	51.7	0	0	0	4	3	0	2	42	10	50	3.13	1.16	555
+"Alex Cobb SP  TB "	62.7	11	6	0	4	4	0	0	55	18	58	3.59	1.21	556
 "Jason Vargas SP  KC"	80.7	14	7	0	5	4	0	0	55	19	84	3.68	1.28	557
 "Robert Gsellman SP  NYM "	44.7	7	3	0	4	2	0	0	42	15	42	2.42	1.28	558
 "Jared Hughes RP  PIT "	63.7	0	0	0	4	2	0	2	35	20	61	2.40	1.27	559
 "Charlie Morton SP  HOU "	101.3	18	9	0	5	7	0	0	80	35	98	4.17	1.31	560
 "Dan Straily SP  MIA "	86.7	14	8	0	5	4	0	0	74	35	74	4.46	1.26	562
+"Jeanmar Gomez RP  PHI "	68.3	0	0	0	2	3	13	3	45	21	77	3.69	1.43	565
 "Neftali Feliz RP  MIL "	44.3	0	0	0	3	2	8	3	40	17	39	4.26	1.26	569
+"Zack Wheeler SP  NYM "	61.7	11	7	0	4	4	0	0	62	26	56	3.50	1.33	571
 "Tommy Hunter RP  BAL"	51.7	0	0	0	3	2	4	3	38	11	50	3.48	1.18	572
 "Rafael Soriano RP  TOR"	22.7	0	0	0	2	0	11	3	21	7	20	3.57	1.19	575
 "Alfredo Simon SP  CIN"	147.3	25	12	1	10	10	0	0	94	52	157	4.89	1.42	576
 "Aaron Harang SP  PHI"	125.7	21	13	0	6	9	0	0	90	41	135	4.15	1.40	578
 "Roenis Elias RP  BOS"	95.7	17	6	0	5	7	0	0	81	38	91	4.23	1.35	579
 "Jeff Locke SP  MIA "	142.3	23	11	0	8	8	0	0	97	48	152	4.62	1.41	580
+"Brandon Maurer RP  SD "	63.3	2	0	0	3	4	4	3	55	19	59	4.12	1.23	582
 "Jesse Hahn SP  OAK"	72.0	12	7	0	5	5	0	0	52	25	67	3.88	1.28	583
 "Mat Latos SP  WAS"	96.3	16	8	0	5	6	0	0	72	29	95	4.30	1.29	584
 "Hunter Strickland RP  SF"	39.7	0	0	0	2	2	1	2	39	10	30	2.72	1.01	586
@@ -152,17 +257,21 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Carlos Estevez RP  COL"	55.0	0	0	0	3	7	11	7	59	28	50	5.24	1.42	594
 "Matt Wisler SP  ATL"	132.7	22	12	0	8	10	0	0	94	44	139	4.88	1.38	595
 "Henderson Alvarez SP  OAK "	69.7	11	6	1	4	4	0	0	40	13	75	3.10	1.26	596
+"Joe Musgrove SP  HOU"	62.0	10	5	0	4	4	0	0	55	16	59	4.06	1.21	599
 "Junichi Tazawa RP  MIA "	57.0	0	0	0	3	4	1	5	58	15	57	3.63	1.26	601
 "Robbie Ray SP  ARI "	110.3	20	7	0	5	10	0	0	119	44	116	4.65	1.45	602
 "Carson Smith RP  BOS "	27.0	0	0	0	1	2	4	2	35	9	18	2.00	1.00	603
+"Ivan Nova SP  PIT "	92.3	16	6	1	7	7	0	0	67	22	102	4.78	1.34	607
 "Seth Maness RP  STL "	58.3	0	0	0	4	3	2	1	39	11	63	3.55	1.27	608
 "Blake Treinen RP  WAS "	61.7	2	0	0	3	3	0	2	53	25	57	2.92	1.33	610
+"Matt Moore SP  SF"	90.3	16	7	0	5	6	0	0	77	33	89	4.38	1.35	611
 "Luis Cessa SP  NYY"	70.3	9	5	0	4	4	0	0	46	14	64	4.35	1.11	613
 "Jenrry Mejia RP  NYM"	33.7	2	1	0	2	2	9	1	35	14	34	3.48	1.43	614
 "Juan Nicasio RP  PIT "	90.0	9	3	0	6	5	0	1	89	36	94	4.70	1.44	616
 "J.P. Howell RP  LAD"	48.0	0	0	0	3	2	0	1	44	18	45	2.62	1.31	618
 "Joe Kelly RP  BOS "	90.3	16	6	0	7	3	0	0	75	38	92	4.68	1.44	619
 "Tom Wilhelmsen RP  SEA "	62.7	1	0	0	2	3	5	2	53	28	54	3.73	1.31	620
+"Adam Ottavino RP  COL"	34.0	0	0	0	1	2	4	3	39	8	29	2.91	1.09	621
 "Tim Adleman SP  CIN"	69.7	13	5	0	4	4	0	0	47	20	64	4.00	1.21	622
 "Matt Bowman RP  STL"	67.7	0	0	0	2	5	0	1	52	20	59	3.46	1.17	624
 "Nick Vincent RP  SEA "	46.0	0	0	0	2	2	1	3	50	12	41	3.52	1.15	625
@@ -174,6 +283,7 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Jake Barrett RP  ARI"	59.3	0	0	0	1	2	4	5	56	28	47	3.49	1.26	632
 "Chad Qualls RP  COL"	44.3	0	0	0	2	3	8	3	37	8	48	4.26	1.26	633
 "Joe Nathan RP  SF "	21.7	0	0	0	2	1	12	3	21	11	22	4.15	1.52	635
+"Jim Johnson RP  ATL"	61.7	0	0	0	3	5	11	4	53	25	68	4.67	1.51	637
 "Josh Fields RP  LAD "	46.7	0	0	0	3	2	1	2	60	16	44	4.24	1.29	639
 "Taylor Rogers RP  MIN"	61.3	0	0	0	3	1	0	0	64	16	63	3.96	1.29	640
 "Kendall Graveman SP  OAK"	102.0	17	9	1	5	7	0	0	63	28	109	4.06	1.34	641
@@ -184,6 +294,7 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Michael Feliz RP  HOU"	36.7	0	0	0	4	0	0	2	51	13	32	4.91	1.23	652
 "Mike Montgomery RP  CHC"	63.3	8	4	1	3	4	0	0	52	25	57	3.55	1.29	654
 "Jean Machi RP  CHC"	41.3	0	0	0	3	0	2	1	31	13	35	3.70	1.16	660
+"Jameson Taillon SP  PIT "	52.0	9	6	0	2	2	0	0	42	8	50	3.46	1.12	661
 "Derek Law RP  SF"	27.3	0	0	0	2	1	0	0	25	4	22	1.98	0.95	662
 "Matt Strahm RP  KC"	22.0	0	0	0	2	2	0	0	30	11	13	1.23	1.09	664
 "Liam Hendriks RP  OAK "	54.0	2	1	0	2	2	0	1	55	11	55	3.67	1.22	666
@@ -195,6 +306,7 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Miguel Socolovich RP  STL"	24.0	0	0	0	2	0	0	0	22	8	15	1.88	0.96	686
 "Luis Severino SP  NYY"	66.7	11	5	0	4	6	0	0	61	24	66	4.46	1.35	687
 "Vidal Nuno RP  LAD "	103.0	13	4	0	1	6	0	1	87	26	105	4.11	1.27	688
+"Homer Bailey SP  CIN "	60.0	10	5	0	4	3	0	0	51	19	62	4.20	1.35	691
 "Brian Ellington RP  MIA"	29.0	0	0	0	3	2	0	0	25	14	22	2.48	1.24	692
 "Chad Bettis SP  COL "	108.7	17	9	0	7	5	0	0	83	37	122	4.89	1.46	694
 "Chasen Shreve RP  NYY"	34.7	0	0	0	3	1	0	0	37	16	29	3.38	1.30	695
@@ -228,8 +340,10 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Andrew Chafin RP  ARI"	37.3	1	0	0	2	1	1	0	32	16	30	3.62	1.23	739
 "Zach Neal RP  OAK "	70.0	6	2	0	2	4	2	1	27	6	72	4.24	1.11	740
 "Tyler Skaggs SP  LAA"	54.3	9	4	0	3	3	0	0	45	18	53	4.31	1.31	743
+"Brandon Kintzler RP  MIN"	40.0	0	0	0	1	2	6	2	24	10	44	3.38	1.35	745
 "Daniel Norris SP  DET"	45.3	9	2	0	2	1	0	0	40	15	44	3.57	1.30	750
 "Joel Peralta RP  CHC"	40.0	0	0	0	2	2	1	3	44	10	39	4.72	1.23	752
+"Dylan Bundy RP  BAL "	36.7	5	1	0	3	2	0	0	35	14	36	3.93	1.36	753
 "Albert Suarez SP  SF"	84.0	12	2	0	3	5	0	0	54	26	84	4.29	1.31	754
 "Evan Scribner RP  SEA "	28.7	0	0	0	1	1	0	1	30	2	25	3.77	0.94	756
 "Al Alburquerque RP  KC "	40.3	0	0	0	2	1	0	0	41	19	37	3.35	1.39	758
@@ -239,6 +353,7 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Jumbo Diaz RP  CIN"	46.0	0	0	0	1	1	0	2	48	17	41	3.72	1.26	763
 "Matt Koch RP  ARI"	18.0	2	1	0	1	1	1	0	10	4	9	2.00	0.72	765
 "Mauricio Cabrera RP  ATL"	19.3	0	0	0	2	0	3	0	16	10	16	2.79	1.34	766
+"Patrick Corbin SP  ARI "	80.3	13	6	0	4	6	0	0	70	28	89	4.59	1.46	767
 "Luis Avilan RP  LAD "	38.7	0	0	0	3	2	0	2	34	15	36	4.19	1.32	769
 "Trevor May RP  MIN "	67.7	8	3	0	4	6	0	1	71	22	75	5.19	1.43	770
 "Tommy Layne RP  NYY "	37.0	0	0	0	2	1	1	1	32	19	31	3.41	1.35	771
@@ -253,6 +368,7 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Tim Lincecum SP  LAA"	90.0	17	6	0	7	6	0	0	75	41	99	5.20	1.56	785
 "Roberto Hernandez SP  ATL"	86.0	14	5	0	4	6	0	0	51	33	86	4.29	1.38	787
 "Bruce Rondon RP  DET "	22.3	0	0	0	2	1	2	2	27	10	18	4.43	1.25	788
+"Daniel Hudson RP  PIT "	43.7	0	0	0	2	2	3	1	44	16	44	4.74	1.37	790
 "Aaron Barrett RP  WAS"	23.3	0	0	0	2	1	0	1	28	9	20	3.47	1.24	791
 "Josh Smoker RP  NYM"	15.3	0	0	0	3	0	0	0	25	4	16	4.70	1.30	792
 "Zack Godley RP  ARI"	55.7	8	3	0	5	2	0	0	47	21	58	5.33	1.42	794
@@ -260,6 +376,7 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Jason Motte RP  COL"	32.3	0	0	0	3	1	2	0	25	9	35	4.45	1.36	796
 "Ryan Buchter RP  SD"	21.3	0	0	0	1	0	0	0	26	11	11	2.95	1.03	798
 "Neil Ramirez RP  MIN "	27.3	0	0	0	1	1	1	1	31	14	21	2.96	1.28	799
+"Andrew Heaney SP  LAA "	47.0	8	4	0	2	3	0	0	35	12	46	4.02	1.23	800
 "Gavin Floyd RP  TOR "	33.0	3	2	0	1	2	0	0	27	8	30	3.00	1.15	801
 "Matt Belisle RP  WAS"	48.0	0	0	0	2	3	0	1	33	14	50	3.38	1.33	804
 "David Carpenter RP  TB"	28.7	0	0	0	2	2	1	2	27	8	29	3.77	1.29	806
@@ -281,6 +398,7 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Edward Mujica RP  DET "	35.7	0	0	0	2	3	3	2	24	7	40	4.29	1.32	828
 "Brian Duensing RP  CHC "	38.7	0	0	0	3	1	0	2	22	15	37	3.72	1.34	829
 "Josh Osich RP  SF "	32.7	0	0	0	2	2	0	2	26	14	28	3.58	1.29	834
+"Nick Tropeano SP  LAA "	42.7	8	2	0	2	2	0	0	40	17	43	3.80	1.41	839
 "Matt Thornton RP  SD"	31.3	0	0	0	1	1	0	2	20	8	29	2.58	1.18	840
 "Trevor Gott RP  WAS"	26.7	0	0	0	2	1	0	2	16	10	24	2.70	1.27	841
 "Neal Cotts RP  HOU "	43.3	0	0	0	1	3	1	2	40	15	41	3.95	1.29	842
@@ -297,6 +415,7 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Yoervis Medina RP  PHI"	26.0	0	0	0	2	1	0	1	25	13	24	3.12	1.42	859
 "Mike Bolsinger SP  TOR "	63.0	12	3	0	3	5	0	0	57	24	68	4.57	1.46	860
 "Luke Hochevar RP  KC"	29.3	0	0	0	1	1	0	2	30	8	27	3.68	1.19	861
+"Tony Cingrani RP  CIN "	53.3	4	1	0	1	5	6	3	50	32	49	4.56	1.52	863
 "Tyler Matzek SP  COL"	46.7	8	4	0	3	4	0	0	35	21	47	4.05	1.46	864
 "Arquimedes Caminero RP  SEA "	47.3	0	0	0	2	2	0	1	44	22	46	3.99	1.44	866
 "Chris Smith RP  OAK"	24.7	0	0	0	0	0	0	0	29	13	14	2.92	1.09	867
@@ -314,6 +433,7 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Joba Chamberlain RP  CLE "	37.0	0	0	0	1	2	1	2	33	15	36	3.65	1.38	888
 "Buddy Carlyle RP  NYM"	13.0	0	0	0	1	0	0	0	11	2	10	2.08	0.92	890
 "Robbie Ross RP  BOS "	64.7	4	1	0	2	3	2	1	53	24	69	4.59	1.44	891
+"Archie Bradley SP  ARI"	88.7	17	7	0	5	6	0	0	83	44	95	5.18	1.57	892
 "Chaz Roe RP  ATL"	24.3	0	0	0	2	1	0	1	26	11	23	4.07	1.40	896
 "Sammy Solis RP  WAS"	20.7	0	0	0	1	2	0	0	21	8	19	2.61	1.31	897
 "James Hoyt RP  HOU"	22.0	0	0	0	1	1	0	1	28	9	16	4.50	1.14	900
@@ -344,6 +464,7 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Brandon Gomes RP  CHC"	31.0	0	0	0	1	3	0	1	23	9	28	4.06	1.19	942
 "Bronson Arroyo SP  WAS"	28.7	5	2	0	2	1	0	0	16	6	31	4.08	1.29	943
 "Matt Boyd SP  DET"	77.3	15	5	0	4	6	0	0	62	24	84	5.59	1.40	944
+"Andrew Bailey RP  LAA "	26.0	0	0	0	2	1	3	0	24	11	26	5.88	1.42	948
 "Logan Verrett RP  BAL "	69.7	8	2	0	2	5	0	0	52	29	67	4.65	1.38	950
 "Chris Narveson RP  MIA"	19.3	1	0	0	2	0	0	0	19	6	17	5.59	1.19	952
 "Jordan Lyles RP  COL "	78.0	12	5	0	4	5	0	1	51	31	83	4.85	1.46	953
@@ -352,6 +473,7 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "A.J. Griffin SP  TEX "	39.7	8	2	0	2	1	0	0	36	15	39	4.99	1.36	957
 "Adam Morgan SP  PHI"	98.7	18	8	0	4	9	0	0	72	23	114	5.38	1.39	958
 "Matt Barnes RP  BOS"	39.7	1	0	0	2	2	0	0	39	16	43	4.54	1.49	959
+"Cam Bedrosian RP  LAA "	31.0	0	0	0	1	0	0	1	35	15	31	3.77	1.48	960
 "Dan Altavilla RP  SEA"	12.3	0	0	0	0	0	0	1	10	1	11	0.73	0.97	962
 "Kyle Kendrick SP  BOS "	113.7	20	6	0	6	9	0	0	67	34	129	5.30	1.43	964
 "Robbie Erlin SP  SD "	31.3	5	3	0	2	3	0	0	23	7	33	4.88	1.28	965
@@ -389,9 +511,11 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "David Hale RP  BAL"	56.0	6	1	0	3	3	0	0	35	20	63	4.66	1.48	1019
 "Chris Rusin RP  COL"	76.3	10	5	1	3	5	0	0	54	23	89	4.83	1.47	1020
 "Josh Ravin RP  LAD"	9.3	0	0	0	1	0	0	0	12	4	8	3.86	1.29	1023
+"Mike Minor SP  KC "	48.3	8	5	0	2	4	0	0	40	15	55	4.84	1.45	1025
 "Lisalverto Bonilla SP  PIT "	7.0	1	1	0	1	0	0	0	6	4	4	2.57	1.14	1026
 "Franklin Morales RP  TOR"	69.7	7	3	0	3	4	0	0	48	27	76	4.78	1.48	1027
 "Steve Delabar RP  CLE "	21.0	0	0	0	2	0	0	1	20	14	17	5.14	1.48	1028
+"Chris Bassitt SP  OAK "	48.0	8	4	0	1	4	0	0	36	19	49	4.12	1.42	1029
 "Buddy Boshers RP  MIN"	12.0	0	0	0	1	0	0	0	12	2	12	4.50	1.17	1030
 "Phil Coke RP  PIT "	27.0	0	0	0	2	1	0	0	19	11	31	4.00	1.56	1031
 "Dylan Axelrod RP  MIA"	10.3	1	0	0	1	1	0	0	11	4	8	4.36	1.16	1033
@@ -414,6 +538,7 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Edwin Jackson SP  SD"	93.3	13	5	0	5	8	0	0	75	42	101	5.59	1.53	1065
 "Cesar Jimenez RP  MIL"	13.0	0	0	0	0	0	0	0	11	5	10	2.77	1.15	1067
 "Brian Flynn RP  KC"	20.7	1	0	0	0	1	0	0	17	9	17	3.48	1.26	1068
+"Brad Peacock SP  HOU"	56.0	10	2	0	1	4	0	0	50	29	54	4.50	1.48	1069
 "Brett Oberholtzer RP  TOR "	84.0	11	5	0	3	6	0	0	58	25	100	4.82	1.49	1070
 "Marcos Mateo RP  SD "	13.3	0	0	0	0	0	0	0	16	4	11	4.05	1.12	1072
 "T.J. McFarland RP  BAL "	41.3	0	0	0	3	2	0	1	22	14	52	4.36	1.60	1073
@@ -453,10 +578,12 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Wesley Wright RP  ARI"	18.7	0	0	0	0	1	0	1	14	7	18	3.38	1.34	1134
 "Jose Dominguez RP  SD"	16.0	0	0	0	1	0	0	0	11	7	14	5.06	1.31	1135
 "David Aardsma RP  TOR"	15.3	0	0	0	0	0	0	2	18	7	12	4.70	1.24	1136
+"Jose De Leon SP  LAD"	17.0	4	1	0	2	0	0	0	15	7	19	6.35	1.53	1137
 "A.J. Achter RP  DET "	20.7	0	0	0	1	0	0	0	11	7	23	3.92	1.45	1138
 "Ryan O'Rourke RP  MIN"	23.3	0	0	0	0	0	0	0	24	12	17	5.01	1.24	1139
 "Jake Smith RP  SD"	4.0	0	0	0	1	0	0	0	3	1	5	4.50	1.50	1140
 "Zach Eflin SP  PHI "	63.3	11	6	2	3	5	0	0	31	17	67	5.54	1.33	1143
+"Kris Medlen SP  KC"	27.7	5	2	0	2	2	0	0	19	13	29	5.21	1.52	1144
 "Samuel Deduno RP  HOU"	40.7	4	1	0	1	2	0	0	33	18	40	4.87	1.43	1145
 "Brooks Brown RP  LAD"	19.7	0	0	0	0	1	0	1	14	7	17	4.12	1.22	1150
 "Chris Stratton RP  SF"	10.0	0	0	0	1	0	0	0	6	5	11	3.60	1.60	1152
@@ -502,6 +629,7 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Marco Gonzales SP  STL "	12.3	2	0	0	1	1	0	0	11	7	13	5.11	1.62	1215
 "Scott Carroll RP  CHW"	56.0	6	2	0	2	4	0	0	31	20	63	4.66	1.48	1216
 "Brandon Cumpton SP  PIT "	23.3	3	2	0	1	1	0	0	15	6	27	5.01	1.41	1217
+"Tyler Glasnow SP  PIT "	23.3	4	0	0	0	2	0	0	24	13	22	4.24	1.50	1219
 "Manny Parra RP  CHC"	23.0	0	0	0	0	2	0	1	19	8	24	4.30	1.39	1220
 "Brock Stewart SP  LAD"	28.0	5	0	0	2	2	0	0	25	12	33	5.79	1.61	1221
 "Wandy Rodriguez SP  HOU"	37.7	7	2	0	2	2	0	0	31	15	45	5.26	1.59	1222
@@ -565,6 +693,7 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Jarrett Grube RP  TOR "	0.3	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1300
 "Tom Gorzelanny RP  CLE"	21.0	0	0	0	1	1	0	0	21	12	24	5.14	1.71	1302
 "Curtis Partch RP  PIT"	2.7	0	0	0	0	0	0	0	2	3	1	3.38	1.50	1303
+"A.J. Cole SP  WAS"	24.0	4	0	0	0	1	0	0	24	8	26	5.25	1.42	1304
 "Bradin Hagens RP  ARI"	1.0	0	0	0	0	0	0	0	1	1	1	0.00	2.00	1305
 "Rob Rasmussen RP  LAA"	9.0	0	0	0	1	0	0	0	10	5	11	7.00	1.78	1306
 "Esmil Rogers RP  NYY"	26.3	0	0	0	1	0	0	0	25	10	30	5.81	1.52	1307
@@ -619,6 +748,7 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Mike Wright SP  BAL"	59.7	10	3	0	3	4	0	0	38	22	66	5.88	1.47	1379
 "David Paulino RP  HOU"	7.0	1	0	0	0	1	0	0	2	3	6	5.14	1.29	1380
 "Matt Reynolds RP  SF "	6.7	0	0	0	0	0	0	0	7	4	7	5.40	1.65	1381
+"Kyuji Fujikawa RP  TEX"	5.0	0	0	0	0	0	0	0	6	2	7	5.40	1.80	1382
 "Toru Murata RP  CLE"	1.7	0	0	0	0	0	0	0	1	0	2	10.80	1.20	1384
 "Perci Garner RP  CLE"	9.3	0	0	0	0	0	0	0	12	5	12	4.82	1.82	1386
 "Miles Mikolas SP  TEX"	19.0	3	1	0	1	2	0	0	13	6	21	6.63	1.42	1389
@@ -653,6 +783,7 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Michael Kirkman RP  MIL"	2.7	0	0	0	0	0	0	0	1	1	4	6.75	1.88	1438
 "Neil Wagner RP  TB"	3.3	0	0	0	0	0	0	0	2	1	4	8.10	1.50	1439
 "Joel De La Cruz RP  ATL"	31.3	4	0	0	0	4	0	0	18	11	32	4.88	1.37	1440
+"Manny Banuelos SP  ATL"	8.7	2	0	0	0	1	0	0	6	4	10	5.19	1.62	1445
 "Steve Johnson RP  SEA"	7.3	0	0	0	0	0	0	0	7	5	7	6.14	1.64	1448
 "Josh Lueke RP  TB"	10.0	0	0	0	0	1	0	0	6	2	13	5.40	1.50	1449
 "Sam Tuivailala RP  STL"	8.3	0	0	0	0	0	0	0	9	5	10	5.40	1.80	1450
@@ -664,6 +795,7 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Felix Doubront SP  OAK "	51.7	9	3	0	2	3	0	0	36	20	59	5.57	1.53	1458
 "Colt Hynes RP  TOR"	1.0	0	0	0	0	0	0	0	1	1	3	9.00	4.00	1460
 "Austin Adams RP  CLE"	19.7	0	0	0	1	0	0	0	15	7	24	6.41	1.58	1461
+"Robert Stephenson SP  CIN "	37.0	8	1	0	2	3	0	0	31	19	41	6.08	1.62	1462
 "William Cuevas RP  DET "	5.0	0	0	0	0	1	0	0	3	6	5	3.60	2.20	1463
 "Raul Valdes RP  TOR"	1.3	0	0	0	0	0	0	0	1	1	2	13.50	2.25	1464
 "John Lannan RP  KC"	1.3	0	0	0	0	0	0	0	1	1	2	13.50	2.25	1464
@@ -850,6 +982,7 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Jen-Ho Tseng P  CHC"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Blake Smith RP  CHW "	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Adam Parks RP  TEX"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
+"Mark Appel SP  PHI "	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Scott Barnes RP  CHC"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Neil Holland RP  WAS"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Adam Cimber P  SD"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
@@ -1192,8 +1325,8 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Matt Wright SP  OAK"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Frank Batista RP  CHC"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Robert Morey P  MIA"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
-"J.R. Bradley SP  ARI"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Nate Smith SP  LAA "	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
+"J.R. Bradley SP  ARI"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Tim McNabb RP  NYM"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Alexis Lara RP  SD"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Aaron Kurcz P  OAK"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
@@ -1207,9 +1340,10 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Matt Smoral RP  TOR "	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Chad James SP  MIA"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Fernando Cruz RP  CHC"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
+"Kyle Zimmer SP  KC "	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Marcos Diplan SP  MIL"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
-"Elisaul Pimentel SP  KC"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Justin Steele SP  CHC"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
+"Elisaul Pimentel SP  KC"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Sean Gleason RP  BAL"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Elvys Quezada RP  NYY"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Craig Molldrem RP  MIA"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
@@ -1252,8 +1386,8 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Wes Parsons SP  ATL"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Sean Lucas RP  CIN"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Hector Nelo RP  LAD"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
-"Brandon Alger P  SD"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Kendy Batista RP  TEX"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
+"Brandon Alger P  SD"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "David Thorne RP  BOS"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Gerald Plexico RP  WAS"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Cole McCurry RP  ATL"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
@@ -1305,8 +1439,8 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Ronald Pena P  WAS"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Caleb Dirks RP  LAD"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Jesus Sanchez RP  MIA"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
-"Simon Mercedes SP  SF"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Dylan Owen SP  NYM"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
+"Simon Mercedes SP  SF"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Patrick Urckfitz RP  MIA"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Luke Farrell SP  KC"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Jose A. Rodriguez RP  HOU"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
@@ -1350,8 +1484,8 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Brian Garman RP  MIL"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Cody Eppley RP  PIT"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Eduardo Morlan RP  TB"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
-"Braxton Garrett SP  MIA"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Andury Acevedo RP  CHC "	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
+"Braxton Garrett SP  MIA"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Jordan Guth P  PHI"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Yaisel Sierra SP  LAD"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Chase Johnson SP  SF "	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
@@ -1453,8 +1587,8 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Amalio Diaz RP  LAA"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "John Stilson SP  TOR"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Brenny Paulino SP  DET"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
-"Ben Hornbeck SP  OAK"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Blake Taylor SP  PIT"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
+"Ben Hornbeck SP  OAK"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Alex Young SP  ARI"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "James Kaprielian SP  NYY"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Wade Townsend SP  TB"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
@@ -1470,8 +1604,8 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Joe Gatto SP  LAA"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Tyler Mapes P  WAS"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Alan Williams SP  MIL"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
-"Bobby Wahl SP  OAK"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Geison Aguasviva RP  LAD"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
+"Bobby Wahl SP  OAK"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Sergio Valenzuela RP  CIN"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Jake Johansen SP  WAS"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Dusty Isaacs RP  TOR"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
@@ -1530,11 +1664,13 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Eddy Valdez RP  COL"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Lucas Sims SP  ATL"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Aroni Nina RP  KC"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
+"Kohl Stewart SP  MIN"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Randy Leek SP  STL"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Jeremy Horst RP  LAD"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Michael Soroka SP  ATL"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Reid Mahon RP  ARI"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Yadel Marti SP  OAK"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
+"Taylor Guerrieri SP  TB"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Ryne Harper RP  SEA"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Jeff Muessig RP  OAK"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Wade Korpi SP  MIA"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
@@ -1598,6 +1734,7 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Chase Bradford RP  NYM"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Eric Eadington RP  LAD"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Jacobo Meque RP  LAD"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
+"Clayton Blackburn SP  SF"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Mike Strong SP  MIN"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Jace Fry SP  CHW "	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Travis Banwart SP  CLE "	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
@@ -1615,6 +1752,7 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "David Peterson P  ATL"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Dionisio Muyco RP  CHC"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Bryce Bandilla P  SF"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
+"Hunter Harvey SP  BAL "	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Elniery Garcia P  PHI"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Nelson Gonzalez RP  COL"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Kyle McGowin SP  LAA "	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
@@ -1715,11 +1853,12 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Zach Parker SP  COL"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Luis Merejo RP  ATL"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "David Johnson RP  MIL"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
+"Tyler Kolek SP  MIA "	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Robert Stock RP  STL"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Mike McClendon RP  COL"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Hung-Wen Chen SP  CHC"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
-"Nick Kingham SP  PIT "	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Grayson Garvin SP  TB"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
+"Nick Kingham SP  PIT "	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Seth Frankoff RP  OAK"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Zac Reininger RP  DET"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Hector Daniel Rodriguez SP  BAL"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
@@ -1731,8 +1870,8 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Francisco Gil RP  NYY"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Matt Wiley RP  CIN"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Andrew Kown RP  SF"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
-"Michael Main SP  SF"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Victor Alcantara SP  DET"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
+"Michael Main SP  SF"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Robert Gilliam RP  WAS"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Gabe Hemmer RP  DET"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Tyler Mizenko RP  SF"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
@@ -1891,6 +2030,7 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Jonathan Hernandez SP  TEX"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Alex Burgos P  LAD"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Luis Diaz SP  SD"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
+"Danny Hultzen SP  SEA"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Jose M. Capellan SP  BOS"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Beck Wheeler RP  NYM"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Armando Rodriguez RP  TEX"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
@@ -1974,6 +2114,7 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Kyle Regnault RP  NYM"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Ian Clarkin SP  NYY"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Jeremy Bleich SP  PIT"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
+"Kyle Crick SP  SF"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Joe Bateman RP  OAK"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Victor Moreno RP  BAL"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Dustin Richardson RP  LAD"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
@@ -1986,8 +2127,8 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Erik Turgeon RP  NYM"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Tim Alderson SP  BAL"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Christopher Province RP  MIN"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
-"Anthony Meo SP  ARI"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Bobby Bundy SP  BAL "	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
+"Anthony Meo SP  ARI"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Bryson Cox RP  BOS"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Geoff Jones RP  CHC"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Cody Smith RP  KC"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
@@ -2011,9 +2152,10 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Ismael Guillon SP  CIN"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Josh Heddinger P  DET"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Kyle Haynes SP  NYY"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
+"Tyler Beede SP  SF"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Terance Marin P  CHW"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
-"Luis Mateo SP  NYM"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Chad Bell SP  DET"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
+"Luis Mateo SP  NYM"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Danny Core RP  TOR"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Sean H. Smith RP  COL"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Chris Smith RP  TOR"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
@@ -2058,8 +2200,8 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Jeff Gerbe RP  DET"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Michael Mader P  MIA"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Nicholas Webber RP  STL"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
-"Anthony Vasquez SP  SEA "	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Ben Lively SP  PHI"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
+"Anthony Vasquez SP  SEA "	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Max Fried SP  ATL"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Jesus Pirela P  TEX"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Rafael Dolis RP  DET"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
@@ -2118,12 +2260,12 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Trey Ball SP  BOS"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Cody Sedlock SP  BAL"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Mark McCormick RP  STL"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
-"Bryan Evans SP  MIA"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Dietrich Enns SP  NYY "	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
+"Bryan Evans SP  MIA"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Joe Jimenez RP  DET "	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Trevor Reckling RP  LAA"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
-"Johan Belisario P  DET"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Hiram Burgos SP  MIL "	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
+"Johan Belisario P  DET"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Leuris Gomez RP  COL"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Luke Hagerty RP  MIA"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Sean Watson RP  CIN"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
@@ -2132,8 +2274,8 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Matt Alvarez RP  KC"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Juan Paniagua RP  CHC"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Trey Supak P  PIT"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
-"Jeremy Berg RP  LAA"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Jason Wheeler SP  MIN"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
+"Jeremy Berg RP  LAA"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Jesse Crain RP  CHW"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Noel Arguelles SP  KC"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Rob Kaminsky SP  CLE"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
@@ -2170,8 +2312,8 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Cory Burns RP  TOR "	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Carlos A. Alvarado RP  SEA"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Ryan Verdugo SP  OAK"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
-"Keury Mella SP  CIN"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Mark Holliman SP  BOS"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
+"Keury Mella SP  CIN"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Ryan Chaffee RP  MIA"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Lendy Castillo RP  DET"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Mike Augliera RP  BOS"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
@@ -2179,6 +2321,7 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Jason Berken SP  PHI"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Jarrett Casey P  CHW"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Danny Rosenbaum SP  BOS"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
+"Anderson Espinoza SP  SD"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Patrick Overholt RP  PHI"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Steven Hammond RP  MIL"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
 "Mike Thomas P  LAD"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	1546
@@ -2224,6 +2367,7 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Josh Wall RP  CHW"	0.3	0	0	0	0	0	0	0	0	1	2	54.00	9.00	3078
 "Collin Balester RP  CIN "	8.0	0	0	0	0	0	0	0	6	6	8	6.75	1.75	3079
 "Mike Broadway RP  SF "	11.3	0	0	0	0	1	0	0	8	4	14	6.35	1.59	3081
+"Alex Meyer SP  LAA"	14.0	3	0	0	0	2	0	0	16	10	14	6.43	1.71	3085
 "Cody Hall RP  MIA"	5.7	0	0	0	0	0	0	0	5	4	7	7.94	1.94	3088
 "R.J. Alvarez RP  CHC"	9.3	0	0	0	0	0	0	0	11	6	10	7.71	1.71	3089
 "Nick Maronde RP  CLE "	2.0	0	0	0	0	0	0	0	2	2	4	13.50	3.00	3100
@@ -2302,6 +2446,7 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Jorge Rondon RP  PIT "	6.3	0	0	0	0	0	0	0	4	4	12	12.79	2.53	5961
 "Daniel Wright SP  LAA"	39.7	7	2	0	1	5	0	0	21	8	57	6.13	1.64	5962
 "Matt Carasiti RP  COL "	15.7	0	0	0	1	0	0	0	17	11	25	9.19	2.30	5963
+"Lucas Giolito SP  CHW "	21.3	4	0	0	0	1	0	0	11	12	26	6.75	1.78	5964
 "J.B. Wendelken RP  OAK "	12.7	0	0	0	0	0	0	0	12	9	18	9.95	2.13	5965
 "Cory Mazzoni RP  SD"	4.3	0	0	0	0	0	0	0	4	2	12	20.77	3.23	5966
 "Tim Melville SP  CIN"	9.0	2	0	0	0	1	0	0	8	9	16	11.00	2.78	5967
@@ -2312,6 +2457,7 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Pat Light RP  MIN"	16.7	0	0	0	0	1	0	1	16	16	22	11.34	2.28	5972
 "Patrick Schuster RP  PHI"	8.7	0	0	0	0	1	0	0	8	10	15	18.69	2.88	5973
 "Cody Reed SP  CIN "	47.7	10	2	0	0	7	0	0	43	19	67	7.36	1.80	5974
+"Jose Berrios SP  MIN"	58.3	14	1	0	3	7	0	0	49	35	74	8.02	1.87	5975
 "Aaron Blair SP  ATL"	70.0	15	4	0	2	7	0	0	46	34	82	7.59	1.66	5976
 "Dillon Overton SP  OAK"	24.3	5	1	0	1	3	0	0	17	7	48	11.47	2.26	5977
 "Cy Sneed RP  HOU"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
@@ -2448,4 +2594,4 @@ Player,INN	GS	QS	CG	W	L	S	BS	K	BBI	HA	ERA	WHIP	Rank
 "Pedro Avila SP  WAS"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
 "Daulton Jefferies SP  OAK"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
 "Yefrey Ramirez RP  NYY"	0.0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
-"Report Updated as of  1/21/17  5:54 PM EST
+"Report Updated as of  1/21/17  6:45 PM EST

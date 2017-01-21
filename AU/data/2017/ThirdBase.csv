@@ -1,25 +1,57 @@
-Free Agent Third Basemen  Season   Projections Standard Stats
+All Third Basemen  Season   Projections Standard Stats
 Player,AB	R	H	1B	2B	3B	HR	RBI	BB	KO	SB	CS	BA	OBP	SLG	Rank	
+"Nolan Arenado 3B  COL "	578	106	166	86	36	4	40	127	52	108	2	1	0.287	0.349	0.571	3
+"Jonathan Villar SS  MIL "	567	87	162	104	38	5	15	59	60	166	50	9	0.286	0.356	0.450	12
+"Josh Donaldson 3B  TOR "	539	108	156	87	33	5	31	92	73	118	6	0	0.289	0.381	0.542	14
+"Kris Bryant 3B  CHC "	562	98	163	96	33	4	30	90	62	157	9	3	0.290	0.373	0.523	19
+"Eduardo Nunez 3B  SF "	584	80	173	127	28	4	14	73	32	90	38	7	0.296	0.339	0.430	20
+"Justin Turner 3B  LAD "	578	86	169	98	38	6	27	100	50	112	6	1	0.292	0.365	0.519	31
 "Manny Machado 3B  BAL "	589	93	167	104	34	2	27	82	47	111	10	4	0.283	0.340	0.486	40
+"Todd Frazier 3B  CHW "	582	84	133	71	26	0	36	91	50	160	11	3	0.229	0.295	0.459	55
+"Adrian Beltre 3B  TEX "	582	87	164	104	31	3	26	95	48	76	1	0	0.282	0.341	0.479	56
+"Matt Carpenter 3B  STL "	549	94	147	74	41	5	27	77	77	142	2	1	0.268	0.364	0.508	82
+"Jose Ramirez 3B  CLE "	585	85	168	112	41	4	11	69	43	68	17	3	0.287	0.341	0.427	97
+"Kyle Seager 3B  SEA "	567	77	151	89	36	3	23	79	56	102	4	2	0.266	0.340	0.462	123
+"Evan Longoria 3B  TB "	606	71	159	92	37	3	27	80	37	141	1	0	0.262	0.308	0.467	129
+"Jung Ho Kang 3B  PIT "	487	66	130	76	28	1	25	79	44	113	4	1	0.267	0.348	0.482	133
+"Miguel Sano 3B  MIN "	552	74	124	65	27	2	30	85	72	254	1	0	0.225	0.316	0.444	154
+"Maikel Franco 3B  PHI "	584	68	149	97	28	1	23	86	43	112	1	0	0.255	0.313	0.425	156
+"Anthony Rendon 3B  WAS "	572	81	149	97	35	2	15	72	56	123	8	3	0.261	0.333	0.407	157
+"Yangervis Solarte 3B  SD "	583	70	162	105	38	3	16	83	40	77	1	0	0.278	0.333	0.436	162
+"Nick Castellanos 3B  DET "	593	64	157	92	36	7	22	80	39	177	1	0	0.265	0.315	0.460	170
 "Adonis Garcia 3B  ATL"	607	73	160	110	33	0	17	76	25	122	3	1	0.264	0.300	0.402	180
+"Eugenio Suarez 3B  CIN"	589	70	148	101	26	2	19	67	44	162	9	2	0.251	0.313	0.399	184
 "Jedd Gyorko 2B  STL"	495	60	121	76	14	1	30	69	40	123	0	0	0.244	0.303	0.459	195
 "David Wright 3B  NYM "	526	71	129	82	29	0	18	57	77	176	12	5	0.245	0.343	0.403	206
+"Jake Lamb 3B  ARI "	448	65	111	59	25	7	20	71	50	130	4	1	0.248	0.326	0.469	214
+"Travis Shaw 3B  MIL "	520	62	126	72	31	2	21	70	49	225	7	2	0.242	0.314	0.431	216
+"Ryon Healy 3B  OAK "	558	66	145	90	33	0	22	67	23	118	0	0	0.260	0.294	0.437	217
 "Martin Prado 3B  MIA"	585	64	170	124	33	3	10	71	47	75	2	1	0.291	0.348	0.408	221
 "Chase Headley 3B  NYY"	577	74	146	102	26	2	16	63	54	161	6	2	0.253	0.326	0.388	223
+"Alex Bregman 3B  HOU "	489	65	123	77	26	5	15	64	35	108	6	1	0.252	0.304	0.417	249
+"Mike Moustakas 3B  KC "	475	63	117	73	26	1	17	71	37	76	0	0	0.246	0.309	0.413	267
 "Matt Duffy 3B  TB "	601	66	149	104	28	4	13	55	28	126	10	2	0.248	0.289	0.373	274
 "Yunel Escobar 3B  LAA"	580	72	172	135	28	2	7	46	40	84	1	0	0.297	0.348	0.388	276
 "Jorge Polanco SS  MIN "	496	53	131	87	29	7	8	54	36	105	8	3	0.264	0.325	0.399	318
 "Howie Kendrick LF  PHI"	513	58	133	96	27	3	7	39	35	106	14	2	0.259	0.310	0.364	325
+"Danny Valencia 3B  SEA "	338	51	96	64	16	1	15	41	29	95	1	1	0.284	0.346	0.470	327
 "Ryan Schimpf 2B  SD"	401	63	80	33	24	5	18	66	54	132	1	1	0.200	0.311	0.419	331
+"Hernan Perez 3B  MIL"	345	36	87	59	17	3	8	42	12	85	19	3	0.252	0.279	0.388	353
 "Sean Rodriguez 1B  ATL "	352	45	90	53	19	1	17	47	27	122	2	1	0.256	0.318	0.460	355
+"Javier Baez 3B  CHC"	345	36	96	69	16	1	10	42	10	92	10	2	0.278	0.310	0.417	363
+""Yulieski Gurriel 3B  HOU ""	438	48	112	76	23	1	12	49	25	73	4	2	0.256	0.305	0.395	372
 "Wilmer Flores 3B  NYM "	348	43	91	60	16	1	14	49	21	56	1	0	0.262	0.309	0.434	387
 "Jose Reyes 3B  NYM "	360	47	93	63	18	5	7	32	24	68	14	2	0.258	0.305	0.394	392
 "Brock Holt LF  BOS "	437	55	109	76	24	3	6	42	37	95	6	1	0.249	0.314	0.359	420
+"Joey Gallo 3B  TEX "	349	52	65	37	11	2	15	43	49	158	9	1	0.186	0.288	0.358	421
+"Yoan Moncada 3B  CHW "	259	30	66	44	14	1	7	30	17	78	18	2	0.255	0.306	0.398	422
 "Cheslor Cuthbert 3B  KC"	450	47	117	79	26	2	10	38	31	94	2	0	0.260	0.308	0.393	433
 "Jefry Marte 1B  LAA"	278	35	65	36	13	0	16	41	19	77	2	1	0.234	0.295	0.453	442
 "Yonder Alonso 1B  OAK "	434	49	109	75	28	0	6	45	44	70	2	1	0.251	0.323	0.357	455
+"Pablo Sandoval 3B  BOS "	463	44	113	75	27	1	10	49	26	86	0	0	0.244	0.296	0.371	461
 "Jhonny Peralta 3B  STL"	327	39	86	59	16	1	10	38	25	67	0	0	0.263	0.319	0.410	468
 "Whit Merrifield 2B  KC"	310	44	82	55	20	4	3	30	20	72	8	2	0.265	0.309	0.384	470
+"Jurickson Profar 3B  TEX "	433	58	99	75	12	5	7	34	49	108	3	1	0.229	0.313	0.328	477
 "Rob Segedin LF  LAD"	313	38	74	49	12	4	9	40	26	90	2	0	0.236	0.307	0.387	488
 "Marwin Gonzalez 1B  HOU "	309	33	81	55	16	2	8	29	12	63	5	2	0.262	0.296	0.405	490
 "Enrique Hernandez LF  LAD"	340	41	79	50	16	2	11	31	37	98	3	1	0.232	0.309	0.388	495
@@ -58,6 +90,7 @@ Player,AB	R	H	1B	2B	3B	HR	RBI	BB	KO	SB	CS	BA	OBP	SLG	Rank
 "Carlos Sanchez 2B  CHW"	155	16	33	20	9	1	3	16	7	40	0	0	0.213	0.252	0.342	914
 "Adam Frazier LF  PIT "	81	11	23	17	4	1	1	7	6	16	2	0	0.284	0.341	0.395	915
 "Josh Rutledge 3B  BOS "	98	13	25	18	6	0	1	9	8	36	1	0	0.255	0.318	0.347	926
+"Colin Moran 3B  HOU"	104	12	23	16	5	0	2	11	7	23	1	0	0.221	0.277	0.327	941
 "Andrew Romine 3B  DET "	90	10	20	16	2	1	1	7	5	22	4	0	0.222	0.278	0.300	947
 "Gregorio Petit 2B  LAA "	164	15	35	25	8	1	1	12	11	52	0	0	0.213	0.267	0.293	985
 "Marco Hernandez 2B  BOS"	44	7	12	9	2	0	1	4	3	9	1	0	0.273	0.319	0.386	988
@@ -69,316 +102,321 @@ Player,AB	R	H	1B	2B	3B	HR	RBI	BB	KO	SB	CS	BA	OBP	SLG	Rank
 "Hanser Alberto 3B  TEX"	106	10	21	17	3	1	0	10	2	29	1	0	0.198	0.213	0.245	1005
 "Miguel Rojas 2B  MIA"	81	9	18	14	4	0	0	6	5	12	0	0	0.222	0.267	0.272	1014
 "Ehire Adrianza SS  SF "	68	5	14	10	3	0	1	6	6	15	1	0	0.206	0.289	0.294	1015
+"Nick Tanielu 3B  HOU"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Jeff McNeil 3B  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Scott Sizemore 3B  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Kellen Sweeney 3B  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Mitch Nay 3B  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Jonathan Meyer 3B  HOU"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Micah Schnurstein 3B  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Matt Rogelstad 3B  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Simon Ferrer 3B  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Barrett Kleinknecht 3B  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Joaquin Arias 3B  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Ricardo Sosa 3B  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Jordan Edgerton 3B  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Edgar Corcino 3B  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Greg Sexton 3B  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Brian Anderson 3B  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Mike Aviles RF  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Paul Gran 3B  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Dawel Lugo 3B  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Brian Ruggiano 3B  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Mike Hrynio 3B  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Duanel Jones 3B  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Brett Wallace 3B  SD "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"J.D. Alfaro 3B  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Eduardo Cornejo 3B  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"C.J. Retherford 3B  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Chris Nowak 3B  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Marc Tugwell 3B  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Eric Avila 3B  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Eric Wood 3B  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Bryan Pounds 3B  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Marquez Smith 3B  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Grant Buckner 3B  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Aderlin Rodriguez 3B  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Gordon Beckham 2B  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Mark Minicozzi 3B  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Jaime Trejo 3B  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Chris Henderson 3B  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Andy Leer 3B  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Ke'Bryan Hayes 3B  PIT "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Luis Jimenez 3B  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Bobby Dalbec 3B  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Tyler Nevin 3B  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Felix Cabrera 3B  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Bridger Hunt 3B  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Josh Fuentes 3B  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Jeremy Farrell 3B  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Dante Bichette 3B  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Simon Klink 3B  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Kole Enright 3B  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Scott Sizemore 3B  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Juan Portes 3B  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Agustin Murillo 3B  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Reid Redman 3B  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Hunter Brown 3B  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Kellen Sweeney 3B  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jonah Arenado 3B  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Mitch Nay 3B  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Mitch Delfino 3B  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Carlos Franco 3B  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Michael Almanzar 3B  BAL "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Josh Bell 3B  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Brian Hernandez 3B  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Mike Olt 3B  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Josh Johnson 3B  WAS "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Michael Benjamin 3B  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ryan Stovall 3B  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Donell Linares 3B  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Wladimir Galindo 3B  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Brandon Bednar 3B  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Eric Campbell 1B  NYM "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Adam Rosales 3B  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"T.J. Mittelstaedt 3B  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Brennan King 3B  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Royce Huffman 3B  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Kyle Reynolds 3B  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Sherman Johnson 3B  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Josh Vitters 3B  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Matt Chapman 3B  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Taylor Sparks 3B  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Walker Gourley 3B  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Joshua Adams 3B  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Ariel Soriano 3B  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Colton Welker 3B  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Michael Chavis 3B  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Trevor Plouffe 3B  OAK "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Tim Torres 3B  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Joe Sclafani 3B  HOU"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Greg Rohan 3B  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Vladimir Guerrero 3B  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Brandon Taylor 3B  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ronald Prettyman 3B  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Rodney Nye 3B  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Darryl George 3B  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Yonathan Mendoza 3B  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jonathan Meyer 3B  HOU"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Lopez Jova 3B  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Gary Varner 3B  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Micah Schnurstein 3B  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Mauricio Ramos 3B  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Gabriel Quintana 3B  SD "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Juan Uribe 3B  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Tripper Johnson 3B  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Matt Rogelstad 3B  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Shane Hoelscher 3B  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Simon Ferrer 3B  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ruben Tejada 3B  SF "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Darin Holcomb 3B  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Michael Wing 3B  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Lucas Erceg 3B  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Matthew Hall 3B  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Matt Whitney 3B  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Barrett Kleinknecht 3B  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Anderson Franco 3B  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Joaquin Arias 3B  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Peter Pope 3B  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ricardo Sosa 3B  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jordan Edgerton 3B  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Dominic Ficociello 3B  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Chris Nelson 3B  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Edgar Corcino 3B  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Danny Muno 3B  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Kyle Bellows 3B  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Kyle Mura 3B  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Greg Sexton 3B  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Chad Spann 3B  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Erick Aybar SS  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Brian Anderson 3B  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Michael Collins 3B  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Glenn Gallagher 3B  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Shawn Norris 3B  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Matthew Gedman 3B  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Eric Jagielo 3B  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Tony Thompson 3B  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Elevys Gonzalez 3B  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"David Renfroe 3B  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Austin Yount 3B  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Yordy Cabrera 3B  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Paddy Matera 3B  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Seth Mejias-Brean 3B  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Mike Aviles RF  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Josh Morgan 3B  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Richard Lucas 3B  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Luis Caballero 3B  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ryan McCarthy 3B  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"J.D. Davis 3B  HOU"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Paul Gran 3B  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Matthew Betsill 3B  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jordan Betts 3B  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Will Craig 3B  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Kelly Johnson 2B  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Eric Campbell 3B  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ramiro Pena 2B  SF "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Kevin Mahoney 3B  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Terrence Dayleg 3B  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Marcos Vechionacci 3B  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Dawel Lugo 3B  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Lee Mitchell 3B  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Bryce Denton 3B  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Zach Green 3B  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Pedro Alvarez DH  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Dustin Geiger 3B  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Drew Biery 3B  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jesse Hodges 3B  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Vasili Spanos 3B  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Stephen Drew 2B  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Brian Ruggiano 3B  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Robel Garcia 3B  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Pedro Ciriaco 3B  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jorge Vazquez 3B  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Carlos Rivero 3B  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Zach Shank 3B  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ben Risinger 3B  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Will Middlebrooks 3B  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Mike Hrynio 3B  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Paul Janish 3B  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jake Gatewood 3B  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Brandon Snyder 3B  ATL "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Chris Maples 3B  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Yandy Diaz 3B  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Casey McGehee 3B  DET "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Drew Ward 3B  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Kevin Padlo 3B  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Drake Roberts 3B  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Chase Jensen 3B  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Paul DeJong 3B  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"William Rowell 3B  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Dustin Lawley 3B  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jason Christian 3B  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Duanel Jones 3B  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Joshua Lansford 3B  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Mark Sobolewski 3B  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Brett Wallace 3B  SD "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Sheldon Neuse 3B  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Brett Tanos 3B  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Christian Colonel 3B  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"J.D. Alfaro 3B  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jayson Langfels 3B  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Wade Gaynor 3B  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Anderson Hidalgo 3B  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Eduardo Cornejo 3B  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jordan Hankins 3B  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Nick Senzel 3B  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Kyle Kubitza 3B  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"C.J. Retherford 3B  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Matt Juengel 3B  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Chris Nowak 3B  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jordan Kreke 3B  HOU"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Chris Johnson 1B  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Marc Tugwell 3B  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Steven Fuentes 3B  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Bradley McCann 3B  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Lenell McGee 3B  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Reid Brignac 3B  HOU "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Nova Valdez 3B  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Chris Mariscal 3B  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Timothy Pahuta 3B  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Grant Fink 3B  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Brandon Sing 3B  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Austin Riley 3B  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Luis Mendez 3B  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jhoan Urena 3B  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Eric Avila 3B  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Kenny Perez 3B  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Chris Hawkins 3B  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Matt Argyropoulos 3B  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jonathan Greene 3B  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Julio Garcia 3B  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Cesar Suarez 3B  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Tony Mansolino 3B  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Felix Molina 3B  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Juan Francisco 3B  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ali Castillo 3B  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Nick Basto 3B  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Zach Shepherd 3B  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Patrick Wisdom 3B  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ryder Jones 3B  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Joe Leonard 3B  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Chase Simpson 3B  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Domnit Bolivar 3B  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Eric Wood 3B  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Jay Brossman 3B  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Nolan Jones 3B  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Kevin Franklin 3B  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Elian Herrera 3B  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jomar Reyes 3B  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Bryan Pounds 3B  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Paul Hoenecke 3B  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Edgar Trejo 3B  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Ivan De Jesus SS  CIN "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Brian Snyder 3B  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"John Whittleman 3B  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Michael Spina 3B  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Jairo Perez 3B  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Nate Hanson 3B  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"David Bote 3B  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Joe Rizzo 3B  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Adrian Sanchez 3B  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Ty France 3B  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Travis Mattair 3B  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Matt Sweeney 3B  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Joshua Lowe 3B  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Juan Portes 3B  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Mike Olt 3B  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Michael Benjamin 3B  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Vladimir Guerrero 3B  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Shane Hoelscher 3B  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Ruben Tejada 3B  SF "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Lucas Erceg 3B  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Anderson Franco 3B  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"David Renfroe 3B  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Paddy Matera 3B  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Luis Caballero 3B  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Lee Mitchell 3B  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Robel Garcia 3B  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Carlos Rivero 3B  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Jake Gatewood 3B  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Chris Maples 3B  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Paul DeJong 3B  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Sheldon Neuse 3B  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Christian Colonel 3B  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Kyle Kubitza 3B  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Austin Riley 3B  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Chris Hawkins 3B  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Nick Basto 3B  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Domnit Bolivar 3B  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jordan Smith 3B  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Juremi Profar 3B  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Yasmil Bucce 3B  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Miles Head 3B  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Mickey Wiswall 3B  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Buzz Hannahan 3B  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Edgar Trejo 3B  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Brandon Trinkwon 3B  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"David Adams 3B  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Zelous Wheeler 3B  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Bradley Suttle 3B  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Matt Duffy 3B  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"David Vidal 3B  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Marquez Smith 3B  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Steven Proscia 3B  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jeremy Cruz 3B  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Edwin Rios 3B  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ivan De Jesus SS  CIN "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Grant Buckner 3B  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Brian Snyder 3B  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Juan Romero 3B  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jacob Blackwood 3B  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Jordan Pacheco 3B  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Coty Blanchard 3B  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Matt Moses 3B  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ryan McMahon 3B  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jimmy Comerota 3B  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"John Whittleman 3B  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Andrew Pinckney 3B  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Radames Nazario 3B  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Ashley Ponce 3B  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Nick Vilter 3B  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Jonathan Quinonez 3B  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Adam Fox 3B  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Edward Prasch 3B  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Simon Klink 3B  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Reid Redman 3B  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Hunter Brown 3B  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Donell Linares 3B  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Ronald Prettyman 3B  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Lopez Jova 3B  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Danny Muno 3B  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Glenn Gallagher 3B  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Matthew Betsill 3B  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Marcos Vechionacci 3B  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Bryce Denton 3B  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Jesse Hodges 3B  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Paul Janish 3B  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Casey McGehee 3B  DET "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Chase Jensen 3B  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Anderson Hidalgo 3B  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Timothy Pahuta 3B  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Jhoan Urena 3B  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Felix Molina 3B  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Jomar Reyes 3B  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Mickey Wiswall 3B  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"David Adams 3B  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"David Vidal 3B  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Jeremy Cruz 3B  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jose Cuas 3B  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Danny Worth 2B  HOU"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Sean Buckley 3B  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jermaine Palacios 3B  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Kelvin Gutierrez 3B  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Aderlin Rodriguez 3B  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ashley Ponce 3B  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Gordon Beckham 2B  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Andy LaRoche 3B  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Nick Vilter 3B  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Dan Gamache 3B  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Mark Minicozzi 3B  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Drew Dosch 3B  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Alberti Chavez 3B  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Michael Spina 3B  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Mike Ahmed 3B  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Fidel Pena 3B  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jairo Perez 3B  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jaime Trejo 3B  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Trey Michalczewski 3B  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Justin Gemoll 3B  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Ryan Court 3B  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Colin Walsh 3B  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Zach Lutz 3B  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Mario Martinez 3B  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Zachary Wilson 3B  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Nate Tenbrink 3B  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Jorge Jimenez 3B  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Agustin Murillo 3B  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Jonah Arenado 3B  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Wladimir Galindo 3B  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"T.J. Mittelstaedt 3B  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Royce Huffman 3B  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Joshua Adams 3B  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Trevor Plouffe 3B  OAK "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Tim Torres 3B  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Brandon Taylor 3B  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Juan Uribe 3B  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Matthew Hall 3B  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Matt Whitney 3B  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Dominic Ficociello 3B  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Erick Aybar SS  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Ryan McCarthy 3B  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Kelly Johnson 2B  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Stephen Drew 2B  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Yandy Diaz 3B  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Jason Christian 3B  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Grant Fink 3B  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Chase Simpson 3B  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Kelvin Gutierrez 3B  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Drew Dosch 3B  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Kyle Anson 3B  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Chris Henderson 3B  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jonathan Gilmore 3B  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Danny Diekroeger 3B  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Andy Leer 3B  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Joseph Loftus 3B  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ke'Bryan Hayes 3B  PIT "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Luis Jimenez 3B  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Brent Morel 3B  PIT "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Nate Hanson 3B  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Felipe Blanco 3B  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Steffan Wilson 3B  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Bobby Dalbec 3B  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"David Bote 3B  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jason Aspito 3B  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Daniel Brewer 3B  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Deibinson Romero 3B  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Alex Santana 3B  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Pat Blair 3B  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Joseph Astacio 3B  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Jason Esposito 3B  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Brant Ust 3B  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Nick Tanielu 3B  HOU"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Eric Campbell 1B  NYM "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Adam Rosales 3B  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Brennan King 3B  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Kyle Reynolds 3B  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Michael Chavis 3B  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Greg Rohan 3B  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Rodney Nye 3B  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Tripper Johnson 3B  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Chris Nelson 3B  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Seth Mejias-Brean 3B  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Richard Lucas 3B  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"J.D. Davis 3B  HOU"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Zach Green 3B  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Vasili Spanos 3B  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Drake Roberts 3B  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Jayson Langfels 3B  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Nick Senzel 3B  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Reid Brignac 3B  HOU "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Luis Mendez 3B  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Kenny Perez 3B  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Jordan Smith 3B  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Zelous Wheeler 3B  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Bradley Suttle 3B  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Steven Proscia 3B  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Andrew Pinckney 3B  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Jose Cuas 3B  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Jermaine Palacios 3B  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Felipe Blanco 3B  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Dwayne Bailey 3B  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Joe Rizzo 3B  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ryan Court 3B  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Colin Walsh 3B  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ryan Fisher 3B  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Alex Santana 3B  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Tyler Nevin 3B  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Felix Cabrera 3B  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jeff Reynolds 3B  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jonathan Quinonez 3B  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Matt Dominguez 3B  BOS "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Aaron Hill 3B  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Adrian Sanchez 3B  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Bridger Hunt 3B  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Anthony Hatch 3B  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Kyle Greene 3B  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Pat Osborn 3B  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Skip Adams 3B  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Daniel Castro SS  ATL "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Matthew Nuzzo 3B  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Mitch Delfino 3B  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Brian Hernandez 3B  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Josh Johnson 3B  WAS "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Sherman Johnson 3B  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Taylor Sparks 3B  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Darin Holcomb 3B  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Michael Wing 3B  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Kyle Bellows 3B  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Kyle Mura 3B  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Michael Collins 3B  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Shawn Norris 3B  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Ramiro Pena 2B  SF "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Kevin Mahoney 3B  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Ben Risinger 3B  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Will Middlebrooks 3B  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Mark Sobolewski 3B  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Wade Gaynor 3B  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Jordan Hankins 3B  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Matt Juengel 3B  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Jordan Kreke 3B  HOU"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Steven Fuentes 3B  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Lenell McGee 3B  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Matt Argyropoulos 3B  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Jonathan Greene 3B  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Tony Mansolino 3B  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Patrick Wisdom 3B  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Ryder Jones 3B  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Nolan Jones 3B  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Juremi Profar 3B  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Edwin Rios 3B  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Juan Romero 3B  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Dan Gamache 3B  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Kyle Anson 3B  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Jonathan Gilmore 3B  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Jason Aspito 3B  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Jeff Bianchi 3B  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Carlos Franco 3B  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Ryan Stovall 3B  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Matt Chapman 3B  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Walker Gourley 3B  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Colton Welker 3B  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Gabriel Quintana 3B  SD "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Eric Jagielo 3B  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Elevys Gonzalez 3B  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Austin Yount 3B  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Josh Morgan 3B  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Jordan Betts 3B  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Eric Campbell 3B  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Dustin Geiger 3B  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Jorge Vazquez 3B  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Drew Ward 3B  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Kevin Padlo 3B  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Dustin Lawley 3B  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Chris Johnson 1B  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Chris Mariscal 3B  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Brandon Sing 3B  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Julio Garcia 3B  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Cesar Suarez 3B  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Juan Francisco 3B  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Ali Castillo 3B  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Joe Leonard 3B  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Yasmil Bucce 3B  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Buzz Hannahan 3B  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Jacob Blackwood 3B  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Jimmy Comerota 3B  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Fidel Pena 3B  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Joseph Loftus 3B  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Brent Morel 3B  PIT "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Steffan Wilson 3B  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Ryan Fisher 3B  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Jeff Reynolds 3B  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Ty France 3B  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Zach Lutz 3B  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Dusty Coleman 3B  KC "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Josh Fuentes 3B  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Travis Mattair 3B  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Dan Fiorito 3B  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Kyle Greene 3B  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Pat Blair 3B  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Pat Osborn 3B  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Mario Martinez 3B  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Joseph Astacio 3B  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Zachary Wilson 3B  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Adam Fox 3B  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Skip Adams 3B  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jason Esposito 3B  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Brant Ust 3B  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Nate Tenbrink 3B  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Zack Cox 3B  MIA "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Matthew Craig 3B  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jeff Bianchi 3B  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Edward Prasch 3B  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Rafael Devers 3B  BOS "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Daniel Castro SS  ATL "	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Andy Marte 3B  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jeremy Farrell 3B  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Cam Perkins 3B  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Matt Sweeney 3B  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Joshua Lowe 3B  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Matthew Nuzzo 3B  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
 "Jake Mauer 3B  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
-"Report Updated as of  1/21/17  5:58 PM EST
+"Dante Bichette 3B  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Jorge Jimenez 3B  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.000	0.000	0.000	9999
+"Report Updated as of  1/21/17  6:47 PM EST

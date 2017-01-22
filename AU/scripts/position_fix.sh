@@ -56,8 +56,8 @@ do
             newline=$(echo "$newline" | sed 's/\t/,/')
         fi
 
-        # if the line contains Report,Updated, don't write it out
-        if [[ $string != *"Report Updated"* ]]; then
+        # if the line contains Report Updated, don't write it out
+        if [[ $newline != *"Report Updated"* ]]; then
             echo "$newline" >> $TMPFILE
         fi
     else

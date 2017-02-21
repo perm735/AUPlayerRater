@@ -22,7 +22,7 @@ public class AULeague {
     public static final int SALARY_CAP = 260;
     //public static final int BATTER_MONEY = 260;
     public static final int BATTER_MONEY = 260;		// needed to adjust this after finding a bug in the weighted average
-    public static final int PITCHER_MONEY = 80;
+    public static final int PITCHER_MONEY = 260;
     
     public static AULeague getInstance() {
     	if (mSingleton == null) {

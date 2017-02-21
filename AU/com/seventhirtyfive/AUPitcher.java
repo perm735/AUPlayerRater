@@ -86,19 +86,17 @@ public class AUPitcher extends AUPlayer implements Comparable<AUPitcher> {
     	double winAvg = (double)stats.getWins() / l.getWinAverage();
     	
     	// weight whip and average with innings
-    	double innPerPlayerAvg = l.getInnAverage() / 10.0;
-    	double weight = ((double)stats.getInnings()) / innPerPlayerAvg;
-    
-    	double eraAvg = (( l.getEraAverage() - (double)stats.getEra() ) / l.getEraAverage()) + weight/2;
-    	double whipAvg = (( l.getWhipAverage() - (double)stats.getWhip() ) / l.getWhipAverage()) + weight/2;
+    	double weight = innAvg*1.2;
+    	double eraAvg = (( l.getEraAverage() - (double)stats.getEra() ) / l.getEraAverage()) + weight;
+    	double whipAvg = (( l.getWhipAverage() - (double)stats.getWhip() ) / l.getWhipAverage()) + weight;
 
     	// get the average
-    	double avgPercentage = (innAvg+savesAvg+kAvg+eraAvg+whipAvg+winAvg) / 6;
+    	double avgPercentage = (innAvg+(savesAvg/2)+kAvg+eraAvg+whipAvg+winAvg) / 6;
     	
     	if (avgPercentage*AULeague.PITCHER_MONEY < 1.0) {
     		return 1.0;			// return 1 dollar
     	} else {
-        	return (double)Math.round(avgPercentage*AULeague.PITCHER_MONEY);
+        	return (double)Math.round(avgPercentage/2*AULeague.PITCHER_MONEY);
     	}
     }
     public void writePlayer( BufferedOutputStream os ) {

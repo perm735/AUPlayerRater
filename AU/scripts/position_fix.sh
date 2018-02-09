@@ -1,6 +1,6 @@
 #!/bin/bash
 # You can use this find command to execute this script on all csv's:
-# find . -maxdepth 1 -name "*.csv" -exec ~/Builds/AUPlayerRater/AU/scripts/position_fix.sh {} \ 
+# find . -maxdepth 1 -name "*.csv" -exec /home/mschassberger/Personal/AUPlayerRater/AU/scripts/position_fix.sh {} \ ;
 
 if [ -z "$1" ]; then
     echo "First argument should be the file name"

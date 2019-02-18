@@ -269,42 +269,52 @@ public class AUFileLoader {
 				loadingBatters = false;
 				continue;
 			}
+						
 			if (loadingBatters && parsedLine.length > 2) {
+				//2019 - Team	AB	R	H	1B	2B	3B	HR	RBI	BB	K	SB	CS	AVG	OBP	SLG	
 				String teamName = parsedLine[0];
 				AUTeam team = new AUTeam(teamName);
 				AUBatterStats bStats = team.getBatterStats();
-				bStats.setAb(Integer.parseInt(parsedLine[1]));
-				bStats.setRuns(Integer.parseInt(parsedLine[2]));
+				int offset = 1;
+				bStats.setAb(Integer.parseInt(parsedLine[offset++]));
+				bStats.setRuns(Integer.parseInt(parsedLine[offset++]));
 				// parsedLine[3] 	total hits (calculated)
-				bStats.set1B(Integer.parseInt(parsedLine[4]));
-				bStats.set2B(Integer.parseInt(parsedLine[5]));
-				bStats.set3B(Integer.parseInt(parsedLine[6]));
-				bStats.setHr(Integer.parseInt(parsedLine[7]));
-				bStats.setRbi(Integer.parseInt(parsedLine[8]));
-				bStats.setBb(Integer.parseInt(parsedLine[9]));
+				offset++;
+				bStats.set1B(Integer.parseInt(parsedLine[offset++]));
+				bStats.set2B(Integer.parseInt(parsedLine[offset++]));
+				bStats.set3B(Integer.parseInt(parsedLine[offset++]));
+				bStats.setHr(Integer.parseInt(parsedLine[offset++]));
+				bStats.setRbi(Integer.parseInt(parsedLine[offset++]));
+				bStats.setBb(Integer.parseInt(parsedLine[offset++]));
 				// parsedLine[10]	Strikeouts
-				bStats.setSb(Integer.parseInt(parsedLine[11]));
+				offset++;
+				bStats.setSb(Integer.parseInt(parsedLine[offset++]));
 				// parsedLine[12]	Caught stealing
 				// parsedLine[13]	OBP
 				// parsedLine[14]	SLG
 				// parsedLine[15]	Rank
 				league.addTeam(team);
 			} else {
+				// 2019 - Team	INNs	APP	GS	QS	CG	W	L	S	BS	K	BB	H	ERA	WHIP
 				// batting is done, look up the team, then load the pitching stats
 				AUTeam team = league.getTeam(parsedLine[0]);
+				int offset = 1;
 				AUPitcherStats pStats = team.getPitcherStats();
-				pStats.setInnings(Float.parseFloat(parsedLine[1]));
-				// parsedLine[2]	Games started
-				// parsedLine[3]	Quality Starts
-				// parsedLine[4]	Complete games
-				pStats.setWins(Integer.parseInt(parsedLine[5]));
-				pStats.setLosses(Integer.parseInt(parsedLine[6]));
-				pStats.setSaves(Integer.parseInt(parsedLine[7]));
+				pStats.setInnings(Float.parseFloat(parsedLine[offset]));
+				// parsedLine[2]	Appearances
+				// parsedLine[3]	Games started
+				// parsedLine[4]	Quality Starts
+				// parsedLine[5]	Complete games
+				offset += 5;
+				pStats.setWins(Integer.parseInt(parsedLine[offset++]));
+				pStats.setLosses(Integer.parseInt(parsedLine[offset++]));
+				pStats.setSaves(Integer.parseInt(parsedLine[offset++]));
 				// parsedLine[8]	Blown Saves
-				pStats.setStrikeouts(Integer.parseInt(parsedLine[9]));
-				pStats.setWalks(Integer.parseInt(parsedLine[10]));
-				pStats.setHitsAgainst(Integer.parseInt(parsedLine[11]));
-				pStats.setEra(Float.parseFloat(parsedLine[12]));
+				offset++;
+				pStats.setStrikeouts(Integer.parseInt(parsedLine[offset++]));
+				pStats.setWalks(Integer.parseInt(parsedLine[offset++]));
+				pStats.setHitsAgainst(Integer.parseInt(parsedLine[offset++]));
+				pStats.setEra(Float.parseFloat(parsedLine[offset++]));
 				// parsedLine[13]	WHIP (calculated)
 			}
 		}
@@ -341,6 +351,8 @@ public class AUFileLoader {
 			String first = getFirstName(parsedLine[0]);
 			String position = getPosition(parsedLine[0]);
 
+			//Player,INNs	APP	GS	QS	CG	W	L	S	BS	K	BB	H	ERA	WHIP	Rank
+			
 			// TODO: this is wrong, I shouldn't be creating a new object, I should
 			// be looking it up in a hashmap...
 			AUPitcher pitcher = new AUPitcher(first, last, position);
@@ -351,10 +363,11 @@ public class AUFileLoader {
 			// parsedLine[1];       AU Team Name (not used) - 2016 changed parse script - no more team name
             AUPitcherStats stats = pitcher.getStats(mYearToLoad);
             stats.setInnings(Float.parseFloat(parsedLine[offset++]));  // 2012 added a dash, all values slide up
-            // parsedLine[3] 		Games Started
-            // parsedLine[4] 		Quality starts
-            // parsedLine[5]		Complete games
-            offset += 3;
+            // parsedLine[3]		Appearances
+            // parsedLine[4] 		Games Started
+            // parsedLine[5] 		Quality starts
+            // parsedLine[6]		Complete games
+            offset += 4;
             stats.setWins(Integer.parseInt(parsedLine[offset++]));
             stats.setLosses(Integer.parseInt(parsedLine[offset++]));
             stats.setSaves(Integer.parseInt(parsedLine[offset++]));

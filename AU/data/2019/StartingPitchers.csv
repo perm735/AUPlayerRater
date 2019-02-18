@@ -1,754 +1,753 @@
 All Starting Pitchers   Projections Standard Categories
-Avail,Player,INNs,APP,GS,QS,CG,W,L,S,BS,K,BB,H,ERA,WHIP,Rank,
-Crime Pays,Max Scherzer SP | WAS,206,33,33,30,2,17,7,0,0,256,57,159,2.96,1.05,7
-W ,Chris Sale SP | BOS ,165,29,29,20,0,14,5,0,0,213,38,137,2.72,1.06,13
-W ,Jacob deGrom SP | NYM ,197,31,31,28,1,14,8,0,0,224,51,163,2.46,1.08,14
-Sofa Kings,Justin Verlander SP | HOU ,197,33,33,27,1,18,7,0,0,243,60,164,3.10,1.13,21
-Old Dirty Bugg,Corey Kluber SP | CLE,205,32,32,25,3,18,7,0,0,224,48,191,3.34,1.17,22
-Sofa Kings,Blake Snell SP | TB,180,33,33,19,0,18,7,0,0,199,74,143,2.99,1.20,27
-Old Dirty Bugg,Aaron Nola SP | PHI ,178,30,30,25,0,14,8,0,0,193,56,160,3.33,1.21,28
-User Abuser,Trevor Bauer SP | CLE ,190,33,33,24,0,18,7,0,0,227,58,173,3.22,1.22,34
-EVIL EMPIRE ,Gerrit Cole SP | HOU ,194,33,33,24,1,15,8,0,0,254,63,167,3.61,1.18,35
-Floaters and Sinkers,Clayton Kershaw SP | LAD,176,29,29,23,0,14,6,0,0,176,44,145,2.71,1.07,37
-W ,Noah Syndergaard SP | NYM ,184,33,33,21,2,15,6,0,0,188,47,178,3.38,1.22,40
-Shits & Giggles,Luis Severino SP | NYY ,194,33,33,20,1,17,9,0,0,219,54,170,3.33,1.15,45
-W ,Patrick Corbin SP | WAS,165,29,29,19,1,14,6,0,0,191,43,147,3.27,1.15,46
-W ,Carlos Carrasco SP | CLE,188,32,32,21,2,17,9,0,0,221,44,168,3.44,1.12,47
-User Abuser,Zack Greinke SP | ARI ,183,31,31,22,0,14,10,0,0,195,49,168,3.63,1.18,50
-EVIL EMPIRE ,Walker Buehler SP | LAD ,176,30,30,17,0,10,4,0,0,192,42,133,2.76,0.99,53
-EVIL EMPIRE ,James Paxton SP | NYY ,173,31,31,19,2,16,5,0,0,224,52,154,3.38,1.19,65
-Disco Bush Horticulturists,Stephen Strasburg SP | WAS,166,29,29,21,0,14,8,0,0,197,51,149,3.19,1.20,67
-EVIL EMPIRE ,Mike Clevinger SP | CLE,173,30,30,21,1,16,5,0,0,201,57,148,3.07,1.19,73
-Sofa Kings,German Marquez SP | COL,162,30,30,19,0,12,10,0,0,180,49,161,3.82,1.29,76
-EVIL EMPIRE ,Carlos Martinez SP | STL ,160,29,29,18,1,11,9,0,0,168,58,145,3.31,1.26,89
-W ,Madison Bumgarner SP | SF,189,32,32,24,1,11,10,0,0,170,62,186,3.62,1.31,90
-Shits & Giggles,Jack Flaherty SP | STL,151,30,30,11,0,11,7,0,0,170,49,115,2.97,1.08,97
-W ,David Price SP | BOS,165,30,30,20,1,15,8,0,0,174,50,153,3.59,1.23,98
-Whiteness,Chris Archer SP | PIT ,174,33,33,18,0,10,7,0,0,208,56,183,3.92,1.37,108
-Los Cerveceros,Jose Berrios SP | MIN,184,33,33,20,2,15,10,0,0,198,69,163,3.70,1.26,116
-Crime Pays,Jameson Taillon SP | PIT ,181,33,33,21,2,13,11,0,0,171,45,177,3.52,1.22,117
-Floaters and Sinkers,Charlie Morton SP | TB,176,33,33,19,0,17,5,0,0,186,62,154,3.57,1.23,126
-Whiteness,Mike Foltynewicz SP | ATL ,161,30,30,14,1,14,9,0,0,169,56,137,3.29,1.20,129
-Disco Bush Horticulturists,Zack Wheeler SP | NYM ,179,32,32,20,0,13,8,0,0,186,58,163,3.26,1.23,130
-Crime Pays,Miles Mikolas SP | STL,175,30,30,21,1,14,6,0,0,151,33,174,3.28,1.18,131
-User Abuser,Masahiro Tanaka SP | NYY,160,28,28,18,1,15,7,0,0,173,42,151,3.93,1.20,132
-Old Dirty Bugg,Yu Darvish SP | CHC ,137,26,26,15,0,8,8,0,0,143,52,126,4.05,1.29,134
-Floaters and Sinkers,Shohei Ohtani DH | LAA ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,135
-Tittys Warriors,Cole Hamels SP | CHC ,183,32,32,19,1,15,8,0,0,181,66,164,3.49,1.25,140
-Shits & Giggles,J.A. Happ SP | NYY ,150,27,27,15,0,15,7,0,0,168,51,133,3.58,1.22,141
-Sofa Kings,Luis Castillo SP | CIN ,154,30,30,14,0,9,10,0,0,154,46,144,3.96,1.23,142
-Tittys Warriors,Robbie Ray SP | ARI ,159,31,31,14,0,11,4,0,0,209,65,132,3.44,1.23,148
-Los Cerveceros,Andrew Heaney SP | LAA ,162,30,30,18,1,11,8,0,0,181,44,161,3.83,1.27,152
-User Abuser,Rick Porcello SP | BOS ,162,29,29,15,1,14,8,0,0,159,45,164,4.26,1.28,153
-Whiteness,Dallas Keuchel SP | HOU ,151,29,29,17,1,13,8,0,0,119,45,147,3.57,1.27,154
-W ,Yusei Kikuchi SP | SEA ,167,33,33,17,0,11,10,0,0,139,52,172,3.97,1.34,155
-Floaters and Sinkers,Alex Reyes SP | STL ,40,23,10,4,0,4,4,0,0,40,16,41,4.21,1.40,156
-Los Cerveceros,Eduardo Rodriguez SP | BOS ,149,29,29,12,0,12,7,0,0,171,49,143,3.85,1.28,164
-User Abuser,Jose Quintana SP | CHC,153,29,29,15,0,12,9,0,0,160,58,138,3.75,1.28,165
-Disco Bush Horticulturists,Jon Gray SP | COL ,168,32,32,16,0,12,10,0,0,176,49,171,4.01,1.31,166
-Tittys Warriors,Tyler Skaggs SP | LAA ,156,32,32,16,0,12,11,0,0,162,50,159,4.25,1.33,167
-Crime Pays,Joe Musgrove SP | PIT ,154,29,29,14,0,11,12,0,0,133,39,167,3.90,1.33,169
-W ,Rich Hill SP | LAD,136,26,26,10,0,12,5,0,0,144,45,105,2.83,1.10,173
-W ,Kyle Hendricks SP | CHC ,164,30,30,18,0,14,7,0,0,153,42,156,3.62,1.21,174
-Los Cerveceros,Kyle Freeland SP | COL,166,30,30,22,0,12,10,0,0,144,58,171,3.46,1.37,177
-Orange-a-Tangs,Zack Godley SP | ARI,169,32,32,17,0,14,11,0,0,183,66,167,4.08,1.37,182
-Disco Bush Horticulturists,Hyun-Jin Ryu SP | LAD ,129,26,26,12,0,11,5,0,0,138,29,120,3.14,1.16,206
-Sofa Kings,Sean Newcomb SP | ATL ,144,29,29,16,0,13,7,0,0,148,61,127,3.36,1.30,208
-Floaters and Sinkers,Nick Pivetta SP | PHI ,137,29,29,10,0,8,10,0,0,155,44,136,4.26,1.31,209
-Old Dirty Bugg,Tyler Glasnow RP | TB ,134,29,29,11,0,6,7,0,0,158,56,118,4.41,1.29,211
-Old Dirty Bugg,Nathan Eovaldi SP | BOS ,142,29,29,14,0,15,6,0,0,142,27,139,3.53,1.16,215
-Floaters and Sinkers,Jon Lester SP | CHC ,176,33,33,19,0,16,7,0,0,164,61,173,3.38,1.33,216
-W ,Kenta Maeda SP | LAD ,130,26,26,7,0,13,5,0,0,141,36,117,3.38,1.17,219
-EVIL EMPIRE ,Jimmy Nelson SP | MIL ,182,32,32,21,1,13,7,0,0,192,56,179,3.76,1.29,220
-W ,Shane Bieber SP | CLE,158,29,29,16,0,16,7,0,0,169,37,161,4.31,1.25,221
-Los Cerveceros,Alex Wood SP | CIN ,155,30,30,17,0,11,7,0,0,146,48,153,3.72,1.30,223
-User Abuser,Ross Stripling SP | LAD ,147,30,30,12,0,12,7,0,0,167,31,153,3.30,1.25,238
-W ,Jake Arrieta SP | PHI ,158,30,30,17,0,12,9,0,0,152,48,148,3.70,1.24,243
-Disco Bush Horticulturists,Marco Gonzales SP | SEA,156,30,30,13,1,12,9,0,0,141,39,161,3.62,1.28,244
-EVIL EMPIRE ,Josh James SP | HOU,149,29,29,12,0,12,6,0,0,172,52,142,4.16,1.30,246
-Los Cerveceros,Carlos Rodon SP | CHW ,162,30,30,19,0,10,10,0,0,152,66,138,3.94,1.26,252
-Disco Bush Horticulturists,Kyle Gibson SP | MIN ,180,33,33,18,0,12,12,0,0,166,68,180,4.09,1.38,254
-W ,Dylan Bundy SP | BAL ,170,33,33,20,1,11,14,0,0,173,52,185,4.70,1.39,261
-Crime Pays,Vince Velasquez SP | PHI ,117,26,26,10,0,8,8,0,0,132,42,113,4.22,1.32,263
-W ,Sonny Gray SP | CIN ,143,29,29,14,0,11,12,0,0,129,61,152,4.52,1.49,270
-Crime Pays,Marcus Stroman SP | TOR ,176,33,33,17,1,9,13,0,0,155,62,192,4.44,1.44,271
-W ,Reynaldo Lopez SP | CHW,138,26,26,17,0,6,8,0,0,114,61,139,4.09,1.44,276
-W ,Jhoulys Chacin SP | MIL ,176,33,33,14,0,14,9,0,0,148,66,154,3.48,1.25,334
-Orange-a-Tangs,Chase Anderson SP | MIL,168,33,33,15,0,13,7,0,0,153,61,148,3.64,1.24,348
-Disco Bush Horticulturists,Anibal Sanchez SP | WAS ,147,29,29,15,0,10,7,0,0,151,39,133,3.35,1.16,351
-W ,Brad Keller RP | KC ,179,32,32,18,2,14,7,0,0,139,57,184,3.16,1.34,355
-Orange-a-Tangs,Joey Lucchesi SP | SD,156,33,33,8,0,12,10,0,0,159,53,152,3.74,1.31,384
-W ,Jesus Luzardo SP | OAK ,168,33,33,17,0,13,9,0,0,155,56,163,3.96,1.30,387
-Shits & Giggles,Trevor Williams SP | PIT ,152,29,29,17,1,13,8,0,0,124,50,150,3.43,1.31,392
-Old Dirty Bugg,Mike Minor SP | TEX ,153,30,30,15,0,14,8,0,0,131,43,151,4.06,1.27,393
-Disco Bush Horticulturists,Michael Wacha SP | STL ,147,29,29,16,0,15,6,0,0,132,57,140,3.98,1.34,398
-Old Dirty Bugg,Julio Teheran SP | ATL ,174,32,32,20,0,10,10,0,0,166,70,148,3.92,1.25,400
-W ,Touki Toussaint SP | ATL,150,29,29,12,0,10,9,0,0,145,56,131,3.77,1.24,407
-W ,Ryan Yarbrough RP | TB,157,32,26,10,0,11,9,0,0,146,49,150,3.90,1.27,408
-W ,Jason Vargas SP | NYM ,124,26,26,9,0,13,9,0,0,118,37,124,3.76,1.29,410
-User Abuser,Dereck Rodriguez SP | SF,169,33,33,27,0,9,7,0,0,136,48,168,3.45,1.27,421
-W ,Jaime Barria SP | LAA,132,29,29,6,0,13,9,0,0,115,49,129,3.81,1.35,427
-W ,CC Sabathia SP | NYY ,130,26,26,11,0,11,5,0,0,121,44,127,3.67,1.32,432
-W ,Tyler Anderson SP | COL ,147,29,29,15,0,9,7,0,0,142,49,142,3.67,1.30,433
-W ,Tanner Roark SP | CIN ,159,29,29,19,0,11,11,0,0,148,52,160,4.17,1.33,441
-Old Dirty Bugg,Steven Matz SP | NYM ,141,29,29,12,0,6,9,0,0,142,47,132,3.25,1.27,442
-W ,Kevin Gausman SP | ATL ,168,31,31,17,0,13,9,0,0,158,58,181,4.28,1.42,444
-W ,Daniel Mengden SP | OAK ,172,32,32,16,2,11,13,0,0,125,48,168,4.13,1.26,447
-Crime Pays,Luke Weaver SP | ARI ,141,29,29,11,0,10,11,0,0,148,49,144,3.94,1.36,448
-Whiteness,Wade LeBlanc SP | SEA,145,29,29,12,0,8,7,0,0,123,46,136,3.66,1.26,459
-W ,Danny Duffy SP | KC,138,26,26,12,0,12,8,0,0,130,49,148,4.04,1.43,464
-W ,Jeremy Hellickson SP | WAS ,140,29,29,8,0,9,6,0,0,124,39,134,4.22,1.23,466
-User Abuser,Jose Urena SP | MIA ,167,33,33,15,1,11,11,0,0,134,61,166,4.09,1.36,468
-W ,Frankie Montas SP | OAK,137,26,26,13,0,11,9,0,0,105,46,140,3.73,1.35,472
-W ,Zach Davies SP | MIL ,149,29,29,11,0,12,9,0,0,122,47,154,4.33,1.34,473
-W ,Wade Miley SP | HOU ,132,29,29,9,0,8,6,0,0,116,50,127,3.39,1.33,478
-W ,Mike Fiers SP | OAK,156,30,30,15,0,9,10,0,0,132,50,156,3.98,1.32,480
-Whiteness,Andrew Suarez SP | SF,149,29,29,12,0,8,11,0,0,132,46,153,3.75,1.34,486
-User Abuser,Zach Eflin SP | PHI,130,26,26,11,0,12,8,0,0,131,40,139,4.75,1.37,491
-W ,Nick Tropeano SP | LAA ,155,27,27,9,0,10,10,0,0,147,62,143,4.63,1.32,494
-W ,Adam Wainwright SP | STL,125,26,26,9,0,11,9,0,0,118,45,134,4.15,1.42,503
-W ,Sergio Romo RP | TB ,54,62,0,0,0,3,1,24,5,70,20,57,4.67,1.43,504
-W ,Michael Pineda SP | MIN ,154,29,29,17,0,13,7,0,0,147,43,184,4.71,1.47,506
-W ,Jeff Samardzija SP | SF ,143,27,27,13,1,9,10,0,0,128,47,144,4.27,1.33,510
-Los Cerveceros,Antonio Senzatela SP | COL ,152,29,29,10,0,10,9,0,0,123,51,159,4.08,1.38,512
-W ,Wei-Yin Chen SP | MIA,133,27,27,12,0,7,12,0,0,115,49,128,3.59,1.33,513
-W ,Matthew Boyd SP | DET ,171,33,33,16,0,8,15,0,0,160,59,170,4.53,1.34,520
-W ,Matt Harvey SP | LAA ,142,29,29,9,0,9,8,0,0,130,43,150,4.42,1.35,523
-Sofa Kings,Matt Strahm RP | SD,111,26,26,7,0,6,7,0,0,112,38,106,3.73,1.30,525
-W ,Ryan Borucki SP | TOR ,154,29,29,21,0,8,9,0,0,131,65,155,3.79,1.43,528
-W ,Trevor Richards SP | MIA ,130,29,29,11,0,5,10,0,0,140,55,123,3.79,1.36,530
-W ,Robbie Erlin RP | SD ,143,30,30,7,0,10,11,0,0,124,36,162,4.53,1.38,533
-W ,Jake Junis SP | KC,166,31,31,16,1,10,11,0,0,155,51,186,4.70,1.42,536
-W ,Jordan Lyles RP | PIT ,139,26,26,10,0,7,11,0,0,125,42,147,4.01,1.36,538
-W ,Merrill Kelly SP | ARI,131,26,26,12,0,8,9,0,0,128,48,138,4.11,1.42,539
-W ,Anthony DeSclafani SP | CIN ,141,29,29,8,0,8,12,0,0,148,43,147,4.84,1.34,540
-W ,Ivan Nova SP | CHW,175,33,33,19,1,10,12,0,0,133,50,188,4.61,1.35,542
-Orange-a-Tangs,Michael Fulmer SP | DET ,143,26,26,15,0,8,10,0,0,127,48,146,4.34,1.36,544
-Orange-a-Tangs,Adalberto Mejia SP | MIN,172,29,29,3,0,9,7,0,0,138,77,179,3.82,1.49,545
-W ,Dan Straily SP | MIA ,133,27,27,11,0,6,7,0,0,121,51,128,3.92,1.34,548
-User Abuser,Caleb Smith SP | MIA ,141,33,33,11,0,7,15,0,0,142,58,139,4.28,1.40,549
-W ,Diego Castillo RP | TB,58,51,0,0,0,4,4,1,0,74,21,41,3.57,1.07,558
-W ,Jake Odorizzi SP | MIN ,153,32,32,12,0,10,8,0,0,144,68,158,4.59,1.48,559
-W ,Marco Estrada SP | OAK ,141,29,29,14,0,10,9,0,0,119,49,150,4.66,1.41,561
-W ,Mike Leake SP | SEA,156,29,29,19,0,8,12,0,0,116,38,173,4.31,1.35,562
-Tittys Warriors,Shelby Miller SP | TEX ,141,29,29,9,0,11,12,0,0,114,52,149,4.76,1.42,563
-W ,Felix Hernandez SP | SEA ,146,29,29,10,0,10,11,0,0,125,51,156,4.74,1.41,564
-W ,Jordan Zimmermann SP | DET ,160,32,32,12,0,9,11,0,0,134,40,180,4.76,1.37,565
-W ,Sean Reid-Foley SP | TOR,129,26,26,9,0,7,11,0,0,121,48,129,4.33,1.37,568
-W ,Ian Kennedy SP | KC ,141,29,29,12,0,6,9,0,0,130,49,147,4.21,1.39,577
-W ,Yonny Chirinos RP | TB,85,24,17,6,0,5,5,0,0,77,27,80,3.68,1.25,579
-W ,Matt Shoemaker SP | TOR,136,29,29,6,0,7,13,0,0,127,51,135,4.68,1.36,586
-Floaters and Sinkers,Trevor Cahill SP | LAA,157,33,33,14,0,9,7,0,0,143,62,170,4.64,1.48,591
-Orange-a-Tangs,Alex Cobb SP | BAL,152,30,30,17,1,8,13,0,0,120,44,170,4.48,1.40,596
-W ,Lance Lynn SP | TEX,147,30,30,14,0,11,8,0,0,128,68,154,4.88,1.50,598
-W ,Bryan Mitchell SP | SD,140,29,29,10,0,7,10,0,0,110,55,143,4.31,1.41,617
-W ,Logan Allen SP | SD ,161,32,32,15,0,8,13,0,0,150,61,181,4.70,1.50,628
-W ,Nate Karns SP | BAL ,146,29,29,13,0,7,10,0,0,129,47,162,4.67,1.43,631
-W ,Drew Pomeranz RP | SF ,121,26,26,11,0,7,9,0,0,109,50,131,4.29,1.49,638
-Orange-a-Tangs,Seth Lugo RP | NYM ,78,52,0,0,0,1,2,1,0,77,21,73,3.33,1.20,641
-W ,Edinson Volquez SP | TEX,148,29,29,11,2,8,11,0,0,119,60,151,4.85,1.42,654
-W ,Martin Perez SP | MIN ,146,29,29,12,0,11,9,0,0,109,56,172,4.75,1.56,668
-W ,Jorge Lopez RP | KC,128,26,26,11,0,8,10,0,0,105,40,145,4.85,1.45,670
-Shits & Giggles,Brent Honeywell SP | TB ,82,16,16,8,0,6,5,0,0,75,31,86,4.39,1.43,676
-W ,Framber Valdez SP | HOU,40,23,11,3,0,5,3,0,0,39,20,34,3.57,1.34,689
-W ,Ryne Stanek RP | TB,47,61,0,0,0,2,2,1,0,67,23,40,3.83,1.34,707
-W ,Gio Gonzalez SP | MIL,41,23,11,5,0,5,4,0,0,37,18,38,3.95,1.37,712
-W ,Tyson Ross SP | DET,146,29,29,14,0,7,14,0,0,123,60,151,5.09,1.44,716
-Los Cerveceros,Forrest Whitley SP | HOU ,38,23,11,4,0,5,3,0,0,38,15,39,4.46,1.41,729
-Orange-a-Tangs,Lucas Giolito SP | CHW ,145,29,29,16,0,9,11,0,0,105,71,141,5.33,1.46,737
-W ,Gabriel Moya RP | MIN,46,52,0,0,0,4,1,1,0,45,17,46,4.89,1.37,750
-W ,Felix Pena SP | LAA,49,23,11,5,0,3,3,0,0,48,17,48,4.35,1.31,751
-W ,Chris Bassitt SP | OAK,39,22,9,3,0,3,4,0,0,37,16,37,3.66,1.35,752
-W ,Mike Soroka SP | ATL ,42,23,10,4,0,4,4,0,0,40,15,45,4.29,1.43,756
-W ,Sandy Alcantara SP | MIA,47,23,12,5,0,3,5,0,0,45,28,40,3.80,1.44,762
-W ,Manny Banuelos SP | CHW ,127,26,26,12,0,7,10,0,0,108,59,141,4.94,1.57,771
-W ,Andrew Cashner SP | BAL ,141,27,27,16,0,7,12,0,0,101,56,159,4.78,1.52,775
-W ,Matt Koch SP | ARI,43,23,10,4,0,4,5,0,0,25,11,45,4.39,1.30,776
-W ,Thomas Pannone SP | TOR,47,23,11,5,0,3,5,0,0,39,18,45,4.37,1.33,781
-Sofa Kings,Blaine Hardy RP | DET ,55,59,0,0,0,2,1,0,0,46,16,58,4.04,1.33,788
-W ,Pablo Lopez SP | MIA ,42,22,10,5,0,3,4,0,0,38,15,43,4.43,1.36,789
-W ,Austin Voth SP | WAS,30,20,7,3,0,4,2,0,0,29,12,30,5.10,1.40,790
-W ,Nick Kingham SP | PIT ,37,22,9,4,0,4,4,0,0,35,13,39,5.11,1.41,791
-W ,Yohander Mendez SP | TEX,53,23,11,4,0,5,5,0,0,36,24,51,5.06,1.41,792
-W ,Erik Swanson SP | SEA,37,22,9,4,0,3,4,0,0,37,14,38,4.58,1.39,795
-W ,Drew Smyly SP | TEX,159,32,32,15,0,9,11,0,0,122,65,188,5.14,1.59,798
-W ,Jake Faria SP | TB,37,20,8,3,0,3,3,0,0,32,17,33,4.62,1.35,804
-W ,Joe Ross SP | WAS ,37,23,10,5,0,4,3,0,0,30,10,43,5.02,1.41,806
-Floaters and Sinkers,Danny Salazar SP | CLE ,24,15,6,2,0,2,2,0,0,36,11,23,4.44,1.40,808
-Tittys Warriors,Derek Holland SP | SF ,41,23,10,4,0,3,4,0,0,40,19,42,4.54,1.46,810
-Los Cerveceros,Dylan Covey SP | CHW ,50,23,10,3,0,4,7,0,0,38,20,50,5.15,1.38,811
-Orange-a-Tangs,Kohl Stewart SP | MIN,37,20,7,2,0,3,3,0,0,33,17,38,4.30,1.46,812
-W ,Josh Rogers SP | BAL,48,23,11,4,0,3,6,0,0,45,18,50,4.88,1.42,813
-W ,Andrew Moore SP | TB,31,19,6,3,0,3,2,0,0,23,8,32,4.88,1.28,815
-W ,Corey Oswalt SP | NYM,40,23,10,3,0,4,3,0,0,29,12,41,5.58,1.31,816
-Old Dirty Bugg,Dinelson Lamet SP | SD ,20,12,4,2,0,2,2,0,0,26,10,16,4.79,1.26,817
-W ,David Hess SP | BAL,44,22,9,4,0,3,4,0,0,33,16,44,4.84,1.34,822
-Tittys Warriors,John Gant SP | STL,28,16,0,0,0,2,1,0,0,24,15,24,3.77,1.36,824
-W ,Chris Ellis SP | KC,30,19,6,2,0,2,3,0,0,31,12,30,4.40,1.37,826
-W ,Heath Fillmyer SP | KC,47,24,0,0,0,2,2,1,0,34,19,46,4.34,1.36,827
-W ,Erick Fedde SP | WAS ,37,23,10,2,0,4,3,0,0,36,16,41,5.50,1.51,829
-Old Dirty Bugg,Sean Manaea SP | OAK ,13,8,3,2,0,2,1,0,0,10,3,13,3.95,1.17,839
-W ,Eric Lauer SP | SD,48,23,12,3,0,3,4,0,0,44,20,55,4.50,1.56,840
-W ,Homer Bailey SP | KC ,30,20,8,2,0,5,2,0,0,22,10,38,6.00,1.60,841
-W ,Ariel Jurado SP | TEX,46,22,9,3,0,3,5,0,0,30,15,48,4.86,1.36,843
-W ,Tyler Mahle SP | CIN ,45,23,10,3,0,3,5,0,0,45,21,49,4.80,1.56,844
-Disco Bush Horticulturists,Jordan Montgomery SP | NYY ,15,9,4,1,0,2,1,0,0,14,6,14,4.11,1.30,847
-W ,Steven Brault RP | PIT ,44,23,10,3,0,4,3,0,0,40,28,45,4.84,1.63,848
-W ,Daniel Norris SP | DET ,50,23,11,2,0,2,5,0,0,52,20,52,4.97,1.42,849
-W ,Clayton Richard SP | TOR ,47,23,11,5,0,3,5,0,0,34,16,49,4.98,1.38,850
-W ,Jacob Nix SP | SD,42,22,10,4,0,3,5,0,0,33,14,44,5.27,1.36,852
-W ,Chris Stratton SP | SF,38,22,9,4,0,3,5,0,0,31,15,40,4.97,1.45,854
-W ,Austin Gomber RP | STL,35,22,9,4,0,3,3,0,0,33,16,40,4.58,1.58,855
-W ,Jason Hammel RP | TEX ,42,20,8,3,0,3,3,0,0,33,11,48,5.27,1.38,859
-W ,Chase De Jong SP | MIN ,23,12,0,0,0,2,1,1,0,18,9,23,4.70,1.39,860
-W ,Jarlin Garcia RP | MIA,55,68,0,0,0,2,3,1,0,41,23,52,5.01,1.35,863
-W ,Chad Bettis SP | COL ,42,23,10,4,0,3,2,0,0,29,15,43,5.14,1.38,864
-W ,Cody Reed RP | CIN ,38,20,7,2,0,2,3,0,0,40,19,40,4.46,1.54,865
-W ,Jeff Brigham SP | MIA,37,20,8,3,0,2,4,0,0,36,17,37,4.78,1.43,866
-W ,Sam Gaviglio SP | TOR,38,20,7,1,0,2,3,0,0,32,12,40,4.93,1.36,870
-W ,Ty Blach RP | SF,37,20,7,3,0,3,4,0,0,21,12,42,4.62,1.46,876
-W ,JC Ramirez SP | LAA ,23,13,5,2,0,2,3,0,0,17,9,24,4.56,1.39,881
-W ,Hunter Wood RP | TB,33,29,0,0,0,1,1,1,0,38,16,38,4.05,1.62,885
-W ,Jimmy Yacabonis SP | BAL,42,20,7,2,0,2,4,0,0,33,20,39,4.89,1.39,887
-Old Dirty Bugg,Aaron Sanchez SP | TOR ,126,26,26,10,0,5,8,0,0,111,55,147,5.06,1.60,890
-W ,Jesse Hahn SP | KC ,27,14,6,3,0,2,2,0,0,23,10,29,4.94,1.43,892
-Tittys Warriors,Mike Montgomery RP | CHC ,25,18,0,0,0,1,1,0,0,19,9,25,3.96,1.36,893
-W ,Brian Johnson RP | BOS,59,42,0,0,0,1,3,1,0,54,23,67,4.42,1.53,898
-W ,Paul Blackburn SP | OAK,28,19,6,2,0,2,2,0,0,16,7,31,5.02,1.33,900
-Disco Bush Horticulturists,Taijuan Walker SP | ARI ,16,10,4,2,0,1,2,0,0,15,7,17,3.78,1.44,903
-W ,Hector Santiago RP | NYM ,24,17,0,0,0,2,1,0,0,24,14,25,4.88,1.62,908
-W ,Matt Andriese RP | ARI ,26,16,0,0,0,1,2,0,0,27,9,29,5.06,1.43,918
-W ,Hector Velazquez RP | BOS,10,8,0,0,0,1,0,0,0,7,3,12,3.60,1.50,921
-W ,Yefry Ramirez SP | BAL,35,19,6,1,0,1,3,0,0,35,18,32,5.30,1.40,922
-W ,Liam Hendriks RP | OAK ,15,19,0,0,0,1,0,0,0,20,7,17,5.28,1.57,926
-W ,Eric Skoglund SP | KC ,16,8,4,1,0,1,1,0,0,12,5,16,5.40,1.26,930
-W ,Jharel Cotton SP | OAK ,11,8,2,0,0,1,1,0,0,9,4,11,5.56,1.32,931
-Floaters and Sinkers,Tyler Chatwood SP | CHC,42,23,10,2,0,3,5,0,0,35,32,39,5.14,1.69,933
-W ,Luis Cessa RP | NYY ,28,16,0,0,0,1,0,0,0,25,10,31,5.14,1.46,935
-W ,Luis Perdomo SP | SD,37,20,8,3,0,2,3,0,0,29,15,42,5.30,1.53,937
-W ,Elieser Hernandez RP | MIA,30,20,0,0,0,1,1,0,0,22,12,31,4.99,1.40,938
-Crime Pays,Domingo German SP | NYY,9,5,0,0,0,0,0,0,0,11,4,8,5.00,1.33,958
-User Abuser,Kyle Zimmer SP | KC ,7,6,0,0,0,0,0,0,0,7,3,7,3.86,1.43,961
-Shits & Giggles,Johnny Cueto SP | SF ,4,3,1,0,0,0,0,0,0,4,1,5,3.86,1.29,965
-W ,Brandon Brennan SP | CHW,8,8,0,0,0,0,0,0,0,8,3,9,4.32,1.44,971
-W ,Andrew Triggs SP | OAK,8,8,0,0,0,0,0,0,0,8,3,8,5.19,1.27,973
-W ,Spencer Turnbull SP | DET,4,4,0,0,0,0,0,0,0,5,2,5,3.86,1.50,975
-Los Cerveceros,Junior Guerra SP | MIL ,7,7,0,0,0,0,1,0,0,8,3,8,4.70,1.43,977
-W ,Nick Green SP | ARI,5,6,0,0,0,0,0,0,0,6,2,6,4.76,1.41,981
-W ,Brett Kennedy SP | SD,10,10,0,0,0,0,0,0,0,10,4,11,5.06,1.41,993
-W ,Jefry Rodriguez SP | CLE,3,2,0,0,0,0,0,0,0,3,2,3,4.91,1.36,998
-W ,Adam Plutko SP | CLE,4,4,0,0,0,0,0,0,0,4,1,5,5.79,1.29,1001
-W ,Luis Ortiz SP | BAL ,136,29,29,13,0,6,13,0,0,111,57,168,5.33,1.65,1002
-W ,Ben Lively SP | KC,8,6,0,0,0,0,1,0,0,6,3,9,4.50,1.50,1006
-W ,Kyle Dowdy SP | NYM,1,2,0,0,0,0,0,0,0,2,1,2,5.40,1.80,1009
-Tittys Warriors,Daniel Gossett SP | OAK ,5,3,1,0,0,0,1,0,0,4,2,6,5.06,1.50,1012
-Whiteness,Sal Romano SP | CIN ,7,8,0,0,0,0,0,0,0,5,3,7,5.14,1.43,1013
-W ,Robert Stephenson SP | CIN ,11,7,0,0,0,0,1,0,0,12,7,11,5.56,1.59,1029
-W ,Wilmer Font RP | TB ,13,9,0,0,0,0,1,0,0,11,5,13,6.23,1.38,1034
-W ,Matt Moore RP | DET ,120,26,26,9,0,4,10,0,0,105,46,154,5.46,1.66,1048
-W ,Ryan Weathers SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Alex Faedo SP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Dylan Baker SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Nick Neidert SP | MIA ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Steven Jennings SP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Zac Lowther SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Tucker Davidson SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Aaron Blair SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Aaron Civale SP | CLE ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Kyle Winkler SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Aaron Slegers SP | PIT ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Brandon McCarthy SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Yennsy Diaz SP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Mark Sappington SP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Tobias Myers SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Roniel Raudes SP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Stephen Gonsalves SP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Marcos Molina SP | NYM ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Johan Oviedo SP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Tommy Collier SP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Edwin Uceta SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Cole Irvin SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,J.C. Sulbaran SP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Tyler Alexander SP | DET ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jeff Locke SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Kieran Lovegrove SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Juan Then SP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Yeudy Garcia SP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Nick Wells SP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Stephen Landazuri SP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Chad Kuhl SP | PIT ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Yoel Mecias SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Austin Hyatt SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Cole Winn SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Alex Scherff SP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jake Kalish SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Odrisamer Despaigne RP | CIN ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jen-Ho Tseng SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-Orange-a-Tangs,Mark Appel SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-Whiteness,Fernando Romero SP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Juan Hillman SP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jorge Reyes SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Luis Escobar SP | PIT ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jake Stinnett SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Kodi Medeiros SP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Yoendrys Gomez SP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Brett Martin SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Joan Gregorio SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Nick Howard SP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Logan Shore SP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Cory Taylor SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Lyon Richardson SP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Brady Aiken SP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Miller Diaz SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Ervin Santana SP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,David Peterson SP | NYM ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Martires Arias SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Tyler Pike SP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Charlie Shirek SP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jake Woodford SP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Ryan Helsley SP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Cristian Javier SP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Francisco Morales SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Adbert Alzolay SP | CHC ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Trey Nielsen SP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Matthias Dietz SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Nabil Crismatt SP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Kris Bubic SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Rafael Kelly SP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Taylor Widener SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Forrest Snow SP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Junior Fernandez SP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Mason Thompson SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Dane Dunning SP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Taylor Clarke SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jesse Scholtens SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Kyle Smith SP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Daniel Camarena SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Spencer Howard SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Franklin Perez SP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Carlos Hernandez SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Danny Gutierrez SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Matt Tabor SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Justin Dunn SP | SEA ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jordan Yamamoto SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Ashe Russell SP | KC ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Andrew Church SP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Devin Williams SP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Freddy Peralta SP | MIL ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Frank Lopez SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Bradin Hagens SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Gage Hinsz SP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Brandon Leibrandt SP | PHI ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Henderson Alvarez SP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Montreal Robertson SP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Carlos Hernandez SP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jose Soriano SP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Adonis Medina SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jordan Balazovic SP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Nick Margevicius SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Conner Menez SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Tanner Houck SP | BOS ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Ofelky Peralta SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Ryan Castellani SP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Michael Mercado SP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Rafael Cova SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Nolan Watson SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Braxton Ashcraft SP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Mat Latos SP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Rookie Davis SP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jose Lopez SP | SF ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Michael Baumann SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-EVIL EMPIRE ,Sixto Sanchez SP | PHI ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Stephen Fife SP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Dillon Peters SP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Rafael De Paula SP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Rico Garcia SP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Josiah Gray SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jose Mujica SP | TB ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Hans Crouse SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Austin Bibens-Dirkx SP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jarret Martin SP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Chris Paddack SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Chris Kohler SP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Javier Assad SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Nick Martinez SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Mitch Brown SP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Michael Rucker SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Alex Lange SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Zach Jemiola SP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Johnny Hellweg SP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Gregory Santos SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Greg Nappo SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Nick Tepesch SP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Michael King SP | NYY ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Freicer Perez SP | NYY ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Alec Grosser SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Javier Medina SP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Mike Shawaryn SP | BOS ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Eduardo Vera SP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Peter Lambert SP | COL ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Corey Black SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Angel Perdomo SP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Darwinzon Hernandez SP | BOS ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jaime Garcia RP | CHC ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Nate Smith SP | LAA ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Patrick Murphy SP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Fabian Williamson SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Marcos Diplan SP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Justin Steele SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Zach Petrick SP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Ryan Atkinson SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jose Albertos SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Brandon Finnegan SP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Alec Hansen SP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Patrick Sandoval SP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jackson Kowar SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jesus Castillo SP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Angel German SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Brandon Bielak SP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Melvin Adon SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Dillon Tate SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Pedro Payano SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Julian Merryweather SP | TOR ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Kevin Matthews SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Eduard Bazardo SP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Logan Gilbert SP | SEA ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Michael Kelly SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jonathan Dziedzic SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Patrick Weigel SP | ATL ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Albert Abreu SP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Logan Webb SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Clarke Schmidt SP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-EVIL EMPIRE ,Mitch Keller SP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Josh Tomlin RP | CLE ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Cole Ragans SP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,A.J. Griffin SP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jeremy Kehrt SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Mitchell White SP | LAD ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Michel Baez SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Victor Payano SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jesus Sanchez SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Tommy Milone SP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Willy Paredes SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Colin Rea SP | CHC ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Carson Sands SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Adrian Morejon SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Spencer Adams SP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jason Groome SP | BOS ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Christian Binford SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Juan Benitez SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Troy Scribner SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Nick Additon SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Carlos Pimentel SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Wil Crowe SP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Brady Lail SP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Braxton Garrett SP | MIA ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Yaisel Sierra SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,John Lackey SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Chase Johnson SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Franklyn Kilome SP | NYM ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Erik Johnson SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Austin Cox SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,D.L. Hall SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Oscar De La Cruz SP | CHC ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Zac Gallen SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Victor Mateo SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Tyler Herb SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Blaine Knight SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Domingo Tapia SP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Parker Dunshee SP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Grant Holmes SP | OAK ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Konner Wade SP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,James Needy SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Juan De Paula SP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Austin Franklin SP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jake Wong SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jose Taveras SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-Tittys Warriors,Brett Anderson SP | OAK ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Felix Doubront SP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Martin Agosta SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Evan Grills SP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Brady Singer SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Keegan Akin SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Connor Jones SP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Austin Smith SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,John Stilson SP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Blake Taylor SP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Alex Young SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,James Kaprielian SP | OAK ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Luis Heredia SP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-User Abuser,Triston McKenzie SP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Nolan Sanburn SP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Joe Gatto SP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,A.J. Puckett SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jake Johansen SP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Dylan Unsworth SP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,David Hurlbut SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Lewis Thorpe SP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Matt Krook SP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Dakota Chalmers SP | OAK ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Ryan Eades SP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Ian Kahaloa SP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Joey Wentz SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Enderson Franco SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Huascar Ynoa SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Peter Tago SP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Matt Crouse SP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Kyle Funkhouser SP | DET ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jon Harris SP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jhondaniel Medina SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-Los Cerveceros,A.J. Puk SP | OAK ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,A.J. Alexy SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Yovani Gallardo SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Marco Duarte SP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Chris Tillman SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Dario Agrazal SP | PIT ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Erasmo Ramirez SP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Tom Eshelman SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Starling Peralta SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Vladimir Gutierrez SP | CIN ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,James Shields SP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Seth Romero SP | WAS ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Denyi Reyes SP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Bryan Hudson SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Kutter Crawford SP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Brody Colvin SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Juan Sandoval SP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jeffrey Rosa SP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Hunter Adkins SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Casey Mize SP | DET ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Teddy Stankiewicz SP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-EVIL EMPIRE ,MacKenzie Gore SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Thomas Hatch SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Domingo Acevedo SP | NYY ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,JoJo Romero SP | PHI ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Ethan Hankins SP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-Disco Bush Horticulturists,Clayton Blackburn SP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Travis Banwart SP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Matt Manning SP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Ryan Rolison SP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Garrett Davila SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Riley Pint SP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-Los Cerveceros,Hunter Harvey SP | BAL ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Elniery Garcia SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Robinson Ortiz SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Griffin Canning SP | LAA ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Tim Lincecum SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Taylor Hearn SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Braydon Fisher SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Ubaldo Jimenez SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,J.T. Ginn SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Alex Wells SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Brendan McKay SP | TB ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Akeem Bostick SP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Endrys Briceno SP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jon Duplantier SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jose Suarez SP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-EVIL EMPIRE ,Michael Kopech SP | CHW ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jeff Ames SP | TB ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Yadier Alvarez SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Packy Naughton SP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jorge Guzman SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jorge Alcala SP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Chi Chi Gonzalez SP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,D.J. Baxendale SP | MIN ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Tom Windle SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Santiago Garrido SP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Brailyn Marquez SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Stephen Janas SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Rogelio Armenteros SP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Adonys Cardona SP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Carson Fulmer SP | CHW ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Brendon Little SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,John Lamb SP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Kyle Kendrick SP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Scott Kazmir SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Ariel Miranda SP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jose Mesa SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Dylan Thompson SP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Burch Smith RP | MIL ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Mason Denaburg SP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Ryan Merritt SP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Bryan Mata SP | BOS ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Duncan Robinson SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Bernardo Flores SP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Henry Owens SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Rafael Montero SP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Anthony Kay SP | NYM ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-User Abuser,Tyler Kolek SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Hector Daniel Rodriguez SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Corey Littrell SP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Tyler Phillips SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Cody Reed SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Daniel Lynch SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Robert Dugger SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Robert Zarate SP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Bartolo Colon SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Ryan Hartman SP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jordan Holloway SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Francisco Rios SP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Branden Kline SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jaron Long SP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Brusdar Graterol SP | MIN ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,P.J. Conlon SP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,T.J. Zeuch SP | TOR ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Evan Kruczynski SP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Kevin Gowdy SP | PHI ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Sam Coonrod SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Trevor Rogers SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Norge Ruiz SP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Adrian Sampson SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Trevor Oaks SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Mike Nikorak SP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Ryan Carpenter SP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Trevor Stephan SP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Hector Perez SP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Nate Pearson SP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Tony Gonsolin SP | LAD ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Gabriel Alfaro SP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Colin Kleven SP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jesus Tinoco SP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Felix Jorge SP | CIN ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Chris Rodriguez SP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Kevin Ziomek SP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Deivi Garcia SP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jhoan Duran SP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,J.B. Bukauskas SP | HOU ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Brian Clark SP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Cody Ponce SP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Cesar Vargas SP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Tony Santillan SP | CIN ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Will Roberts SP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jordan Johnson SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Eric Pardinho SP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Gregory Soto SP | DET ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Carter Stewart SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Josh Sborz SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Kyle Muller SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-EVIL EMPIRE ,Hunter Greene SP | CIN ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Sam Selman SP | KC ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Zack Brown SP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Phillippe Aumont SP | CHW ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jonathan Hernandez SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Luis Diaz SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jasseel De La Cruz SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Ricardo Sanchez SP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-Orange-a-Tangs,Lance McCullers SP | HOU ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Roansy Contreras SP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Sam Hentges SP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jonathon Crawford SP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Ricky Nolasco SP | ARI ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Dylan Cease SP | CHW ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Scott Blewett SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Chris Anderson SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Will Stewart SP | MIA ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Gerardo Carrillo SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Garrett Whitlock SP | NYY ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Barret Loux SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Joan Baez SP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Zack Bird SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jordan Pries SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Blayne Enlow SP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Cameron Bishop SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Garrett Fulenchek SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Doug Fister SP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Cody Satterwhite SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Matt Sauer SP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Yefri Del Rosario SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Beau Burrows SP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Darin Gorski SP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Kyle Lloyd SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Foster Griffin SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Luis Gil SP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Austin Wood SP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Corbin Martin SP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Ian Clarkin SP | CHW ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Trevor Clifton SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Cal Quantrill SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Conner Greene SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Bobby Bundy SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Duane Underwood SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Dustin May SP | LAD ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Genesis Cabrera SP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Shane McClanahan SP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Justin Maese SP | TOR ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Ismael Guillon SP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Kyle Haynes SP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jon Perrin SP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-Crime Pays,Tyler Beede SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Brandon Waddell SP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Luis Mateo SP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Williams Perez SP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Thomas Szapucki SP | NYM ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Ryan Williams SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Zach Nuding SP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Lupe Chavez SP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Hisashi Iwakuma SP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Drew Hutchison RP | NYY ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jordan Stephens SP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Braulio Lara SP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Luis Rijo SP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Miguel Gonzalez SP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Andrew Albers SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Ranger Suarez SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Alex Meyer SP | LAA ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Willy Ortiz SP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Tyler DeLoach SP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jairo Solis SP | HOU ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Anthony Vasquez SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jonathon Niese SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Max Fried SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Emilio Vargas SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Dace Kime SP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Raul Alcantara SP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Andrew Thurman SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Michael Matuella SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Luis Patino SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Gerson Garabito SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Edgar Osuna SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Matthew Liberatore SP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Zach Lovvorn SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Elijah Morgan SP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Alex Balog SP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Alvaro Seijas SP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Joe Palumbo SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Walker Lockett SP | NYM ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Casey Crosby SP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-Los Cerveceros,Clay Buchholz SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Ramon Benjamin SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Francisco Liriano SP | PIT ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Brent Suter SP | MIL ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Kyle Young SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Trey Ball SP | BOS ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Cody Sedlock SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Christian Bergman SP | CHC ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Bryan Evans SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Dietrich Enns SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Ljay Newsome SP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Tahnaj Thomas SP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Shaun Anderson SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Dean Kremer SP | BAL ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Luis Medina SP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Josh Pennington SP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jose Martinez SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Ian Oxnevad SP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jordan Guerrero SP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,"Kendall Graveman SP | CHC ",0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Edward Cabrera SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Luis Oviedo SP | CLE ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Danny Rosenbaum SP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Brett Adcock SP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Jimmy Lambert SP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-Old Dirty Bugg,Anderson Espinoza SP | SD ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Pedro Avila SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Daulton Jefferies SP | OAK ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Sam Carlson SP | SEA ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Shane Baz SP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Grayson Rodriguez SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Skylar Szynski SP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Edwin Jackson SP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Ian Anderson SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Andrew Barbosa SP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-EVIL EMPIRE ,Garrett Richards SP | SD ,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-W ,Terry Doyle SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,9999
-Report Updated as of  2/15/19  7:20 PM EST
+Player,INNs	APP	GS	QS	CG	W	L	S	BS	K	BB	H	ERA	WHIP	Rank	
+"Max Scherzer SP  WAS"	206	33	33	30	2	17	7	0	0	256	57	159	2.96	1.05	7
+"Chris Sale SP  BOS "	165	29	29	20	0	14	5	0	0	213	38	137	2.72	1.06	13
+"Jacob deGrom SP  NYM "	197	31	31	28	1	14	8	0	0	224	51	163	2.46	1.08	14
+"Justin Verlander SP  HOU "	197	33	33	27	1	18	7	0	0	243	60	164	3.10	1.13	21
+"Corey Kluber SP  CLE"	205	32	32	25	3	18	7	0	0	224	48	191	3.34	1.17	22
+"Blake Snell SP  TB"	180	33	33	19	0	18	7	0	0	199	74	143	2.99	1.20	27
+"Aaron Nola SP  PHI "	178	30	30	25	0	14	8	0	0	193	56	160	3.33	1.21	28
+"Trevor Bauer SP  CLE "	190	33	33	24	0	18	7	0	0	227	58	173	3.22	1.22	34
+"Gerrit Cole SP  HOU "	194	33	33	24	1	15	8	0	0	254	63	167	3.61	1.18	35
+"Clayton Kershaw SP  LAD"	176	29	29	23	0	14	6	0	0	176	44	145	2.71	1.07	37
+"Noah Syndergaard SP  NYM "	184	33	33	21	2	15	6	0	0	188	47	178	3.38	1.22	40
+"Luis Severino SP  NYY "	194	33	33	20	1	17	9	0	0	219	54	170	3.33	1.15	45
+"Patrick Corbin SP  WAS"	165	29	29	19	1	14	6	0	0	191	43	147	3.27	1.15	46
+"Carlos Carrasco SP  CLE"	188	32	32	21	2	17	9	0	0	221	44	168	3.44	1.12	47
+"Zack Greinke SP  ARI "	183	31	31	22	0	14	10	0	0	195	49	168	3.63	1.18	50
+"Walker Buehler SP  LAD "	176	30	30	17	0	10	4	0	0	192	42	133	2.76	0.99	53
+"James Paxton SP  NYY "	173	31	31	19	2	16	5	0	0	224	52	154	3.38	1.19	65
+"Stephen Strasburg SP  WAS"	166	29	29	21	0	14	8	0	0	197	51	149	3.19	1.20	67
+"Mike Clevinger SP  CLE"	173	30	30	21	1	16	5	0	0	201	57	148	3.07	1.19	73
+"German Marquez SP  COL"	162	30	30	19	0	12	10	0	0	180	49	161	3.82	1.29	76
+"Carlos Martinez SP  STL "	160	29	29	18	1	11	9	0	0	168	58	145	3.31	1.26	89
+"Madison Bumgarner SP  SF"	189	32	32	24	1	11	10	0	0	170	62	186	3.62	1.31	90
+"Jack Flaherty SP  STL"	151	30	30	11	0	11	7	0	0	170	49	115	2.97	1.08	97
+"David Price SP  BOS"	165	30	30	20	1	15	8	0	0	174	50	153	3.59	1.23	98
+"Chris Archer SP  PIT "	174	33	33	18	0	10	7	0	0	208	56	183	3.92	1.37	108
+"Jose Berrios SP  MIN"	184	33	33	20	2	15	10	0	0	198	69	163	3.70	1.26	116
+"Jameson Taillon SP  PIT "	181	33	33	21	2	13	11	0	0	171	45	177	3.52	1.22	117
+"Charlie Morton SP  TB"	176	33	33	19	0	17	5	0	0	186	62	154	3.57	1.23	126
+"Mike Foltynewicz SP  ATL "	161	30	30	14	1	14	9	0	0	169	56	137	3.29	1.20	129
+"Zack Wheeler SP  NYM "	179	32	32	20	0	13	8	0	0	186	58	163	3.26	1.23	130
+"Miles Mikolas SP  STL"	175	30	30	21	1	14	6	0	0	151	33	174	3.28	1.18	131
+"Masahiro Tanaka SP  NYY"	160	28	28	18	1	15	7	0	0	173	42	151	3.93	1.20	132
+"Yu Darvish SP  CHC "	137	26	26	15	0	8	8	0	0	143	52	126	4.05	1.29	134
+"Shohei Ohtani DH  LAA "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	135
+"Cole Hamels SP  CHC "	183	32	32	19	1	15	8	0	0	181	66	164	3.49	1.25	140
+"J.A. Happ SP  NYY "	150	27	27	15	0	15	7	0	0	168	51	133	3.58	1.22	141
+"Luis Castillo SP  CIN "	154	30	30	14	0	9	10	0	0	154	46	144	3.96	1.23	142
+"Robbie Ray SP  ARI "	159	31	31	14	0	11	4	0	0	209	65	132	3.44	1.23	148
+"Andrew Heaney SP  LAA "	162	30	30	18	1	11	8	0	0	181	44	161	3.83	1.27	152
+"Rick Porcello SP  BOS "	162	29	29	15	1	14	8	0	0	159	45	164	4.26	1.28	153
+"Dallas Keuchel SP  HOU "	151	29	29	17	1	13	8	0	0	119	45	147	3.57	1.27	154
+"Yusei Kikuchi SP  SEA "	167	33	33	17	0	11	10	0	0	139	52	172	3.97	1.34	155
+"Alex Reyes SP  STL "	40	23	10	4	0	4	4	0	0	40	16	41	4.21	1.40	156
+"Eduardo Rodriguez SP  BOS "	149	29	29	12	0	12	7	0	0	171	49	143	3.85	1.28	164
+"Jose Quintana SP  CHC"	153	29	29	15	0	12	9	0	0	160	58	138	3.75	1.28	165
+"Jon Gray SP  COL "	168	32	32	16	0	12	10	0	0	176	49	171	4.01	1.31	166
+"Tyler Skaggs SP  LAA "	156	32	32	16	0	12	11	0	0	162	50	159	4.25	1.33	167
+"Joe Musgrove SP  PIT "	154	29	29	14	0	11	12	0	0	133	39	167	3.90	1.33	169
+"Rich Hill SP  LAD"	136	26	26	10	0	12	5	0	0	144	45	105	2.83	1.10	173
+"Kyle Hendricks SP  CHC "	164	30	30	18	0	14	7	0	0	153	42	156	3.62	1.21	174
+"Kyle Freeland SP  COL"	166	30	30	22	0	12	10	0	0	144	58	171	3.46	1.37	177
+"Zack Godley SP  ARI"	169	32	32	17	0	14	11	0	0	183	66	167	4.08	1.37	182
+"Hyun-Jin Ryu SP  LAD "	129	26	26	12	0	11	5	0	0	138	29	120	3.14	1.16	206
+"Sean Newcomb SP  ATL "	144	29	29	16	0	13	7	0	0	148	61	127	3.36	1.30	208
+"Nick Pivetta SP  PHI "	137	29	29	10	0	8	10	0	0	155	44	136	4.26	1.31	209
+"Tyler Glasnow RP  TB "	134	29	29	11	0	6	7	0	0	158	56	118	4.41	1.29	211
+"Nathan Eovaldi SP  BOS "	142	29	29	14	0	15	6	0	0	142	27	139	3.53	1.16	215
+"Jon Lester SP  CHC "	176	33	33	19	0	16	7	0	0	164	61	173	3.38	1.33	216
+"Kenta Maeda SP  LAD "	130	26	26	7	0	13	5	0	0	141	36	117	3.38	1.17	219
+"Jimmy Nelson SP  MIL "	182	32	32	21	1	13	7	0	0	192	56	179	3.76	1.29	220
+"Shane Bieber SP  CLE"	158	29	29	16	0	16	7	0	0	169	37	161	4.31	1.25	221
+"Alex Wood SP  CIN "	155	30	30	17	0	11	7	0	0	146	48	153	3.72	1.30	223
+"Ross Stripling SP  LAD "	147	30	30	12	0	12	7	0	0	167	31	153	3.30	1.25	238
+"Jake Arrieta SP  PHI "	158	30	30	17	0	12	9	0	0	152	48	148	3.70	1.24	243
+"Marco Gonzales SP  SEA"	156	30	30	13	1	12	9	0	0	141	39	161	3.62	1.28	244
+"Josh James SP  HOU"	149	29	29	12	0	12	6	0	0	172	52	142	4.16	1.30	246
+"Carlos Rodon SP  CHW "	162	30	30	19	0	10	10	0	0	152	66	138	3.94	1.26	252
+"Kyle Gibson SP  MIN "	180	33	33	18	0	12	12	0	0	166	68	180	4.09	1.38	254
+"Dylan Bundy SP  BAL "	170	33	33	20	1	11	14	0	0	173	52	185	4.70	1.39	261
+"Vince Velasquez SP  PHI "	117	26	26	10	0	8	8	0	0	132	42	113	4.22	1.32	263
+"Sonny Gray SP  CIN "	143	29	29	14	0	11	12	0	0	129	61	152	4.52	1.49	270
+"Marcus Stroman SP  TOR "	176	33	33	17	1	9	13	0	0	155	62	192	4.44	1.44	271
+"Reynaldo Lopez SP  CHW"	138	26	26	17	0	6	8	0	0	114	61	139	4.09	1.44	276
+"Jhoulys Chacin SP  MIL "	176	33	33	14	0	14	9	0	0	148	66	154	3.48	1.25	334
+"Chase Anderson SP  MIL"	168	33	33	15	0	13	7	0	0	153	61	148	3.64	1.24	348
+"Anibal Sanchez SP  WAS "	147	29	29	15	0	10	7	0	0	151	39	133	3.35	1.16	351
+"Brad Keller RP  KC "	179	32	32	18	2	14	7	0	0	139	57	184	3.16	1.34	355
+"Joey Lucchesi SP  SD"	156	33	33	8	0	12	10	0	0	159	53	152	3.74	1.31	384
+"Jesus Luzardo SP  OAK "	168	33	33	17	0	13	9	0	0	155	56	163	3.96	1.30	387
+"Trevor Williams SP  PIT "	152	29	29	17	1	13	8	0	0	124	50	150	3.43	1.31	392
+"Mike Minor SP  TEX "	153	30	30	15	0	14	8	0	0	131	43	151	4.06	1.27	393
+"Michael Wacha SP  STL "	147	29	29	16	0	15	6	0	0	132	57	140	3.98	1.34	398
+"Julio Teheran SP  ATL "	174	32	32	20	0	10	10	0	0	166	70	148	3.92	1.25	400
+"Touki Toussaint SP  ATL"	150	29	29	12	0	10	9	0	0	145	56	131	3.77	1.24	407
+"Ryan Yarbrough RP  TB"	157	32	26	10	0	11	9	0	0	146	49	150	3.90	1.27	408
+"Jason Vargas SP  NYM "	124	26	26	9	0	13	9	0	0	118	37	124	3.76	1.29	410
+"Dereck Rodriguez SP  SF"	169	33	33	27	0	9	7	0	0	136	48	168	3.45	1.27	421
+"Jaime Barria SP  LAA"	132	29	29	6	0	13	9	0	0	115	49	129	3.81	1.35	427
+"CC Sabathia SP  NYY "	130	26	26	11	0	11	5	0	0	121	44	127	3.67	1.32	432
+"Tyler Anderson SP  COL "	147	29	29	15	0	9	7	0	0	142	49	142	3.67	1.30	433
+"Tanner Roark SP  CIN "	159	29	29	19	0	11	11	0	0	148	52	160	4.17	1.33	441
+"Steven Matz SP  NYM "	141	29	29	12	0	6	9	0	0	142	47	132	3.25	1.27	442
+"Kevin Gausman SP  ATL "	168	31	31	17	0	13	9	0	0	158	58	181	4.28	1.42	444
+"Daniel Mengden SP  OAK "	172	32	32	16	2	11	13	0	0	125	48	168	4.13	1.26	447
+"Luke Weaver SP  ARI "	141	29	29	11	0	10	11	0	0	148	49	144	3.94	1.36	448
+"Wade LeBlanc SP  SEA"	145	29	29	12	0	8	7	0	0	123	46	136	3.66	1.26	459
+"Danny Duffy SP  KC"	138	26	26	12	0	12	8	0	0	130	49	148	4.04	1.43	464
+"Jeremy Hellickson SP  WAS "	140	29	29	8	0	9	6	0	0	124	39	134	4.22	1.23	466
+"Jose Urena SP  MIA "	167	33	33	15	1	11	11	0	0	134	61	166	4.09	1.36	468
+"Frankie Montas SP  OAK"	137	26	26	13	0	11	9	0	0	105	46	140	3.73	1.35	472
+"Zach Davies SP  MIL "	149	29	29	11	0	12	9	0	0	122	47	154	4.33	1.34	473
+"Wade Miley SP  HOU "	132	29	29	9	0	8	6	0	0	116	50	127	3.39	1.33	478
+"Mike Fiers SP  OAK"	156	30	30	15	0	9	10	0	0	132	50	156	3.98	1.32	480
+"Andrew Suarez SP  SF"	149	29	29	12	0	8	11	0	0	132	46	153	3.75	1.34	486
+"Zach Eflin SP  PHI"	130	26	26	11	0	12	8	0	0	131	40	139	4.75	1.37	491
+"Nick Tropeano SP  LAA "	155	27	27	9	0	10	10	0	0	147	62	143	4.63	1.32	494
+"Adam Wainwright SP  STL"	125	26	26	9	0	11	9	0	0	118	45	134	4.15	1.42	503
+"Sergio Romo RP  TB "	54	62	0	0	0	3	1	24	5	70	20	57	4.67	1.43	504
+"Michael Pineda SP  MIN "	154	29	29	17	0	13	7	0	0	147	43	184	4.71	1.47	506
+"Jeff Samardzija SP  SF "	143	27	27	13	1	9	10	0	0	128	47	144	4.27	1.33	510
+"Antonio Senzatela SP  COL "	152	29	29	10	0	10	9	0	0	123	51	159	4.08	1.38	512
+"Wei-Yin Chen SP  MIA"	133	27	27	12	0	7	12	0	0	115	49	128	3.59	1.33	513
+"Matthew Boyd SP  DET "	171	33	33	16	0	8	15	0	0	160	59	170	4.53	1.34	520
+"Matt Harvey SP  LAA "	142	29	29	9	0	9	8	0	0	130	43	150	4.42	1.35	523
+"Matt Strahm RP  SD"	111	26	26	7	0	6	7	0	0	112	38	106	3.73	1.30	525
+"Ryan Borucki SP  TOR "	154	29	29	21	0	8	9	0	0	131	65	155	3.79	1.43	528
+"Trevor Richards SP  MIA "	130	29	29	11	0	5	10	0	0	140	55	123	3.79	1.36	530
+"Robbie Erlin RP  SD "	143	30	30	7	0	10	11	0	0	124	36	162	4.53	1.38	533
+"Jake Junis SP  KC"	166	31	31	16	1	10	11	0	0	155	51	186	4.70	1.42	536
+"Jordan Lyles RP  PIT "	139	26	26	10	0	7	11	0	0	125	42	147	4.01	1.36	538
+"Merrill Kelly SP  ARI"	131	26	26	12	0	8	9	0	0	128	48	138	4.11	1.42	539
+"Anthony DeSclafani SP  CIN "	141	29	29	8	0	8	12	0	0	148	43	147	4.84	1.34	540
+"Ivan Nova SP  CHW"	175	33	33	19	1	10	12	0	0	133	50	188	4.61	1.35	542
+"Michael Fulmer SP  DET "	143	26	26	15	0	8	10	0	0	127	48	146	4.34	1.36	544
+"Adalberto Mejia SP  MIN"	172	29	29	3	0	9	7	0	0	138	77	179	3.82	1.49	545
+"Dan Straily SP  MIA "	133	27	27	11	0	6	7	0	0	121	51	128	3.92	1.34	548
+"Caleb Smith SP  MIA "	141	33	33	11	0	7	15	0	0	142	58	139	4.28	1.40	549
+"Diego Castillo RP  TB"	58	51	0	0	0	4	4	1	0	74	21	41	3.57	1.07	558
+"Jake Odorizzi SP  MIN "	153	32	32	12	0	10	8	0	0	144	68	158	4.59	1.48	559
+"Marco Estrada SP  OAK "	141	29	29	14	0	10	9	0	0	119	49	150	4.66	1.41	561
+"Mike Leake SP  SEA"	156	29	29	19	0	8	12	0	0	116	38	173	4.31	1.35	562
+"Shelby Miller SP  TEX "	141	29	29	9	0	11	12	0	0	114	52	149	4.76	1.42	563
+"Felix Hernandez SP  SEA "	146	29	29	10	0	10	11	0	0	125	51	156	4.74	1.41	564
+"Jordan Zimmermann SP  DET "	160	32	32	12	0	9	11	0	0	134	40	180	4.76	1.37	565
+"Sean Reid-Foley SP  TOR"	129	26	26	9	0	7	11	0	0	121	48	129	4.33	1.37	568
+"Ian Kennedy SP  KC "	141	29	29	12	0	6	9	0	0	130	49	147	4.21	1.39	577
+"Yonny Chirinos RP  TB"	85	24	17	6	0	5	5	0	0	77	27	80	3.68	1.25	579
+"Matt Shoemaker SP  TOR"	136	29	29	6	0	7	13	0	0	127	51	135	4.68	1.36	586
+"Trevor Cahill SP  LAA"	157	33	33	14	0	9	7	0	0	143	62	170	4.64	1.48	591
+"Alex Cobb SP  BAL"	152	30	30	17	1	8	13	0	0	120	44	170	4.48	1.40	596
+"Lance Lynn SP  TEX"	147	30	30	14	0	11	8	0	0	128	68	154	4.88	1.50	598
+"Bryan Mitchell SP  SD"	140	29	29	10	0	7	10	0	0	110	55	143	4.31	1.41	617
+"Logan Allen SP  SD "	161	32	32	15	0	8	13	0	0	150	61	181	4.70	1.50	628
+"Nate Karns SP  BAL "	146	29	29	13	0	7	10	0	0	129	47	162	4.67	1.43	631
+"Drew Pomeranz RP  SF "	121	26	26	11	0	7	9	0	0	109	50	131	4.29	1.49	638
+"Seth Lugo RP  NYM "	78	52	0	0	0	1	2	1	0	77	21	73	3.33	1.20	641
+"Edinson Volquez SP  TEX"	148	29	29	11	2	8	11	0	0	119	60	151	4.85	1.42	654
+"Martin Perez SP  MIN "	146	29	29	12	0	11	9	0	0	109	56	172	4.75	1.56	668
+"Jorge Lopez RP  KC"	128	26	26	11	0	8	10	0	0	105	40	145	4.85	1.45	670
+"Brent Honeywell SP  TB "	82	16	16	8	0	6	5	0	0	75	31	86	4.39	1.43	676
+"Framber Valdez SP  HOU"	40	23	11	3	0	5	3	0	0	39	20	34	3.57	1.34	689
+"Ryne Stanek RP  TB"	47	61	0	0	0	2	2	1	0	67	23	40	3.83	1.34	707
+"Gio Gonzalez SP  MIL"	41	23	11	5	0	5	4	0	0	37	18	38	3.95	1.37	712
+"Tyson Ross SP  DET"	146	29	29	14	0	7	14	0	0	123	60	151	5.09	1.44	716
+"Forrest Whitley SP  HOU "	38	23	11	4	0	5	3	0	0	38	15	39	4.46	1.41	729
+"Lucas Giolito SP  CHW "	145	29	29	16	0	9	11	0	0	105	71	141	5.33	1.46	737
+"Gabriel Moya RP  MIN"	46	52	0	0	0	4	1	1	0	45	17	46	4.89	1.37	750
+"Felix Pena SP  LAA"	49	23	11	5	0	3	3	0	0	48	17	48	4.35	1.31	751
+"Chris Bassitt SP  OAK"	39	22	9	3	0	3	4	0	0	37	16	37	3.66	1.35	752
+"Mike Soroka SP  ATL "	42	23	10	4	0	4	4	0	0	40	15	45	4.29	1.43	756
+"Sandy Alcantara SP  MIA"	47	23	12	5	0	3	5	0	0	45	28	40	3.80	1.44	762
+"Manny Banuelos SP  CHW "	127	26	26	12	0	7	10	0	0	108	59	141	4.94	1.57	771
+"Andrew Cashner SP  BAL "	141	27	27	16	0	7	12	0	0	101	56	159	4.78	1.52	775
+"Matt Koch SP  ARI"	43	23	10	4	0	4	5	0	0	25	11	45	4.39	1.30	776
+"Thomas Pannone SP  TOR"	47	23	11	5	0	3	5	0	0	39	18	45	4.37	1.33	781
+"Blaine Hardy RP  DET "	55	59	0	0	0	2	1	0	0	46	16	58	4.04	1.33	788
+"Pablo Lopez SP  MIA "	42	22	10	5	0	3	4	0	0	38	15	43	4.43	1.36	789
+"Austin Voth SP  WAS"	30	20	7	3	0	4	2	0	0	29	12	30	5.10	1.40	790
+"Nick Kingham SP  PIT "	37	22	9	4	0	4	4	0	0	35	13	39	5.11	1.41	791
+"Yohander Mendez SP  TEX"	53	23	11	4	0	5	5	0	0	36	24	51	5.06	1.41	792
+"Erik Swanson SP  SEA"	37	22	9	4	0	3	4	0	0	37	14	38	4.58	1.39	795
+"Drew Smyly SP  TEX"	159	32	32	15	0	9	11	0	0	122	65	188	5.14	1.59	798
+"Jake Faria SP  TB"	37	20	8	3	0	3	3	0	0	32	17	33	4.62	1.35	804
+"Joe Ross SP  WAS "	37	23	10	5	0	4	3	0	0	30	10	43	5.02	1.41	806
+"Danny Salazar SP  CLE "	24	15	6	2	0	2	2	0	0	36	11	23	4.44	1.40	808
+"Derek Holland SP  SF "	41	23	10	4	0	3	4	0	0	40	19	42	4.54	1.46	810
+"Dylan Covey SP  CHW "	50	23	10	3	0	4	7	0	0	38	20	50	5.15	1.38	811
+"Kohl Stewart SP  MIN"	37	20	7	2	0	3	3	0	0	33	17	38	4.30	1.46	812
+"Josh Rogers SP  BAL"	48	23	11	4	0	3	6	0	0	45	18	50	4.88	1.42	813
+"Andrew Moore SP  TB"	31	19	6	3	0	3	2	0	0	23	8	32	4.88	1.28	815
+"Corey Oswalt SP  NYM"	40	23	10	3	0	4	3	0	0	29	12	41	5.58	1.31	816
+"Dinelson Lamet SP  SD "	20	12	4	2	0	2	2	0	0	26	10	16	4.79	1.26	817
+"David Hess SP  BAL"	44	22	9	4	0	3	4	0	0	33	16	44	4.84	1.34	822
+"John Gant SP  STL"	28	16	0	0	0	2	1	0	0	24	15	24	3.77	1.36	824
+"Chris Ellis SP  KC"	30	19	6	2	0	2	3	0	0	31	12	30	4.40	1.37	826
+"Heath Fillmyer SP  KC"	47	24	0	0	0	2	2	1	0	34	19	46	4.34	1.36	827
+"Erick Fedde SP  WAS "	37	23	10	2	0	4	3	0	0	36	16	41	5.50	1.51	829
+"Sean Manaea SP  OAK "	13	8	3	2	0	2	1	0	0	10	3	13	3.95	1.17	839
+"Eric Lauer SP  SD"	48	23	12	3	0	3	4	0	0	44	20	55	4.50	1.56	840
+"Homer Bailey SP  KC "	30	20	8	2	0	5	2	0	0	22	10	38	6.00	1.60	841
+"Ariel Jurado SP  TEX"	46	22	9	3	0	3	5	0	0	30	15	48	4.86	1.36	843
+"Tyler Mahle SP  CIN "	45	23	10	3	0	3	5	0	0	45	21	49	4.80	1.56	844
+"Jordan Montgomery SP  NYY "	15	9	4	1	0	2	1	0	0	14	6	14	4.11	1.30	847
+"Steven Brault RP  PIT "	44	23	10	3	0	4	3	0	0	40	28	45	4.84	1.63	848
+"Daniel Norris SP  DET "	50	23	11	2	0	2	5	0	0	52	20	52	4.97	1.42	849
+"Clayton Richard SP  TOR "	47	23	11	5	0	3	5	0	0	34	16	49	4.98	1.38	850
+"Jacob Nix SP  SD"	42	22	10	4	0	3	5	0	0	33	14	44	5.27	1.36	852
+"Chris Stratton SP  SF"	38	22	9	4	0	3	5	0	0	31	15	40	4.97	1.45	854
+"Austin Gomber RP  STL"	35	22	9	4	0	3	3	0	0	33	16	40	4.58	1.58	855
+"Jason Hammel RP  TEX "	42	20	8	3	0	3	3	0	0	33	11	48	5.27	1.38	859
+"Chase De Jong SP  MIN "	23	12	0	0	0	2	1	1	0	18	9	23	4.70	1.39	860
+"Jarlin Garcia RP  MIA"	55	68	0	0	0	2	3	1	0	41	23	52	5.01	1.35	863
+"Chad Bettis SP  COL "	42	23	10	4	0	3	2	0	0	29	15	43	5.14	1.38	864
+"Cody Reed RP  CIN "	38	20	7	2	0	2	3	0	0	40	19	40	4.46	1.54	865
+"Jeff Brigham SP  MIA"	37	20	8	3	0	2	4	0	0	36	17	37	4.78	1.43	866
+"Sam Gaviglio SP  TOR"	38	20	7	1	0	2	3	0	0	32	12	40	4.93	1.36	870
+"Ty Blach RP  SF"	37	20	7	3	0	3	4	0	0	21	12	42	4.62	1.46	876
+"JC Ramirez SP  LAA "	23	13	5	2	0	2	3	0	0	17	9	24	4.56	1.39	881
+"Hunter Wood RP  TB"	33	29	0	0	0	1	1	1	0	38	16	38	4.05	1.62	885
+"Jimmy Yacabonis SP  BAL"	42	20	7	2	0	2	4	0	0	33	20	39	4.89	1.39	887
+"Aaron Sanchez SP  TOR "	126	26	26	10	0	5	8	0	0	111	55	147	5.06	1.60	890
+"Jesse Hahn SP  KC "	27	14	6	3	0	2	2	0	0	23	10	29	4.94	1.43	892
+"Mike Montgomery RP  CHC "	25	18	0	0	0	1	1	0	0	19	9	25	3.96	1.36	893
+"Brian Johnson RP  BOS"	59	42	0	0	0	1	3	1	0	54	23	67	4.42	1.53	898
+"Paul Blackburn SP  OAK"	28	19	6	2	0	2	2	0	0	16	7	31	5.02	1.33	900
+"Taijuan Walker SP  ARI "	16	10	4	2	0	1	2	0	0	15	7	17	3.78	1.44	903
+"Hector Santiago RP  NYM "	24	17	0	0	0	2	1	0	0	24	14	25	4.88	1.62	908
+"Matt Andriese RP  ARI "	26	16	0	0	0	1	2	0	0	27	9	29	5.06	1.43	918
+"Hector Velazquez RP  BOS"	10	8	0	0	0	1	0	0	0	7	3	12	3.60	1.50	921
+"Yefry Ramirez SP  BAL"	35	19	6	1	0	1	3	0	0	35	18	32	5.30	1.40	922
+"Liam Hendriks RP  OAK "	15	19	0	0	0	1	0	0	0	20	7	17	5.28	1.57	926
+"Eric Skoglund SP  KC "	16	8	4	1	0	1	1	0	0	12	5	16	5.40	1.26	930
+"Jharel Cotton SP  OAK "	11	8	2	0	0	1	1	0	0	9	4	11	5.56	1.32	931
+"Tyler Chatwood SP  CHC"	42	23	10	2	0	3	5	0	0	35	32	39	5.14	1.69	933
+"Luis Cessa RP  NYY "	28	16	0	0	0	1	0	0	0	25	10	31	5.14	1.46	935
+"Luis Perdomo SP  SD"	37	20	8	3	0	2	3	0	0	29	15	42	5.30	1.53	937
+"Elieser Hernandez RP  MIA"	30	20	0	0	0	1	1	0	0	22	12	31	4.99	1.40	938
+"Domingo German SP  NYY"	9	5	0	0	0	0	0	0	0	11	4	8	5.00	1.33	958
+"Kyle Zimmer SP  KC "	7	6	0	0	0	0	0	0	0	7	3	7	3.86	1.43	961
+"Johnny Cueto SP  SF "	4	3	1	0	0	0	0	0	0	4	1	5	3.86	1.29	965
+"Brandon Brennan SP  CHW"	8	8	0	0	0	0	0	0	0	8	3	9	4.32	1.44	971
+"Andrew Triggs SP  OAK"	8	8	0	0	0	0	0	0	0	8	3	8	5.19	1.27	973
+"Spencer Turnbull SP  DET"	4	4	0	0	0	0	0	0	0	5	2	5	3.86	1.50	975
+"Junior Guerra SP  MIL "	7	7	0	0	0	0	1	0	0	8	3	8	4.70	1.43	977
+"Nick Green SP  ARI"	5	6	0	0	0	0	0	0	0	6	2	6	4.76	1.41	981
+"Brett Kennedy SP  SD"	10	10	0	0	0	0	0	0	0	10	4	11	5.06	1.41	993
+"Jefry Rodriguez SP  CLE"	3	2	0	0	0	0	0	0	0	3	2	3	4.91	1.36	998
+"Adam Plutko SP  CLE"	4	4	0	0	0	0	0	0	0	4	1	5	5.79	1.29	1001
+"Luis Ortiz SP  BAL "	136	29	29	13	0	6	13	0	0	111	57	168	5.33	1.65	1002
+"Ben Lively SP  KC"	8	6	0	0	0	0	1	0	0	6	3	9	4.50	1.50	1006
+"Kyle Dowdy SP  NYM"	1	2	0	0	0	0	0	0	0	2	1	2	5.40	1.80	1009
+"Daniel Gossett SP  OAK "	5	3	1	0	0	0	1	0	0	4	2	6	5.06	1.50	1012
+"Sal Romano SP  CIN "	7	8	0	0	0	0	0	0	0	5	3	7	5.14	1.43	1013
+"Robert Stephenson SP  CIN "	11	7	0	0	0	0	1	0	0	12	7	11	5.56	1.59	1029
+"Wilmer Font RP  TB "	13	9	0	0	0	0	1	0	0	11	5	13	6.23	1.38	1034
+"Matt Moore RP  DET "	120	26	26	9	0	4	10	0	0	105	46	154	5.46	1.66	1048
+"Ryan Weathers SP  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Alex Faedo SP  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Dylan Baker SP  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Nick Neidert SP  MIA "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Steven Jennings SP  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Zac Lowther SP  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Tucker Davidson SP  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Aaron Blair SP  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Aaron Civale SP  CLE "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Kyle Winkler SP  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Aaron Slegers SP  PIT "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Brandon McCarthy SP  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Yennsy Diaz SP  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Mark Sappington SP  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Tobias Myers SP  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Roniel Raudes SP  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Stephen Gonsalves SP  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Marcos Molina SP  NYM "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Johan Oviedo SP  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Tommy Collier SP  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Edwin Uceta SP  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Cole Irvin SP  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"J.C. Sulbaran SP  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Tyler Alexander SP  DET "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jeff Locke SP  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Kieran Lovegrove SP  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Juan Then SP  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Yeudy Garcia SP  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Nick Wells SP  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Stephen Landazuri SP  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Chad Kuhl SP  PIT "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Yoel Mecias SP  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Austin Hyatt SP  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Cole Winn SP  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Alex Scherff SP  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jake Kalish SP  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Odrisamer Despaigne RP  CIN "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jen-Ho Tseng SP  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Mark Appel SP  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Fernando Romero SP  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Juan Hillman SP  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jorge Reyes SP  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Luis Escobar SP  PIT "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jake Stinnett SP  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Kodi Medeiros SP  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Yoendrys Gomez SP  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Brett Martin SP  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Joan Gregorio SP  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Nick Howard SP  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Logan Shore SP  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Cory Taylor SP  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Lyon Richardson SP  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Brady Aiken SP  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Miller Diaz SP  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Ervin Santana SP  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"David Peterson SP  NYM "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Martires Arias SP  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Tyler Pike SP  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Charlie Shirek SP  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jake Woodford SP  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Ryan Helsley SP  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Cristian Javier SP  HOU"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Francisco Morales SP  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Adbert Alzolay SP  CHC "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Trey Nielsen SP  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Matthias Dietz SP  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Nabil Crismatt SP  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Kris Bubic SP  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Rafael Kelly SP  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Taylor Widener SP  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Forrest Snow SP  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Junior Fernandez SP  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Mason Thompson SP  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Dane Dunning SP  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Taylor Clarke SP  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jesse Scholtens SP  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Kyle Smith SP  HOU"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Daniel Camarena SP  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Spencer Howard SP  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Franklin Perez SP  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Carlos Hernandez SP  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Danny Gutierrez SP  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Matt Tabor SP  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Justin Dunn SP  SEA "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jordan Yamamoto SP  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Ashe Russell SP  KC "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Andrew Church SP  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Devin Williams SP  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Freddy Peralta SP  MIL "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Frank Lopez SP  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Bradin Hagens SP  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Gage Hinsz SP  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Brandon Leibrandt SP  PHI "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Henderson Alvarez SP  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Montreal Robertson SP  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Carlos Hernandez SP  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jose Soriano SP  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Adonis Medina SP  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jordan Balazovic SP  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Nick Margevicius SP  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Conner Menez SP  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Tanner Houck SP  BOS "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Ofelky Peralta SP  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Ryan Castellani SP  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Michael Mercado SP  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Rafael Cova SP  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Nolan Watson SP  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Braxton Ashcraft SP  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Mat Latos SP  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Rookie Davis SP  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jose Lopez SP  SF "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Michael Baumann SP  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Sixto Sanchez SP  PHI "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Stephen Fife SP  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Dillon Peters SP  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Rafael De Paula SP  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Rico Garcia SP  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Josiah Gray SP  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jose Mujica SP  TB "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Hans Crouse SP  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Austin Bibens-Dirkx SP  TEX "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jarret Martin SP  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Chris Paddack SP  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Chris Kohler SP  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Javier Assad SP  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Nick Martinez SP  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Mitch Brown SP  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Michael Rucker SP  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Alex Lange SP  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Zach Jemiola SP  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Johnny Hellweg SP  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Gregory Santos SP  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Greg Nappo SP  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Nick Tepesch SP  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Michael King SP  NYY "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Freicer Perez SP  NYY "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Alec Grosser SP  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Javier Medina SP  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Mike Shawaryn SP  BOS "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Eduardo Vera SP  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Peter Lambert SP  COL "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Corey Black SP  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Angel Perdomo SP  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Darwinzon Hernandez SP  BOS "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jaime Garcia RP  CHC "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Nate Smith SP  LAA "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Patrick Murphy SP  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Fabian Williamson SP  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Marcos Diplan SP  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Justin Steele SP  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Zach Petrick SP  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Ryan Atkinson SP  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jose Albertos SP  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Brandon Finnegan SP  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Alec Hansen SP  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Patrick Sandoval SP  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jackson Kowar SP  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jesus Castillo SP  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Angel German SP  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Brandon Bielak SP  HOU"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Melvin Adon SP  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Dillon Tate SP  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Pedro Payano SP  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Julian Merryweather SP  TOR "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Kevin Matthews SP  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Eduard Bazardo SP  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Logan Gilbert SP  SEA "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Michael Kelly SP  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jonathan Dziedzic SP  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Patrick Weigel SP  ATL "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Albert Abreu SP  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Logan Webb SP  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Clarke Schmidt SP  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Mitch Keller SP  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Josh Tomlin RP  CLE "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Cole Ragans SP  TEX "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"A.J. Griffin SP  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jeremy Kehrt SP  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Mitchell White SP  LAD "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Michel Baez SP  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Victor Payano SP  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jesus Sanchez SP  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Tommy Milone SP  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Willy Paredes SP  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Colin Rea SP  CHC "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Carson Sands SP  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Adrian Morejon SP  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Spencer Adams SP  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jason Groome SP  BOS "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Christian Binford SP  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Juan Benitez SP  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Troy Scribner SP  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Nick Additon SP  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Carlos Pimentel SP  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Wil Crowe SP  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Brady Lail SP  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Braxton Garrett SP  MIA "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Yaisel Sierra SP  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"John Lackey SP  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Chase Johnson SP  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Franklyn Kilome SP  NYM "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Erik Johnson SP  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Austin Cox SP  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"D.L. Hall SP  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Oscar De La Cruz SP  CHC "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Zac Gallen SP  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Victor Mateo SP  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Tyler Herb SP  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Blaine Knight SP  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Domingo Tapia SP  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Parker Dunshee SP  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Grant Holmes SP  OAK "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Konner Wade SP  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"James Needy SP  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Juan De Paula SP  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Austin Franklin SP  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jake Wong SP  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jose Taveras SP  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Brett Anderson SP  OAK "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Felix Doubront SP  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Martin Agosta SP  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Evan Grills SP  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Brady Singer SP  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Keegan Akin SP  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Connor Jones SP  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Austin Smith SP  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"John Stilson SP  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Blake Taylor SP  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Alex Young SP  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"James Kaprielian SP  OAK "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Luis Heredia SP  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Triston McKenzie SP  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Nolan Sanburn SP  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Joe Gatto SP  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"A.J. Puckett SP  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jake Johansen SP  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Dylan Unsworth SP  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"David Hurlbut SP  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Lewis Thorpe SP  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Matt Krook SP  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Dakota Chalmers SP  OAK "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Ryan Eades SP  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Ian Kahaloa SP  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Joey Wentz SP  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Enderson Franco SP  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Huascar Ynoa SP  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Peter Tago SP  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Matt Crouse SP  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Kyle Funkhouser SP  DET "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jon Harris SP  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jhondaniel Medina SP  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"A.J. Puk SP  OAK "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"A.J. Alexy SP  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Yovani Gallardo SP  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Marco Duarte SP  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Chris Tillman SP  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Dario Agrazal SP  PIT "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Erasmo Ramirez SP  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Tom Eshelman SP  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Starling Peralta SP  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Vladimir Gutierrez SP  CIN "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"James Shields SP  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Seth Romero SP  WAS "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Denyi Reyes SP  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Bryan Hudson SP  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Kutter Crawford SP  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Brody Colvin SP  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Juan Sandoval SP  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jeffrey Rosa SP  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Hunter Adkins SP  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Casey Mize SP  DET "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Teddy Stankiewicz SP  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"MacKenzie Gore SP  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Thomas Hatch SP  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Domingo Acevedo SP  NYY "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"JoJo Romero SP  PHI "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Ethan Hankins SP  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Clayton Blackburn SP  TEX "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Travis Banwart SP  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Matt Manning SP  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Ryan Rolison SP  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Garrett Davila SP  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Riley Pint SP  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Hunter Harvey SP  BAL "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Elniery Garcia SP  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Robinson Ortiz SP  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Griffin Canning SP  LAA "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Tim Lincecum SP  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Taylor Hearn SP  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Braydon Fisher SP  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Ubaldo Jimenez SP  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"J.T. Ginn SP  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Alex Wells SP  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Brendan McKay SP  TB "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Akeem Bostick SP  HOU"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Endrys Briceno SP  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jon Duplantier SP  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jose Suarez SP  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Michael Kopech SP  CHW "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jeff Ames SP  TB "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Yadier Alvarez SP  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Packy Naughton SP  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jorge Guzman SP  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jorge Alcala SP  HOU"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Chi Chi Gonzalez SP  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"D.J. Baxendale SP  MIN "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Tom Windle SP  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Santiago Garrido SP  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Brailyn Marquez SP  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Stephen Janas SP  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Rogelio Armenteros SP  HOU"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Adonys Cardona SP  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Carson Fulmer SP  CHW "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Brendon Little SP  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"John Lamb SP  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Kyle Kendrick SP  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Scott Kazmir SP  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Ariel Miranda SP  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jose Mesa SP  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Dylan Thompson SP  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Burch Smith RP  MIL "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Mason Denaburg SP  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Ryan Merritt SP  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Bryan Mata SP  BOS "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Duncan Robinson SP  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Bernardo Flores SP  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Henry Owens SP  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Rafael Montero SP  TEX "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Anthony Kay SP  NYM "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Tyler Kolek SP  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Hector Daniel Rodriguez SP  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Corey Littrell SP  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Tyler Phillips SP  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Cody Reed SP  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Daniel Lynch SP  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Robert Dugger SP  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Robert Zarate SP  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Bartolo Colon SP  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Ryan Hartman SP  HOU"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jordan Holloway SP  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Francisco Rios SP  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Branden Kline SP  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jaron Long SP  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Brusdar Graterol SP  MIN "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"P.J. Conlon SP  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"T.J. Zeuch SP  TOR "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Evan Kruczynski SP  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Kevin Gowdy SP  PHI "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Sam Coonrod SP  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Trevor Rogers SP  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Norge Ruiz SP  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Adrian Sampson SP  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Trevor Oaks SP  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Mike Nikorak SP  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Ryan Carpenter SP  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Trevor Stephan SP  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Hector Perez SP  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Nate Pearson SP  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Tony Gonsolin SP  LAD "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Gabriel Alfaro SP  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Colin Kleven SP  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jesus Tinoco SP  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Felix Jorge SP  CIN "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Chris Rodriguez SP  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Kevin Ziomek SP  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Deivi Garcia SP  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jhoan Duran SP  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"J.B. Bukauskas SP  HOU "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Brian Clark SP  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Cody Ponce SP  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Cesar Vargas SP  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Tony Santillan SP  CIN "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Will Roberts SP  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jordan Johnson SP  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Eric Pardinho SP  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Gregory Soto SP  DET "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Carter Stewart SP  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Josh Sborz SP  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Kyle Muller SP  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Hunter Greene SP  CIN "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Sam Selman SP  KC "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Zack Brown SP  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Phillippe Aumont SP  CHW "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jonathan Hernandez SP  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Luis Diaz SP  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jasseel De La Cruz SP  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Ricardo Sanchez SP  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Lance McCullers SP  HOU "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Roansy Contreras SP  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Sam Hentges SP  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jonathon Crawford SP  CIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Ricky Nolasco SP  ARI "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Dylan Cease SP  CHW "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Scott Blewett SP  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Chris Anderson SP  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Will Stewart SP  MIA "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Gerardo Carrillo SP  LAD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Garrett Whitlock SP  NYY "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Barret Loux SP  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Joan Baez SP  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Zack Bird SP  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jordan Pries SP  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Blayne Enlow SP  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Cameron Bishop SP  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Garrett Fulenchek SP  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Doug Fister SP  TEX "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Cody Satterwhite SP  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Matt Sauer SP  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Yefri Del Rosario SP  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Beau Burrows SP  DET"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Darin Gorski SP  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Kyle Lloyd SP  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Foster Griffin SP  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Luis Gil SP  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Austin Wood SP  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Corbin Martin SP  HOU"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Ian Clarkin SP  CHW "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Trevor Clifton SP  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Cal Quantrill SP  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Conner Greene SP  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Bobby Bundy SP  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Duane Underwood SP  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Dustin May SP  LAD "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Genesis Cabrera SP  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Shane McClanahan SP  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Justin Maese SP  TOR "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Ismael Guillon SP  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Kyle Haynes SP  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jon Perrin SP  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Tyler Beede SP  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Brandon Waddell SP  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Luis Mateo SP  NYM"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Williams Perez SP  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Thomas Szapucki SP  NYM "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Ryan Williams SP  CHC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Zach Nuding SP  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Lupe Chavez SP  HOU"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Hisashi Iwakuma SP  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Drew Hutchison RP  NYY "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jordan Stephens SP  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Braulio Lara SP  WAS"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Luis Rijo SP  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Miguel Gonzalez SP  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Andrew Albers SP  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Ranger Suarez SP  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Alex Meyer SP  LAA "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Willy Ortiz SP  TOR"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Tyler DeLoach SP  LAA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jairo Solis SP  HOU "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Anthony Vasquez SP  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jonathon Niese SP  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Max Fried SP  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Emilio Vargas SP  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Dace Kime SP  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Raul Alcantara SP  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Andrew Thurman SP  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Michael Matuella SP  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Luis Patino SP  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Gerson Garabito SP  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Edgar Osuna SP  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Matthew Liberatore SP  TB"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Zach Lovvorn SP  KC"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Elijah Morgan SP  CLE"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Alex Balog SP  COL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Alvaro Seijas SP  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Joe Palumbo SP  TEX"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Walker Lockett SP  NYM "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Casey Crosby SP  MIN"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Clay Buchholz SP  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Ramon Benjamin SP  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Francisco Liriano SP  PIT "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Brent Suter SP  MIL "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Kyle Young SP  PHI"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Trey Ball SP  BOS "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Cody Sedlock SP  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Christian Bergman SP  CHC "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Bryan Evans SP  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Dietrich Enns SP  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Ljay Newsome SP  SEA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Tahnaj Thomas SP  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Shaun Anderson SP  SF"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Dean Kremer SP  BAL "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Luis Medina SP  NYY"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Josh Pennington SP  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jose Martinez SP  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Ian Oxnevad SP  STL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jordan Guerrero SP  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+""Kendall Graveman SP  CHC ""	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Edward Cabrera SP  MIA"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Luis Oviedo SP  CLE "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Danny Rosenbaum SP  BOS"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Brett Adcock SP  HOU"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Jimmy Lambert SP  CHW"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Anderson Espinoza SP  SD "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Pedro Avila SP  SD"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Daulton Jefferies SP  OAK "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Sam Carlson SP  SEA "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Shane Baz SP  PIT"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Grayson Rodriguez SP  BAL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Skylar Szynski SP  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Edwin Jackson SP  OAK"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Ian Anderson SP  ATL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Andrew Barbosa SP  MIL"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Garrett Richards SP  SD "	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999
+"Terry Doyle SP  ARI"	0	0	0	0	0	0	0	0	0	0	0	0	0.00	0.00	9999

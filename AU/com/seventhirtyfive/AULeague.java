@@ -19,10 +19,10 @@ public class AULeague {
     // This number is used to determine player values.  We actually use 
     // 300 as a cap value, but the salaries have traditionally been determined
     // based on a 260 salary cap value.
-    public static final int SALARY_CAP = 260;
+    public static final int SALARY_CAP = 300;
     //public static final int BATTER_MONEY = 260;
-    public static final int BATTER_MONEY = 260;		// needed to adjust this after finding a bug in the weighted average
-    public static final int PITCHER_MONEY = 260;
+    public static final int BATTER_MONEY = 200;		// needed to adjust this after finding a bug in the weighted average
+    public static final int PITCHER_MONEY = 320;
     
     public static AULeague getInstance() {
     	if (mSingleton == null) {

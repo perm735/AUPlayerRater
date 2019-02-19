@@ -20,7 +20,7 @@ public class PlayerRater {
 	public static final boolean USE_SCARCITY_MODIFIER = true;
 	public static final double SCARCITY_MODIFIER = 0.10;		// 20 percent
 	
-	public static final String BASEDIR = "/mnt/hgfs/Documents/Source/AUPlayerRater/AU/data/";
+	public static final String BASEDIR = "/home/mschassberger/Source/AUPlayerRater/AU/data/";
 	
 	public static final String CURRENTYEAR = "2019";
 	public static final String LASTYEAR = "2018";

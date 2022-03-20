@@ -79,7 +79,7 @@ public class AUPitcher extends AUPlayer implements Comparable<AUPitcher> {
     	// get the percentages
     	double innAvg = (double)stats.getInnings() / (l.getInnAverage());     // 2013: Weight innings more without affecting ERA/WHIP
     	                                                                      // 2014: Roll back 2013 change
-    	double savesAvg = (double)stats.getSaves() / l.getSaveAverage();      // pare down the value of saves
+    	double savesAvg = (double)stats.getSaves() / (l.getSaveAverage());      // pare down the value of saves
     	                                                                      // 2016: actually pare down the value of saves
     	
     	double kAvg = (double)stats.getStrikeouts() / l.getKAverage();
@@ -96,7 +96,13 @@ public class AUPitcher extends AUPlayer implements Comparable<AUPitcher> {
     	if (avgPercentage*AULeague.PITCHER_MONEY < 1.0) {
     		return 1.0;			// return 1 dollar
     	} else {
-        	return (double)Math.round(avgPercentage/2*AULeague.PITCHER_MONEY);
+    		if(this.isEligible(AUPlayerPosition.RELIEF_PITCHER)) {
+    			return (double)Math.round(avgPercentage/4*AULeague.PITCHER_MONEY);
+    		}
+    		else {
+    			return (double)Math.round(avgPercentage/2*AULeague.PITCHER_MONEY);
+    		}
+        	
     	}
     }
     public void writePlayer( BufferedOutputStream os ) {

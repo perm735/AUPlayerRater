@@ -23,7 +23,8 @@ if [ -e "$PREFILE" ]; then
     rm $PREFILE
 fi
 
-cut -d, -f1 --complement $FILE >> $PREFILE
+#cut -d, -f1 --complement $FILE >> $PREFILE
+gcut -d, -f1 --complement $FILE >> $PREFILE
 
 #TODO: don't do the first two lines
 counter=0

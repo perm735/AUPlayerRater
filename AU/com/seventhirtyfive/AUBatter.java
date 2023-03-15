@@ -134,7 +134,7 @@ public class AUBatter extends AUPlayer implements Comparable<AUBatter>{
     	// get the average
     	double avgPercentage = (abAvg+runAvg+hrAvg+rbiAvg+sbAvg+baAvg+slgAvg+obpAvg) / 8.0;
     	
-    	if (avgPercentage*AULeague.BATTER_MONEY < 1.0) {
+    	if (avgPercentage*AULeague.BATTER_MONEY < 5.0) {
     		return 1.0;			// return 1 dollar
     	} else {
     		double price = avgPercentage*AULeague.BATTER_MONEY;

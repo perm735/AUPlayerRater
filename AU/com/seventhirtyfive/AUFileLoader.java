@@ -310,7 +310,8 @@ public class AUFileLoader {
 				pStats.setLosses(Integer.parseInt(parsedLine[offset++]));
 				pStats.setSaves(Integer.parseInt(parsedLine[offset++]));
 				// parsedLine[8]	Blown Saves
-				offset++;
+				// parsedLine[9]	Holds
+				offset+=2;
 				pStats.setStrikeouts(Integer.parseInt(parsedLine[offset++]));
 				pStats.setWalks(Integer.parseInt(parsedLine[offset++]));
 				pStats.setHitsAgainst(Integer.parseInt(parsedLine[offset++]));
@@ -372,7 +373,8 @@ public class AUFileLoader {
             stats.setLosses(Integer.parseInt(parsedLine[offset++]));
             stats.setSaves(Integer.parseInt(parsedLine[offset++]));
             // parsedLine[9]		Blown saves
-            offset++;
+            // parsedLine[10]		Holds
+            offset+=2;
             stats.setStrikeouts(Integer.parseInt(parsedLine[offset++]));
             stats.setWalks(Integer.parseInt(parsedLine[offset++]));
             stats.setHitsAgainst(Integer.parseInt(parsedLine[offset++]));

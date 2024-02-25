@@ -22,8 +22,8 @@ public class PlayerRater {
 	
 	public static final String BASEDIR = "/Users/mschassberger/Source/AUPlayerRater/AU/data/";
 	
-	public static final String CURRENTYEAR = "2023";
-	public static final String LASTYEAR = "2021";
+	public static final String CURRENTYEAR = "2024";
+	public static final String LASTYEAR = "2023";
 	public static final String BATTER_FILE_PROJECTIONS = BASEDIR+CURRENTYEAR+"/"+CURRENTYEAR+"_BatterProjections.csv";
 	public static final String PITCHER_FILE_PROJECTIONS = BASEDIR+CURRENTYEAR+"/"+CURRENTYEAR+"_PitcherProjections.csv";
 	public static final String TEAM_FILE = BASEDIR+CURRENTYEAR+"/"+CURRENTYEAR+"_TeamTotals.csv";
